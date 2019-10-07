@@ -6,7 +6,7 @@ WOORD_BESTAND = 'woord-frequenties.txt'
 SLECHT_BESTAND = 'slechte-woorden.txt'
 
 BLACKLIST = {i.strip() for i in open(SLECHT_BESTAND)}
-AANTAL = 103
+AANTAL = 1000000000000000
 
 MIN = 4
 MIN_ACHTERVOEGSEL = 4
@@ -89,7 +89,7 @@ def druck_werkwoorden(werkwoorden):
             for j in v:
                 print(' ', j)
             print()
-        if i > 103:
+        if i > AANTAL:
             break
 
 

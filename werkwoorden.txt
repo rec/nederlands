@@ -1,0 +1,14012 @@
+komen
+  aankomen
+  achterkomen
+  afkomen
+  bijkomen
+  binnenkomen
+  doorkomen
+  inkomen
+  komen
+  meekomen
+  nakomen
+  omkomen
+  onderkomen
+  opkomen
+  overkomen
+  tegenkomen
+  toekomen
+  uitkomen
+  voorkomen
+  wegkomen
+
+lopen
+  aanlopen
+  achterlopen
+  aflopen
+  bijlopen
+  binnenlopen
+  doorlopen
+  inlopen
+  lopen
+  meelopen
+  nalopen
+  omlopen
+  onderlopen
+  oplopen
+  overlopen
+  toelopen
+  uitlopen
+  voorlopen
+  weglopen
+
+gaan
+  aangaan
+  afgaan
+  binnengaan
+  doorgaan
+  gaan
+  ingaan
+  meegaan
+  nagaan
+  omgaan
+  ondergaan
+  opgaan
+  overgaan
+  tegengaan
+  toegaan
+  uitgaan
+  voorgaan
+  weggaan
+
+brengen
+  aanbrengen
+  afbrengen
+  bijbrengen
+  binnenbrengen
+  brengen
+  doorbrengen
+  inbrengen
+  meebrengen
+  nabrengen
+  ombrengen
+  onderbrengen
+  opbrengen
+  overbrengen
+  toebrengen
+  uitbrengen
+  voorbrengen
+  wegbrengen
+
+werken
+  achterwerken
+  afwerken
+  bijwerken
+  binnenwerken
+  doorwerken
+  inwerken
+  meewerken
+  nawerken
+  omwerken
+  opwerken
+  overwerken
+  tegenwerken
+  toewerken
+  uitwerken
+  voorwerken
+  wegwerken
+  werken
+
+houden
+  aanhouden
+  achterhouden
+  afhouden
+  bijhouden
+  binnenhouden
+  houden
+  inhouden
+  nahouden
+  omhouden
+  onderhouden
+  ophouden
+  overhouden
+  tegenhouden
+  uithouden
+  voorhouden
+  weghouden
+
+doen
+  aandoen
+  afdoen
+  bijdoen
+  doen
+  doordoen
+  indoen
+  meedoen
+  nadoen
+  omdoen
+  onderdoen
+  opdoen
+  overdoen
+  toedoen
+  uitdoen
+  voordoen
+  wegdoen
+
+spelen
+  aanspelen
+  afspelen
+  bijspelen
+  doorspelen
+  inspelen
+  meespelen
+  naspelen
+  omspelen
+  opspelen
+  overspelen
+  spelen
+  tegenspelen
+  toespelen
+  uitspelen
+  voorspelen
+  wegspelen
+
+geven
+  aangeven
+  afgeven
+  bijgeven
+  doorgeven
+  geven
+  ingeven
+  meegeven
+  nageven
+  omgeven
+  opgeven
+  overgeven
+  toegeven
+  uitgeven
+  voorgeven
+  weggeven
+
+zetten
+  aanzetten
+  afzetten
+  bijzetten
+  doorzetten
+  inzetten
+  nazetten
+  omzetten
+  onderzetten
+  opzetten
+  overzetten
+  tegenzetten
+  uitzetten
+  voorzetten
+  wegzetten
+  zetten
+
+trekken
+  aantrekken
+  aftrekken
+  bijtrekken
+  binnentrekken
+  doortrekken
+  intrekken
+  meetrekken
+  natrekken
+  omtrekken
+  optrekken
+  overtrekken
+  trekken
+  uittrekken
+  voortrekken
+  wegtrekken
+
+vallen
+  aanvallen
+  afvallen
+  bijvallen
+  binnenvallen
+  invallen
+  meevallen
+  omvallen
+  opvallen
+  overvallen
+  tegenvallen
+  toevallen
+  uitvallen
+  vallen
+  voorvallen
+  wegvallen
+
+namen
+  aannamen
+  achternamen
+  afnamen
+  bijnamen
+  doornamen
+  innamen
+  meenamen
+  namen
+  ondernamen
+  opnamen
+  overnamen
+  toenamen
+  uitnamen
+  voornamen
+  wegnamen
+
+gaven
+  aangaven
+  afgaven
+  bijgaven
+  doorgaven
+  gaven
+  ingaven
+  meegaven
+  nagaven
+  omgaven
+  opgaven
+  overgaven
+  toegaven
+  uitgaven
+  voorgaven
+  weggaven
+
+slagen
+  aanslagen
+  afslagen
+  bijslagen
+  doorslagen
+  inslagen
+  naslagen
+  omslagen
+  onderslagen
+  opslagen
+  overslagen
+  slagen
+  tegenslagen
+  toeslagen
+  uitslagen
+  voorslagen
+
+vielen
+  aanvielen
+  afvielen
+  bijvielen
+  binnenvielen
+  invielen
+  meevielen
+  omvielen
+  opvielen
+  overvielen
+  tegenvielen
+  toevielen
+  uitvielen
+  vielen
+  voorvielen
+  wegvielen
+
+trokken
+  aantrokken
+  aftrokken
+  bijtrokken
+  binnentrokken
+  doortrokken
+  introkken
+  meetrokken
+  natrokken
+  omtrokken
+  optrokken
+  overtrokken
+  trokken
+  uittrokken
+  voortrokken
+  wegtrokken
+
+schrijven
+  aanschrijven
+  afschrijven
+  bijschrijven
+  doorschrijven
+  inschrijven
+  omschrijven
+  onderschrijven
+  opschrijven
+  overschrijven
+  schrijven
+  toeschrijven
+  uitschrijven
+  voorschrijven
+  wegschrijven
+
+voeren
+  aanvoeren
+  afvoeren
+  bijvoeren
+  binnenvoeren
+  doorvoeren
+  invoeren
+  meevoeren
+  omvoeren
+  opvoeren
+  overvoeren
+  toevoeren
+  uitvoeren
+  voeren
+  wegvoeren
+
+nemen
+  aannemen
+  afnemen
+  bijnemen
+  doornemen
+  innemen
+  meenemen
+  nemen
+  ondernemen
+  opnemen
+  overnemen
+  toenemen
+  uitnemen
+  voornemen
+  wegnemen
+
+rijden
+  aanrijden
+  afrijden
+  binnenrijden
+  doorrijden
+  inrijden
+  meerijden
+  narijden
+  omrijden
+  oprijden
+  overrijden
+  rijden
+  uitrijden
+  voorrijden
+  wegrijden
+
+steken
+  aansteken
+  afsteken
+  bijsteken
+  doorsteken
+  insteken
+  ondersteken
+  opsteken
+  oversteken
+  steken
+  tegensteken
+  toesteken
+  uitsteken
+  voorsteken
+  wegsteken
+
+laten
+  aanlaten
+  achterlaten
+  aflaten
+  binnenlaten
+  doorlaten
+  inlaten
+  laten
+  nalaten
+  oplaten
+  overlaten
+  toelaten
+  uitlaten
+  voorlaten
+  weglaten
+
+halen
+  aanhalen
+  achterhalen
+  afhalen
+  bijhalen
+  binnenhalen
+  doorhalen
+  halen
+  inhalen
+  omhalen
+  ophalen
+  overhalen
+  toehalen
+  uithalen
+  weghalen
+
+dragen
+  aandragen
+  afdragen
+  bijdragen
+  dragen
+  indragen
+  meedragen
+  nadragen
+  omdragen
+  opdragen
+  overdragen
+  toedragen
+  uitdragen
+  voordragen
+  wegdragen
+
+stonden
+  aanstonden
+  achterstonden
+  afstonden
+  bijstonden
+  doorstonden
+  instonden
+  onderstonden
+  opstonden
+  overstonden
+  stonden
+  tegenstonden
+  toestonden
+  uitstonden
+  voorstonden
+
+schreven
+  aanschreven
+  afschreven
+  bijschreven
+  doorschreven
+  inschreven
+  omschreven
+  onderschreven
+  opschreven
+  overschreven
+  schreven
+  toeschreven
+  uitschreven
+  voorschreven
+  wegschreven
+
+staken
+  aanstaken
+  afstaken
+  bijstaken
+  doorstaken
+  instaken
+  onderstaken
+  opstaken
+  overstaken
+  staken
+  tegenstaken
+  toestaken
+  uitstaken
+  voorstaken
+  wegstaken
+
+reden
+  aanreden
+  afreden
+  binnenreden
+  doorreden
+  inreden
+  meereden
+  nareden
+  omreden
+  opreden
+  overreden
+  reden
+  uitreden
+  voorreden
+  wegreden
+
+leggen
+  aanleggen
+  afleggen
+  bijleggen
+  inleggen
+  leggen
+  omleggen
+  onderleggen
+  opleggen
+  overleggen
+  toeleggen
+  uitleggen
+  voorleggen
+  wegleggen
+
+stellen
+  aanstellen
+  achterstellen
+  afstellen
+  bijstellen
+  instellen
+  omstellen
+  onderstellen
+  opstellen
+  stellen
+  tegenstellen
+  toestellen
+  uitstellen
+  voorstellen
+
+delen
+  aandelen
+  achterdelen
+  delen
+  indelen
+  meedelen
+  nadelen
+  onderdelen
+  opdelen
+  tegendelen
+  toedelen
+  uitdelen
+  voordelen
+  wegdelen
+
+kijken
+  aankijken
+  afkijken
+  doorkijken
+  inkijken
+  kijken
+  meekijken
+  nakijken
+  omkijken
+  opkijken
+  overkijken
+  toekijken
+  uitkijken
+  wegkijken
+
+schieten
+  aanschieten
+  afschieten
+  binnenschieten
+  doorschieten
+  inschieten
+  omschieten
+  opschieten
+  overschieten
+  schieten
+  toeschieten
+  uitschieten
+  voorschieten
+  wegschieten
+
+keken
+  aankeken
+  afkeken
+  doorkeken
+  inkeken
+  keken
+  meekeken
+  nakeken
+  omkeken
+  opkeken
+  overkeken
+  toekeken
+  uitkeken
+  wegkeken
+
+schoten
+  aanschoten
+  afschoten
+  binnenschoten
+  doorschoten
+  inschoten
+  omschoten
+  opschoten
+  overschoten
+  schoten
+  toeschoten
+  uitschoten
+  voorschoten
+  wegschoten
+
+voerden
+  aanvoerden
+  afvoerden
+  bijvoerden
+  binnenvoerden
+  doorvoerden
+  invoerden
+  meevoerden
+  opvoerden
+  overvoerden
+  toevoerden
+  uitvoerden
+  voerden
+  wegvoerden
+
+drukken
+  aandrukken
+  afdrukken
+  bijdrukken
+  doordrukken
+  drukken
+  indrukken
+  nadrukken
+  onderdrukken
+  opdrukken
+  overdrukken
+  tegendrukken
+  uitdrukken
+
+zien
+  aanzien
+  afzien
+  doorzien
+  inzien
+  nazien
+  omzien
+  opzien
+  overzien
+  toezien
+  uitzien
+  voorzien
+  zien
+
+maken
+  aanmaken
+  afmaken
+  bijmaken
+  doormaken
+  inmaken
+  maken
+  meemaken
+  namaken
+  opmaken
+  overmaken
+  uitmaken
+  wegmaken
+
+wegen
+  achterwegen
+  afwegen
+  bijwegen
+  binnenwegen
+  doorwegen
+  meewegen
+  nawegen
+  omwegen
+  opwegen
+  overwegen
+  uitwegen
+  wegen
+
+blijven
+  aanblijven
+  achterblijven
+  afblijven
+  bijblijven
+  binnenblijven
+  blijven
+  nablijven
+  opblijven
+  overblijven
+  uitblijven
+  voorblijven
+  wegblijven
+
+stoten
+  aanstoten
+  afstoten
+  doorstoten
+  instoten
+  nastoten
+  omstoten
+  opstoten
+  stoten
+  toestoten
+  uitstoten
+  voorstoten
+  wegstoten
+
+sturen
+  aansturen
+  afsturen
+  bijsturen
+  doorsturen
+  insturen
+  meesturen
+  nasturen
+  opsturen
+  sturen
+  toesturen
+  uitsturen
+  wegsturen
+
+roepen
+  aanroepen
+  afroepen
+  binnenroepen
+  inroepen
+  naroepen
+  omroepen
+  oproepen
+  overroepen
+  roepen
+  toeroepen
+  uitroepen
+  wegroepen
+
+varen
+  aanvaren
+  afvaren
+  binnenvaren
+  doorvaren
+  invaren
+  meevaren
+  omvaren
+  opvaren
+  overvaren
+  uitvaren
+  varen
+  wegvaren
+
+slepen
+  aanslepen
+  afslepen
+  bijslepen
+  binnenslepen
+  inslepen
+  meeslepen
+  naslepen
+  omslepen
+  opslepen
+  slepen
+  uitslepen
+  wegslepen
+
+zagen
+  aanzagen
+  afzagen
+  doorzagen
+  inzagen
+  nazagen
+  omzagen
+  opzagen
+  overzagen
+  toezagen
+  uitzagen
+  voorzagen
+  zagen
+
+teken
+  aanteken
+  afteken
+  bijteken
+  inteken
+  nateken
+  onderteken
+  opteken
+  overteken
+  teken
+  uitteken
+  voorteken
+  wegteken
+
+denken
+  aandenken
+  achterdenken
+  denken
+  doordenken
+  indenken
+  meedenken
+  nadenken
+  overdenken
+  toedenken
+  uitdenken
+  wegdenken
+
+treden
+  aantreden
+  aftreden
+  bijtreden
+  binnentreden
+  intreden
+  optreden
+  overtreden
+  toetreden
+  treden
+  uittreden
+  voortreden
+
+tekenen
+  aantekenen
+  aftekenen
+  bijtekenen
+  intekenen
+  natekenen
+  ondertekenen
+  optekenen
+  overtekenen
+  tekenen
+  uittekenen
+  voortekenen
+
+drijven
+  aandrijven
+  afdrijven
+  doordrijven
+  drijven
+  indrijven
+  meedrijven
+  omdrijven
+  opdrijven
+  overdrijven
+  uitdrijven
+  wegdrijven
+
+snijden
+  aansnijden
+  afsnijden
+  bijsnijden
+  doorsnijden
+  insnijden
+  opsnijden
+  snijden
+  toesnijden
+  uitsnijden
+  voorsnijden
+  wegsnijden
+
+hangen
+  aanhangen
+  afhangen
+  bijhangen
+  doorhangen
+  hangen
+  omhangen
+  ophangen
+  overhangen
+  uithangen
+  voorhangen
+  weghangen
+
+blazen
+  aanblazen
+  afblazen
+  blazen
+  doorblazen
+  inblazen
+  meeblazen
+  omblazen
+  opblazen
+  overblazen
+  uitblazen
+  wegblazen
+
+lichten
+  aanlichten
+  achterlichten
+  bijlichten
+  doorlichten
+  inlichten
+  lichten
+  oplichten
+  tegenlichten
+  toelichten
+  uitlichten
+  voorlichten
+
+werpen
+  afwerpen
+  inwerpen
+  omwerpen
+  onderwerpen
+  opwerpen
+  tegenwerpen
+  toewerpen
+  uitwerpen
+  voorwerpen
+  wegwerpen
+  werpen
+
+draaien
+  aandraaien
+  afdraaien
+  bijdraaien
+  doordraaien
+  draaien
+  indraaien
+  meedraaien
+  omdraaien
+  opdraaien
+  uitdraaien
+  wegdraaien
+
+schuiven
+  aanschuiven
+  afschuiven
+  bijschuiven
+  binnenschuiven
+  doorschuiven
+  inschuiven
+  onderschuiven
+  opschuiven
+  schuiven
+  uitschuiven
+  wegschuiven
+
+vliegen
+  aanvliegen
+  afvliegen
+  binnenvliegen
+  invliegen
+  meevliegen
+  omvliegen
+  opvliegen
+  overvliegen
+  uitvliegen
+  vliegen
+  wegvliegen
+
+bouwen
+  aanbouwen
+  afbouwen
+  bijbouwen
+  bouwen
+  inbouwen
+  meebouwen
+  nabouwen
+  ombouwen
+  onderbouwen
+  opbouwen
+  uitbouwen
+
+kopen
+  aankopen
+  afkopen
+  bijkopen
+  inkopen
+  kopen
+  omkopen
+  opkopen
+  overkopen
+  uitkopen
+  voorkopen
+  wegkopen
+
+praten
+  aanpraten
+  bijpraten
+  doorpraten
+  inpraten
+  meepraten
+  napraten
+  ompraten
+  praten
+  uitpraten
+  voorpraten
+  wegpraten
+
+zitten
+  aanzitten
+  bijzitten
+  inzitten
+  meezitten
+  nazitten
+  opzitten
+  overzitten
+  tegenzitten
+  uitzitten
+  voorzitten
+  zitten
+
+stromen
+  afstromen
+  binnenstromen
+  doorstromen
+  instromen
+  onderstromen
+  overstromen
+  stromen
+  tegenstromen
+  toestromen
+  uitstromen
+  wegstromen
+
+dreven
+  aandreven
+  afdreven
+  doordreven
+  dreven
+  indreven
+  meedreven
+  omdreven
+  opdreven
+  overdreven
+  uitdreven
+  wegdreven
+
+spraken
+  aanspraken
+  afspraken
+  doorspraken
+  inspraken
+  naspraken
+  overspraken
+  spraken
+  tegenspraken
+  toespraken
+  uitspraken
+  voorspraken
+
+rollen
+  aanrollen
+  afrollen
+  bijrollen
+  doorrollen
+  inrollen
+  narollen
+  omrollen
+  oprollen
+  rollen
+  uitrollen
+  wegrollen
+
+traden
+  aantraden
+  aftraden
+  bijtraden
+  binnentraden
+  intraden
+  optraden
+  overtraden
+  toetraden
+  traden
+  uittraden
+  voortraden
+
+lagen
+  aanlagen
+  achterlagen
+  bijlagen
+  doorlagen
+  inlagen
+  lagen
+  omlagen
+  onderlagen
+  oplagen
+  toelagen
+  voorlagen
+
+hingen
+  aanhingen
+  afhingen
+  bijhingen
+  doorhingen
+  hingen
+  omhingen
+  ophingen
+  overhingen
+  uithingen
+  voorhingen
+  weghingen
+
+breken
+  aanbreken
+  afbreken
+  binnenbreken
+  breken
+  doorbreken
+  inbreken
+  onderbreken
+  opbreken
+  uitbreken
+  wegbreken
+
+spreken
+  aanspreken
+  afspreken
+  doorspreken
+  inspreken
+  naspreken
+  spreken
+  tegenspreken
+  toespreken
+  uitspreken
+  voorspreken
+
+vragen
+  aanvragen
+  afvragen
+  doorvragen
+  meevragen
+  navragen
+  ondervragen
+  opvragen
+  overvragen
+  uitvragen
+  vragen
+
+bakken
+  aanbakken
+  achterbakken
+  afbakken
+  bakken
+  doorbakken
+  inbakken
+  meebakken
+  opbakken
+  uitbakken
+  voorbakken
+
+rekenen
+  aanrekenen
+  afrekenen
+  inrekenen
+  meerekenen
+  narekenen
+  omrekenen
+  rekenen
+  toerekenen
+  uitrekenen
+  voorrekenen
+
+leven
+  afleven
+  doorleven
+  inleven
+  leven
+  meeleven
+  naleven
+  opleven
+  overleven
+  toeleven
+  uitleven
+
+gooien
+  aangooien
+  afgooien
+  bijgooien
+  gooien
+  ingooien
+  omgooien
+  opgooien
+  toegooien
+  uitgooien
+  weggooien
+
+zenden
+  afzenden
+  doorzenden
+  inzenden
+  meezenden
+  nazenden
+  opzenden
+  toezenden
+  uitzenden
+  wegzenden
+  zenden
+
+branden
+  aanbranden
+  afbranden
+  binnenbranden
+  branden
+  doorbranden
+  inbranden
+  nabranden
+  opbranden
+  uitbranden
+  wegbranden
+
+leveren
+  aanleveren
+  afleveren
+  bijleveren
+  inleveren
+  leveren
+  naleveren
+  opleveren
+  overleveren
+  toeleveren
+  uitleveren
+
+buigen
+  afbuigen
+  bijbuigen
+  buigen
+  doorbuigen
+  inbuigen
+  meebuigen
+  ombuigen
+  overbuigen
+  toebuigen
+  uitbuigen
+
+spannen
+  aanspannen
+  afspannen
+  inspannen
+  omspannen
+  onderspannen
+  opspannen
+  overspannen
+  spannen
+  uitspannen
+  voorspannen
+
+waaien
+  aanwaaien
+  afwaaien
+  inwaaien
+  meewaaien
+  omwaaien
+  opwaaien
+  overwaaien
+  uitwaaien
+  waaien
+  wegwaaien
+
+springen
+  aanspringen
+  afspringen
+  bijspringen
+  inspringen
+  omspringen
+  opspringen
+  overspringen
+  springen
+  uitspringen
+  wegspringen
+
+lezen
+  aflezen
+  doorlezen
+  inlezen
+  lezen
+  meelezen
+  nalezen
+  oplezen
+  overlezen
+  uitlezen
+  voorlezen
+
+laden
+  afladen
+  bijladen
+  doorladen
+  inladen
+  laden
+  meeladen
+  omladen
+  opladen
+  overladen
+  uitladen
+
+vroegen
+  aanvroegen
+  afvroegen
+  doorvroegen
+  meevroegen
+  navroegen
+  ondervroegen
+  opvroegen
+  overvroegen
+  uitvroegen
+  vroegen
+
+braken
+  aanbraken
+  afbraken
+  binnenbraken
+  braken
+  doorbraken
+  inbraken
+  onderbraken
+  opbraken
+  uitbraken
+  wegbraken
+
+reken
+  aanreken
+  afreken
+  inreken
+  meereken
+  nareken
+  omreken
+  reken
+  toereken
+  uitreken
+  voorreken
+
+sluiten
+  aansluiten
+  afsluiten
+  bijsluiten
+  insluiten
+  omsluiten
+  opsluiten
+  sluiten
+  uitsluiten
+  wegsluiten
+
+pakken
+  aanpakken
+  afpakken
+  inpakken
+  meepakken
+  ompakken
+  oppakken
+  pakken
+  uitpakken
+  wegpakken
+
+zoeken
+  aanzoeken
+  afzoeken
+  doorzoeken
+  meezoeken
+  nazoeken
+  onderzoeken
+  opzoeken
+  uitzoeken
+  zoeken
+
+stemmen
+  afstemmen
+  instemmen
+  meestemmen
+  overstemmen
+  stemmen
+  tegenstemmen
+  toestemmen
+  voorstemmen
+  wegstemmen
+
+wassen
+  aanwassen
+  afwassen
+  inwassen
+  omwassen
+  opwassen
+  uitwassen
+  voorwassen
+  wassen
+  wegwassen
+
+koken
+  afkoken
+  doorkoken
+  inkoken
+  koken
+  meekoken
+  opkoken
+  overkoken
+  uitkoken
+  voorkoken
+
+spoelen
+  aanspoelen
+  afspoelen
+  doorspoelen
+  naspoelen
+  omspoelen
+  overspoelen
+  spoelen
+  uitspoelen
+  wegspoelen
+
+dekken
+  achterdekken
+  afdekken
+  dekken
+  indekken
+  opdekken
+  overdekken
+  toedekken
+  voordekken
+  wegdekken
+
+duwen
+  aanduwen
+  afduwen
+  doorduwen
+  duwen
+  induwen
+  omduwen
+  opduwen
+  uitduwen
+  wegduwen
+
+gieten
+  aangieten
+  afgieten
+  bijgieten
+  gieten
+  ingieten
+  opgieten
+  overgieten
+  uitgieten
+  weggieten
+
+jagen
+  aanjagen
+  afjagen
+  doorjagen
+  injagen
+  jagen
+  najagen
+  opjagen
+  overjagen
+  wegjagen
+
+graven
+  afgraven
+  doorgraven
+  graven
+  ingraven
+  omgraven
+  ondergraven
+  opgraven
+  uitgraven
+  weggraven
+
+binden
+  aanbinden
+  afbinden
+  binden
+  inbinden
+  ombinden
+  onderbinden
+  opbinden
+  toebinden
+  voorbinden
+
+meten
+  aanmeten
+  afmeten
+  doormeten
+  inmeten
+  meten
+  nameten
+  opmeten
+  toemeten
+  uitmeten
+
+trappen
+  aantrappen
+  aftrappen
+  doortrappen
+  intrappen
+  natrappen
+  omtrappen
+  trappen
+  uittrappen
+  wegtrappen
+
+kanten
+  achterkanten
+  afkanten
+  binnenkanten
+  kanten
+  onderkanten
+  overkanten
+  tegenkanten
+  voorkanten
+  wegkanten
+
+groeven
+  afgroeven
+  doorgroeven
+  groeven
+  ingroeven
+  omgroeven
+  ondergroeven
+  opgroeven
+  uitgroeven
+  weggroeven
+
+spoelden
+  aanspoelden
+  afspoelden
+  doorspoelden
+  naspoelden
+  omspoelden
+  overspoelden
+  spoelden
+  uitspoelden
+  wegspoelden
+
+laadden
+  aflaadden
+  bijlaadden
+  doorlaadden
+  inlaadden
+  laadden
+  omlaadden
+  oplaadden
+  overlaadden
+  uitlaadden
+
+goten
+  aangoten
+  afgoten
+  bijgoten
+  goten
+  ingoten
+  opgoten
+  overgoten
+  uitgoten
+  weggoten
+
+jaagden
+  aanjaagden
+  afjaagden
+  doorjaagden
+  injaagden
+  jaagden
+  najaagden
+  opjaagden
+  overjaagden
+  wegjaagden
+
+joegen
+  aanjoegen
+  afjoegen
+  doorjoegen
+  injoegen
+  joegen
+  najoegen
+  opjoegen
+  overjoegen
+  wegjoegen
+
+bonden
+  aanbonden
+  afbonden
+  bonden
+  inbonden
+  ombonden
+  onderbonden
+  opbonden
+  toebonden
+  voorbonden
+
+brandden
+  aanbrandden
+  afbrandden
+  brandden
+  doorbrandden
+  inbrandden
+  nabrandden
+  opbrandden
+  uitbrandden
+  wegbrandden
+
+duwden
+  aanduwden
+  afduwden
+  doorduwden
+  duwden
+  induwden
+  omduwden
+  opduwden
+  uitduwden
+  wegduwden
+
+maten
+  aanmaten
+  afmaten
+  doormaten
+  inmaten
+  maten
+  namaten
+  opmaten
+  toematen
+  uitmaten
+
+pakten
+  aanpakten
+  afpakten
+  inpakten
+  meepakten
+  ompakten
+  oppakten
+  pakten
+  uitpakten
+  wegpakten
+
+sloten
+  aansloten
+  afsloten
+  bijsloten
+  insloten
+  omsloten
+  opsloten
+  sloten
+  uitsloten
+  wegsloten
+
+trapten
+  aantrapten
+  aftrapten
+  doortrapten
+  intrapten
+  natrapten
+  omtrapten
+  trapten
+  uittrapten
+  wegtrapten
+
+woeien
+  aanwoeien
+  afwoeien
+  inwoeien
+  omwoeien
+  opwoeien
+  overwoeien
+  uitwoeien
+  wegwoeien
+  woeien
+
+bogen
+  afbogen
+  bogen
+  doorbogen
+  inbogen
+  meebogen
+  ombogen
+  overbogen
+  toebogen
+  uitbogen
+
+kookten
+  afkookten
+  doorkookten
+  inkookten
+  kookten
+  meekookten
+  opkookten
+  overkookten
+  uitkookten
+  voorkookten
+
+lichtten
+  aanlichtten
+  bijlichtten
+  doorlichtten
+  inlichtten
+  lichtten
+  oplichtten
+  toelichtten
+  uitlichtten
+  voorlichtten
+
+stemden
+  afstemden
+  instemden
+  meestemden
+  overstemden
+  stemden
+  tegenstemden
+  toestemden
+  voorstemden
+  wegstemden
+
+rolden
+  aanrolden
+  afrolden
+  doorrolden
+  inrolden
+  omrolden
+  oprolden
+  rolden
+  uitrolden
+  wegrolden
+
+dringen
+  aandringen
+  binnendringen
+  doordringen
+  dringen
+  indringen
+  opdringen
+  voordringen
+  wegdringen
+
+schepen
+  achterschepen
+  afschepen
+  binnenschepen
+  inschepen
+  opschepen
+  overschepen
+  schepen
+  voorschepen
+
+vullen
+  aanvullen
+  afvullen
+  bijvullen
+  invullen
+  navullen
+  opvullen
+  uitvullen
+  vullen
+
+dienen
+  aandienen
+  afdienen
+  dienen
+  indienen
+  opdienen
+  toedienen
+  uitdienen
+  voordienen
+
+tellen
+  aftellen
+  bijtellen
+  meetellen
+  natellen
+  optellen
+  tellen
+  uittellen
+  voortellen
+
+reizen
+  afreizen
+  doorreizen
+  inreizen
+  meereizen
+  nareizen
+  omreizen
+  reizen
+  uitreizen
+
+zakken
+  achterzakken
+  afzakken
+  binnenzakken
+  doorzakken
+  inzakken
+  uitzakken
+  wegzakken
+  zakken
+
+leiden
+  afleiden
+  inleiden
+  leiden
+  omleiden
+  opleiden
+  uitleiden
+  voorleiden
+  wegleiden
+
+betalen
+  aanbetalen
+  afbetalen
+  betalen
+  bijbetalen
+  doorbetalen
+  meebetalen
+  onderbetalen
+  uitbetalen
+
+knippen
+  aanknippen
+  afknippen
+  bijknippen
+  doorknippen
+  knippen
+  opknippen
+  uitknippen
+  wegknippen
+
+smeren
+  aansmeren
+  afsmeren
+  bijsmeren
+  doorsmeren
+  insmeren
+  opsmeren
+  smeren
+  uitsmeren
+
+stuiven
+  aanstuiven
+  afstuiven
+  binnenstuiven
+  instuiven
+  onderstuiven
+  opstuiven
+  stuiven
+  wegstuiven
+
+stappen
+  afstappen
+  binnenstappen
+  doorstappen
+  instappen
+  opstappen
+  overstappen
+  stappen
+  uitstappen
+
+schakelen
+  aanschakelen
+  afschakelen
+  doorschakelen
+  inschakelen
+  omschakelen
+  overschakelen
+  schakelen
+  uitschakelen
+
+wezen
+  aanwezen
+  afwezen
+  nawezen
+  onderwezen
+  toewezen
+  uitwezen
+  wegwezen
+  wezen
+
+drongen
+  aandrongen
+  binnendrongen
+  doordrongen
+  drongen
+  indrongen
+  opdrongen
+  voordrongen
+  wegdrongen
+
+schrijvingen
+  aanschrijvingen
+  afschrijvingen
+  bijschrijvingen
+  inschrijvingen
+  omschrijvingen
+  overschrijvingen
+  toeschrijvingen
+  uitschrijvingen
+
+ritten
+  afritten
+  doorritten
+  inritten
+  omritten
+  opritten
+  ritten
+  uitritten
+  wegritten
+
+zichten
+  aanzichten
+  afzichten
+  doorzichten
+  inzichten
+  opzichten
+  overzichten
+  uitzichten
+  zichten
+
+leveringen
+  aanleveringen
+  afleveringen
+  leveringen
+  naleveringen
+  opleveringen
+  overleveringen
+  toeleveringen
+  uitleveringen
+
+boden
+  aanboden
+  afboden
+  boden
+  meeboden
+  onderboden
+  opboden
+  overboden
+  voorboden
+
+betaalden
+  aanbetaalden
+  afbetaalden
+  betaalden
+  bijbetaalden
+  doorbetaalden
+  meebetaalden
+  onderbetaalden
+  uitbetaalden
+
+boorden
+  aanboorden
+  afboorden
+  boorden
+  doorboorden
+  inboorden
+  omboorden
+  opboorden
+  uitboorden
+
+wogen
+  afwogen
+  doorwogen
+  meewogen
+  nawogen
+  opwogen
+  overwogen
+  uitwogen
+  wogen
+
+tochten
+  aantochten
+  aftochten
+  doortochten
+  intochten
+  optochten
+  overtochten
+  tochten
+  uittochten
+
+vreten
+  aanvreten
+  afvreten
+  invreten
+  opvreten
+  overvreten
+  uitvreten
+  vreten
+  wegvreten
+
+schenken
+  afschenken
+  bijschenken
+  inschenken
+  opschenken
+  overschenken
+  schenken
+  uitschenken
+  wegschenken
+
+smeerden
+  aansmeerden
+  afsmeerden
+  bijsmeerden
+  doorsmeerden
+  insmeerden
+  opsmeerden
+  smeerden
+  uitsmeerden
+
+liggen
+  aanliggen
+  achterliggen
+  bijliggen
+  doorliggen
+  liggen
+  omliggen
+  onderliggen
+  voorliggen
+
+leidden
+  afleidden
+  inleidden
+  leidden
+  omleidden
+  opleidden
+  uitleidden
+  voorleidden
+  wegleidden
+
+bakten
+  aanbakten
+  afbakten
+  bakten
+  inbakten
+  meebakten
+  opbakten
+  uitbakten
+  voorbakten
+
+dienden
+  aandienden
+  afdienden
+  dienden
+  indienden
+  opdienden
+  toedienden
+  uitdienden
+  voordienden
+
+knipten
+  aanknipten
+  afknipten
+  bijknipten
+  doorknipten
+  knipten
+  opknipten
+  uitknipten
+  wegknipten
+
+schakelden
+  aanschakelden
+  afschakelden
+  doorschakelden
+  inschakelden
+  omschakelden
+  overschakelden
+  schakelden
+  uitschakelden
+
+stoven
+  aanstoven
+  afstoven
+  binnenstoven
+  instoven
+  onderstoven
+  opstoven
+  stoven
+  wegstoven
+
+streken
+  aanstreken
+  afstreken
+  instreken
+  omstreken
+  opstreken
+  streken
+  uitstreken
+  wegstreken
+
+vulden
+  aanvulden
+  afvulden
+  bijvulden
+  invulden
+  navulden
+  opvulden
+  uitvulden
+  vulden
+
+telden
+  aftelden
+  bijtelden
+  meetelden
+  natelden
+  optelden
+  telden
+  uittelden
+  voortelden
+
+schonken
+  afschonken
+  bijschonken
+  inschonken
+  opschonken
+  overschonken
+  schonken
+  uitschonken
+  wegschonken
+
+stapten
+  afstapten
+  binnenstapten
+  doorstapten
+  instapten
+  opstapten
+  overstapten
+  stapten
+  uitstapten
+
+vraten
+  aanvraten
+  afvraten
+  invraten
+  opvraten
+  overvraten
+  uitvraten
+  vraten
+  wegvraten
+
+pompen
+  afpompen
+  bijpompen
+  inpompen
+  oppompen
+  overpompen
+  pompen
+  uitpompen
+  wegpompen
+
+pompten
+  afpompten
+  bijpompten
+  inpompten
+  oppompten
+  overpompten
+  pompten
+  uitpompten
+  wegpompten
+
+pikken
+  aanpikken
+  afpikken
+  inpikken
+  meepikken
+  oppikken
+  pikken
+  uitpikken
+  wegpikken
+
+pikten
+  aanpikten
+  afpikten
+  inpikten
+  meepikten
+  oppikten
+  pikten
+  uitpikten
+  wegpikten
+
+bieden
+  aanbieden
+  afbieden
+  bieden
+  meebieden
+  onderbieden
+  opbieden
+  overbieden
+
+richten
+  aanrichten
+  africhten
+  inrichten
+  onderrichten
+  oprichten
+  richten
+  uitrichten
+
+wijzen
+  aanwijzen
+  afwijzen
+  nawijzen
+  onderwijzen
+  toewijzen
+  uitwijzen
+  wijzen
+
+beelden
+  aanbeelden
+  afbeelden
+  beelden
+  inbeelden
+  tegenbeelden
+  uitbeelden
+  voorbeelden
+
+zeggen
+  aanzeggen
+  afzeggen
+  nazeggen
+  opzeggen
+  toezeggen
+  voorzeggen
+  zeggen
+
+passen
+  aanpassen
+  afpassen
+  bijpassen
+  inpassen
+  oppassen
+  passen
+  toepassen
+
+strijken
+  aanstrijken
+  afstrijken
+  instrijken
+  opstrijken
+  strijken
+  uitstrijken
+  wegstrijken
+
+tuigen
+  aantuigen
+  achtertuigen
+  aftuigen
+  intuigen
+  optuigen
+  overtuigen
+  tuigen
+
+voegen
+  aanvoegen
+  achtervoegen
+  afvoegen
+  bijvoegen
+  invoegen
+  toevoegen
+  voegen
+
+lachen
+  aanlachen
+  aflachen
+  lachen
+  tegenlachen
+  toelachen
+  uitlachen
+  weglachen
+
+kleden
+  aankleden
+  afkleden
+  inkleden
+  kleden
+  omkleden
+  opkleden
+  uitkleden
+
+vangen
+  aanvangen
+  afvangen
+  invangen
+  omvangen
+  ondervangen
+  opvangen
+  vangen
+
+benen
+  aanbenen
+  achterbenen
+  benen
+  bijbenen
+  onderbenen
+  uitbenen
+  voorbenen
+
+zuigen
+  aanzuigen
+  afzuigen
+  inzuigen
+  opzuigen
+  uitzuigen
+  wegzuigen
+  zuigen
+
+kruipen
+  doorkruipen
+  inkruipen
+  kruipen
+  omkruipen
+  onderkruipen
+  opkruipen
+  wegkruipen
+
+zingen
+  inzingen
+  meezingen
+  nazingen
+  toezingen
+  uitzingen
+  voorzingen
+  zingen
+
+bijten
+  aanbijten
+  afbijten
+  bijten
+  doorbijten
+  inbijten
+  toebijten
+  uitbijten
+
+krijgen
+  aankrijgen
+  afkrijgen
+  binnenkrijgen
+  doorkrijgen
+  krijgen
+  meekrijgen
+  uitkrijgen
+
+lijnen
+  aanlijnen
+  achterlijnen
+  aflijnen
+  lijnen
+  omlijnen
+  onderlijnen
+  uitlijnen
+
+rukken
+  aanrukken
+  afrukken
+  inrukken
+  oprukken
+  rukken
+  uitrukken
+  wegrukken
+
+standen
+  achterstanden
+  afstanden
+  onderstanden
+  opstanden
+  overstanden
+  standen
+  toestanden
+
+nemingen
+  aannemingen
+  afnemingen
+  innemingen
+  nemingen
+  ondernemingen
+  opnemingen
+  toenemingen
+
+giften
+  aangiften
+  afgiften
+  doorgiften
+  giften
+  tegengiften
+  toegiften
+  uitgiften
+
+hebben
+  aanhebben
+  doorhebben
+  hebben
+  inhebben
+  ophebben
+  overhebben
+  voorhebben
+
+baden
+  aanbaden
+  afbaden
+  baden
+  binnenbaden
+  meebaden
+  toebaden
+  voorbaden
+
+aten
+  afaten
+  aten
+  dooraten
+  meeaten
+  opaten
+  overaten
+  tegenaten
+
+richtten
+  aanrichtten
+  africhtten
+  inrichtten
+  onderrichtten
+  oprichtten
+  richtten
+  uitrichtten
+
+beten
+  aanbeten
+  afbeten
+  beten
+  doorbeten
+  inbeten
+  toebeten
+  uitbeten
+
+schriften
+  afschriften
+  bijschriften
+  naschriften
+  onderschriften
+  opschriften
+  schriften
+  voorschriften
+
+zongen
+  inzongen
+  meezongen
+  nazongen
+  toezongen
+  uitzongen
+  voorzongen
+  zongen
+
+vingen
+  aanvingen
+  afvingen
+  invingen
+  omvingen
+  ondervingen
+  opvingen
+  vingen
+
+kleedden
+  aankleedden
+  afkleedden
+  inkleedden
+  kleedden
+  omkleedden
+  opkleedden
+  uitkleedden
+
+zegden
+  aanzegden
+  afzegden
+  nazegden
+  opzegden
+  toezegden
+  voorzegden
+  zegden
+
+zeiden
+  aanzeiden
+  afzeiden
+  nazeiden
+  opzeiden
+  toezeiden
+  voorzeiden
+  zeiden
+
+kregen
+  aankregen
+  afkregen
+  binnenkregen
+  doorkregen
+  kregen
+  meekregen
+  uitkregen
+
+lachten
+  aanlachten
+  aflachten
+  lachten
+  tegenlachten
+  toelachten
+  uitlachten
+  weglachten
+
+pasten
+  aanpasten
+  afpasten
+  bijpasten
+  inpasten
+  oppasten
+  pasten
+  toepasten
+
+rukten
+  aanrukten
+  afrukten
+  inrukten
+  oprukten
+  rukten
+  uitrukten
+  wegrukten
+
+zogen
+  aanzogen
+  afzogen
+  inzogen
+  opzogen
+  uitzogen
+  wegzogen
+  zogen
+
+reisden
+  afreisden
+  doorreisden
+  inreisden
+  meereisden
+  nareisden
+  omreisden
+  reisden
+
+wasten
+  afwasten
+  inwasten
+  omwasten
+  uitwasten
+  voorwasten
+  wasten
+  wegwasten
+
+kropen
+  doorkropen
+  inkropen
+  kropen
+  omkropen
+  onderkropen
+  opkropen
+  wegkropen
+
+zeilen
+  aanzeilen
+  afzeilen
+  inzeilen
+  meezeilen
+  omzeilen
+  uitzeilen
+  zeilen
+
+vloeien
+  afvloeien
+  doorvloeien
+  invloeien
+  overvloeien
+  uitvloeien
+  vloeien
+  wegvloeien
+
+vloeiden
+  afvloeiden
+  doorvloeiden
+  invloeiden
+  overvloeiden
+  uitvloeiden
+  vloeiden
+  wegvloeiden
+
+bidden
+  aanbidden
+  afbidden
+  bidden
+  meebidden
+  toebidden
+  voorbidden
+
+raken
+  aanraken
+  afraken
+  binnenraken
+  opraken
+  raken
+  wegraken
+
+steven
+  aansteven
+  achtersteven
+  afsteven
+  opsteven
+  steven
+  voorsteven
+
+keren
+  afkeren
+  inkeren
+  keren
+  omkeren
+  toekeren
+  uitkeren
+
+wenden
+  aanwenden
+  afwenden
+  omwenden
+  toewenden
+  voorwenden
+  wenden
+
+vegen
+  aanvegen
+  afvegen
+  opvegen
+  uitvegen
+  vegen
+  wegvegen
+
+heen
+  achterheen
+  doorheen
+  heen
+  omheen
+  overheen
+  voorheen
+
+winnen
+  aanwinnen
+  bijwinnen
+  inwinnen
+  overwinnen
+  uitwinnen
+  winnen
+
+groeien
+  aangroeien
+  groeien
+  ingroeien
+  opgroeien
+  overgroeien
+  uitgroeien
+
+kloppen
+  aankloppen
+  afkloppen
+  inkloppen
+  kloppen
+  opkloppen
+  uitkloppen
+
+tasten
+  aantasten
+  aftasten
+  doortasten
+  optasten
+  tasten
+  toetasten
+
+drogen
+  afdrogen
+  drogen
+  indrogen
+  nadrogen
+  opdrogen
+  uitdrogen
+
+handen
+  achterhanden
+  handen
+  omhanden
+  onderhanden
+  ophanden
+  voorhanden
+
+spuiten
+  afspuiten
+  inspuiten
+  opspuiten
+  spuiten
+  uitspuiten
+  wegspuiten
+
+duiken
+  duiken
+  induiken
+  naduiken
+  onderduiken
+  opduiken
+  wegduiken
+
+stijgen
+  afstijgen
+  meestijgen
+  opstijgen
+  overstijgen
+  stijgen
+  uitstijgen
+
+boren
+  aanboren
+  boren
+  doorboren
+  inboren
+  opboren
+  uitboren
+
+lokken
+  aanlokken
+  aflokken
+  lokken
+  meelokken
+  uitlokken
+  weglokken
+
+punten
+  aanpunten
+  afpunten
+  bijpunten
+  punten
+  tegenpunten
+  voorpunten
+
+strepen
+  aanstrepen
+  afstrepen
+  doorstrepen
+  onderstrepen
+  strepen
+  wegstrepen
+
+tikken
+  aantikken
+  aftikken
+  intikken
+  tikken
+  uittikken
+  wegtikken
+
+vechten
+  aanvechten
+  doorvechten
+  invechten
+  meevechten
+  uitvechten
+  vechten
+
+voelen
+  aanvoelen
+  invoelen
+  meevoelen
+  navoelen
+  voelen
+  voorvoelen
+
+wrijven
+  aanwrijven
+  afwrijven
+  inwrijven
+  opwrijven
+  uitwrijven
+  wrijven
+
+ruimen
+  afruimen
+  inruimen
+  opruimen
+  ruimen
+  uitruimen
+  wegruimen
+
+eten
+  afeten
+  dooreten
+  eten
+  opeten
+  overeten
+  tegeneten
+
+leidingen
+  aanleidingen
+  afleidingen
+  inleidingen
+  leidingen
+  omleidingen
+  opleidingen
+
+drachten
+  afdrachten
+  drachten
+  opdrachten
+  overdrachten
+  toedrachten
+  voordrachten
+
+gronden
+  achtergronden
+  afgronden
+  doorgronden
+  gronden
+  ondergronden
+  voorgronden
+
+voelden
+  aanvoelden
+  invoelden
+  meevoelden
+  navoelden
+  voelden
+  voorvoelden
+
+deelden
+  deelden
+  indeelden
+  meedeelden
+  opdeelden
+  toedeelden
+  uitdeelden
+
+sluitingen
+  aansluitingen
+  afsluitingen
+  omsluitingen
+  opsluitingen
+  sluitingen
+  uitsluitingen
+
+vaarten
+  afvaarten
+  binnenvaarten
+  doorvaarten
+  overvaarten
+  uitvaarten
+  vaarten
+
+streepten
+  aanstreepten
+  afstreepten
+  doorstreepten
+  onderstreepten
+  streepten
+  wegstreepten
+
+wonnen
+  aanwonnen
+  bijwonnen
+  inwonnen
+  overwonnen
+  uitwonnen
+  wonnen
+
+dijken
+  aandijken
+  binnendijken
+  dijken
+  indijken
+  omdijken
+  onderdijken
+
+wateren
+  aanwateren
+  afwateren
+  binnenwateren
+  inwateren
+  uitwateren
+  wateren
+
+tuigden
+  aantuigden
+  aftuigden
+  intuigden
+  optuigden
+  overtuigden
+  tuigden
+
+veegden
+  aanveegden
+  afveegden
+  opveegden
+  uitveegden
+  veegden
+  wegveegden
+
+sluipen
+  aansluipen
+  binnensluipen
+  insluipen
+  nasluipen
+  sluipen
+  wegsluipen
+
+zijden
+  achterzijden
+  binnenzijden
+  onderzijden
+  overzijden
+  voorzijden
+  zijden
+
+voeringen
+  aanvoeringen
+  afvoeringen
+  invoeringen
+  opvoeringen
+  uitvoeringen
+  voeringen
+
+stegen
+  afstegen
+  meestegen
+  opstegen
+  overstegen
+  stegen
+  uitstegen
+
+drinken
+  afdrinken
+  drinken
+  indrinken
+  meedrinken
+  opdrinken
+  uitdrinken
+
+hakken
+  afhakken
+  doorhakken
+  hakken
+  inhakken
+  omhakken
+  uithakken
+
+hakten
+  afhakten
+  doorhakten
+  hakten
+  inhakten
+  omhakten
+  uithakten
+
+sten
+  achtersten
+  binnensten
+  insten
+  meesten
+  oversten
+  sten
+
+been
+  aanbeen
+  achterbeen
+  been
+  onderbeen
+  uitbeen
+  voorbeen
+
+smelten
+  afsmelten
+  insmelten
+  omsmelten
+  smelten
+  uitsmelten
+  wegsmelten
+
+groeiden
+  aangroeiden
+  groeiden
+  ingroeiden
+  opgroeiden
+  overgroeiden
+  uitgroeiden
+
+klopten
+  aanklopten
+  afklopten
+  inklopten
+  klopten
+  opklopten
+  uitklopten
+
+lijnden
+  aanlijnden
+  aflijnden
+  lijnden
+  omlijnden
+  onderlijnden
+  uitlijnden
+
+lokten
+  aanlokten
+  aflokten
+  lokten
+  meelokten
+  uitlokten
+  weglokten
+
+regen
+  aanregen
+  afregen
+  doorregen
+  inregen
+  regen
+  uitregen
+
+tikten
+  aantikten
+  aftikten
+  intikten
+  tikten
+  uittikten
+  wegtikten
+
+vochten
+  aanvochten
+  doorvochten
+  invochten
+  meevochten
+  uitvochten
+  vochten
+
+wendden
+  aanwendden
+  afwendden
+  omwendden
+  toewendden
+  voorwendden
+  wendden
+
+wreven
+  aanwreven
+  afwreven
+  inwreven
+  opwreven
+  uitwreven
+  wreven
+
+dekten
+  afdekten
+  dekten
+  indekten
+  opdekten
+  overdekten
+  toedekten
+
+droogden
+  afdroogden
+  droogden
+  indroogden
+  nadroogden
+  opdroogden
+  uitdroogden
+
+ruimden
+  afruimden
+  inruimden
+  opruimden
+  ruimden
+  uitruimden
+  wegruimden
+
+weken
+  afweken
+  doorweken
+  inweken
+  opweken
+  uitweken
+  weken
+
+zakten
+  afzakten
+  doorzakten
+  inzakten
+  uitzakten
+  wegzakten
+  zakten
+
+voegden
+  aanvoegden
+  achtervoegden
+  bijvoegden
+  invoegden
+  toevoegden
+  voegden
+
+zaagden
+  afzaagden
+  doorzaagden
+  inzaagden
+  omzaagden
+  uitzaagden
+  zaagden
+
+spoten
+  afspoten
+  inspoten
+  opspoten
+  spoten
+  uitspoten
+  wegspoten
+
+dronken
+  afdronken
+  dronken
+  indronken
+  meedronken
+  opdronken
+  uitdronken
+
+doken
+  doken
+  indoken
+  nadoken
+  onderdoken
+  opdoken
+  wegdoken
+
+keerden
+  afkeerden
+  inkeerden
+  keerden
+  omkeerden
+  toekeerden
+  uitkeerden
+
+smolten
+  afsmolten
+  insmolten
+  omsmolten
+  smolten
+  uitsmolten
+  wegsmolten
+
+slopen
+  aanslopen
+  binnenslopen
+  inslopen
+  naslopen
+  slopen
+  wegslopen
+
+zeilden
+  aanzeilden
+  afzeilden
+  meezeilden
+  omzeilden
+  uitzeilden
+  zeilden
+
+slijpen
+  aanslijpen
+  afslijpen
+  bijslijpen
+  inslijpen
+  slijpen
+  uitslijpen
+
+zettingen
+  afzettingen
+  inzettingen
+  omzettingen
+  opzettingen
+  uitzettingen
+  zettingen
+
+hollen
+  aanhollen
+  hollen
+  meehollen
+  nahollen
+  uithollen
+  weghollen
+
+teren
+  interen
+  opteren
+  teren
+  toeteren
+  uitteren
+  wegteren
+
+stoppen
+  afstoppen
+  instoppen
+  opstoppen
+  stoppen
+  toestoppen
+  wegstoppen
+
+stopten
+  afstopten
+  instopten
+  opstopten
+  stopten
+  toestopten
+  wegstopten
+
+smijten
+  afsmijten
+  insmijten
+  omsmijten
+  smijten
+  uitsmijten
+  wegsmijten
+
+stormen
+  aanstormen
+  afstormen
+  binnenstormen
+  instormen
+  stormen
+  wegstormen
+
+holden
+  aanholden
+  holden
+  meeholden
+  naholden
+  uitholden
+  wegholden
+
+smeten
+  afsmeten
+  insmeten
+  omsmeten
+  smeten
+  uitsmeten
+  wegsmeten
+
+stormden
+  aanstormden
+  afstormden
+  binnenstormden
+  instormden
+  stormden
+  wegstormden
+
+zwaaien
+  afzwaaien
+  nazwaaien
+  omzwaaien
+  toezwaaien
+  uitzwaaien
+  zwaaien
+
+boeken
+  afboeken
+  bijboeken
+  boeken
+  inboeken
+  overboeken
+  uitboeken
+
+boekten
+  afboekten
+  bijboekten
+  boekten
+  inboekten
+  overboekten
+  uitboekten
+
+zwaaiden
+  afzwaaiden
+  nazwaaiden
+  omzwaaiden
+  toezwaaiden
+  uitzwaaiden
+  zwaaiden
+
+reiken
+  aanreiken
+  overreiken
+  reiken
+  toereiken
+  uitreiken
+
+planten
+  aanplanten
+  inplanten
+  omplanten
+  planten
+  uitplanten
+
+bellen
+  aanbellen
+  afbellen
+  bellen
+  inbellen
+  opbellen
+
+scheuren
+  afscheuren
+  inscheuren
+  scheuren
+  uitscheuren
+  wegscheuren
+
+slijten
+  afslijten
+  doorslijten
+  inslijten
+  slijten
+  uitslijten
+
+wachten
+  achterwachten
+  afwachten
+  opwachten
+  voorwachten
+  wachten
+
+wisselen
+  afwisselen
+  inwisselen
+  omwisselen
+  uitwisselen
+  wisselen
+
+leren
+  aanleren
+  afleren
+  bijleren
+  doorleren
+  leren
+
+vriezen
+  afvriezen
+  invriezen
+  opvriezen
+  uitvriezen
+  vriezen
+
+scheren
+  afscheren
+  opscheren
+  scheren
+  uitscheren
+  wegscheren
+
+glijden
+  afglijden
+  glijden
+  inglijden
+  uitglijden
+  wegglijden
+
+klinken
+  inklinken
+  klinken
+  naklinken
+  omklinken
+  opklinken
+
+horen
+  aanhoren
+  horen
+  overhoren
+  toehoren
+  uithoren
+
+kunnen
+  aankunnen
+  afkunnen
+  kunnen
+  meekunnen
+  toekunnen
+
+landen
+  aanlanden
+  achterlanden
+  binnenlanden
+  landen
+  voorlanden
+
+naaien
+  aannaaien
+  afnaaien
+  innaaien
+  naaien
+  opnaaien
+
+plakken
+  aanplakken
+  afplakken
+  inplakken
+  opplakken
+  plakken
+
+poten
+  aanpoten
+  achterpoten
+  overpoten
+  poten
+  voorpoten
+
+schikken
+  aanschikken
+  inschikken
+  onderschikken
+  opschikken
+  schikken
+
+snoeren
+  aansnoeren
+  afsnoeren
+  insnoeren
+  omsnoeren
+  snoeren
+
+wippen
+  aanwippen
+  omwippen
+  opwippen
+  uitwippen
+  wippen
+
+slapen
+  bijslapen
+  inslapen
+  overslapen
+  slapen
+  uitslapen
+
+winden
+  afwinden
+  omwinden
+  opwinden
+  tegenwinden
+  winden
+
+banden
+  achterbanden
+  banden
+  binnenbanden
+  uitbanden
+  voorbanden
+
+pluizen
+  afpluizen
+  doorpluizen
+  napluizen
+  pluizen
+  uitpluizen
+
+wisselden
+  afwisselden
+  inwisselden
+  omwisselden
+  uitwisselden
+  wisselden
+
+hoorden
+  aanhoorden
+  hoorden
+  overhoorden
+  toehoorden
+  uithoorden
+
+halingen
+  aanhalingen
+  afhalingen
+  inhalingen
+  omhalingen
+  ophalingen
+
+lichtingen
+  inlichtingen
+  lichtingen
+  oplichtingen
+  toelichtingen
+  voorlichtingen
+
+delingen
+  afdelingen
+  delingen
+  indelingen
+  opdelingen
+  uitdelingen
+
+koopsommen
+  aankoopsommen
+  afkoopsommen
+  inkoopsommen
+  koopsommen
+  omkoopsommen
+
+checken
+  afchecken
+  checken
+  inchecken
+  nachecken
+  uitchecken
+
+spelden
+  afspelden
+  omspelden
+  opspelden
+  spelden
+  voorspelden
+
+storten
+  afstorten
+  instorten
+  overstorten
+  storten
+  uitstorten
+
+sterven
+  aansterven
+  afsterven
+  sterven
+  uitsterven
+  wegsterven
+
+lossingen
+  aflossingen
+  inlossingen
+  lossingen
+  omlossingen
+  oplossingen
+
+werpingen
+  afwerpingen
+  onderwerpingen
+  opwerpingen
+  tegenwerpingen
+  werpingen
+
+schotten
+  afschotten
+  overschotten
+  schotten
+  uitschotten
+  voorschotten
+
+houwen
+  afhouwen
+  houwen
+  inhouwen
+  omhouwen
+  uithouwen
+
+ruilen
+  afruilen
+  inruilen
+  omruilen
+  ruilen
+  uitruilen
+
+hieuwen
+  afhieuwen
+  hieuwen
+  inhieuwen
+  omhieuwen
+  uithieuwen
+
+zeggingen
+  aanzeggingen
+  afzeggingen
+  opzeggingen
+  toezeggingen
+  zeggingen
+
+latingen
+  achterlatingen
+  aflatingen
+  toelatingen
+  uitlatingen
+  weglatingen
+
+tredingen
+  aftredingen
+  intredingen
+  overtredingen
+  toetredingen
+  uittredingen
+
+kappen
+  afkappen
+  kappen
+  omkappen
+  overkappen
+  uitkappen
+
+plakten
+  aanplakten
+  afplakten
+  inplakten
+  opplakten
+  plakten
+
+slikken
+  afslikken
+  doorslikken
+  inslikken
+  slikken
+  wegslikken
+
+plozen
+  afplozen
+  doorplozen
+  naplozen
+  plozen
+  uitplozen
+
+zoomden
+  afzoomden
+  inzoomden
+  omzoomden
+  uitzoomden
+  zoomden
+
+plantten
+  aanplantten
+  inplantten
+  omplantten
+  plantten
+  uitplantten
+
+schikten
+  aanschikten
+  inschikten
+  onderschikten
+  opschikten
+  schikten
+
+belden
+  aanbelden
+  afbelden
+  belden
+  inbelden
+  opbelden
+
+leerden
+  aanleerden
+  afleerden
+  bijleerden
+  doorleerden
+  leerden
+
+naaiden
+  aannaaiden
+  afnaaiden
+  innaaiden
+  naaiden
+  opnaaiden
+
+raakten
+  aanraakten
+  afraakten
+  opraakten
+  raakten
+  wegraakten
+
+reikten
+  aanreikten
+  overreikten
+  reikten
+  toereikten
+  uitreikten
+
+snoerden
+  aansnoerden
+  afsnoerden
+  insnoerden
+  omsnoerden
+  snoerden
+
+tastten
+  aantastten
+  aftastten
+  doortastten
+  tastten
+  toetastten
+
+wipten
+  aanwipten
+  omwipten
+  opwipten
+  uitwipten
+  wipten
+
+scheurden
+  afscheurden
+  inscheurden
+  scheurden
+  uitscheurden
+  wegscheurden
+
+schoren
+  afschoren
+  opschoren
+  schoren
+  uitschoren
+  wegschoren
+
+sleten
+  afsleten
+  doorsleten
+  insleten
+  sleten
+  uitsleten
+
+checkten
+  afcheckten
+  checkten
+  incheckten
+  nacheckten
+  uitcheckten
+
+klonken
+  inklonken
+  klonken
+  naklonken
+  omklonken
+  opklonken
+
+waterden
+  aanwaterden
+  afwaterden
+  inwaterden
+  uitwaterden
+  waterden
+
+ruilden
+  afruilden
+  inruilden
+  omruilden
+  ruilden
+  uitruilden
+
+scheepten
+  afscheepten
+  inscheepten
+  opscheepten
+  overscheepten
+  scheepten
+
+vroren
+  afvroren
+  invroren
+  opvroren
+  uitvroren
+  vroren
+
+kapten
+  afkapten
+  kapten
+  omkapten
+  overkapten
+  uitkapten
+
+speldden
+  afspeldden
+  omspeldden
+  opspeldden
+  speldden
+  voorspeldden
+
+gleden
+  afgleden
+  gleden
+  ingleden
+  uitgleden
+  weggleden
+
+stierven
+  aanstierven
+  afstierven
+  stierven
+  uitstierven
+  wegstierven
+
+zendingen
+  afzendingen
+  doorzendingen
+  inzendingen
+  uitzendingen
+  zendingen
+
+rennen
+  aanrennen
+  narennen
+  rennen
+  uitrennen
+  wegrennen
+
+renden
+  aanrenden
+  narenden
+  renden
+  uitrenden
+  wegrenden
+
+lassen
+  aanlassen
+  aflassen
+  inlassen
+  lassen
+  uitlassen
+
+lasten
+  aanlasten
+  aflasten
+  inlasten
+  lasten
+  uitlasten
+
+houdingen
+  aanhoudingen
+  afhoudingen
+  houdingen
+  inhoudingen
+  uithoudingen
+
+scholingen
+  bijscholingen
+  nascholingen
+  omscholingen
+  overscholingen
+  scholingen
+
+spinnen
+  aanspinnen
+  afspinnen
+  inspinnen
+  spinnen
+  uitspinnen
+
+sponnen
+  aansponnen
+  afsponnen
+  insponnen
+  sponnen
+  uitsponnen
+
+teerden
+  inteerden
+  opteerden
+  teerden
+  uitteerden
+  wegteerden
+
+looptijden
+  aanlooptijden
+  doorlooptijden
+  inlooptijden
+  looptijden
+  omlooptijden
+
+zwemmen
+  aanzwemmen
+  afzwemmen
+  inzwemmen
+  wegzwemmen
+  zwemmen
+
+zwommen
+  aanzwommen
+  afzwommen
+  inzwommen
+  wegzwommen
+  zwommen
+
+stralen
+  afstralen
+  instralen
+  omstralen
+  stralen
+  uitstralen
+
+straalden
+  afstraalden
+  instraalden
+  omstraalden
+  straalden
+  uitstraalden
+
+klappen
+  inklappen
+  klappen
+  omklappen
+  opklappen
+  uitklappen
+
+klapten
+  inklapten
+  klapten
+  omklapten
+  opklapten
+  uitklapten
+
+grenzen
+  afgrenzen
+  binnengrenzen
+  grenzen
+  omgrenzen
+  ondergrenzen
+
+vouwen
+  invouwen
+  omvouwen
+  opvouwen
+  uitvouwen
+  vouwen
+
+draven
+  aandraven
+  afdraven
+  doordraven
+  draven
+  opdraven
+
+roken
+  doorroken
+  meeroken
+  oproken
+  roken
+  uitroken
+
+rookten
+  doorrookten
+  meerookten
+  oprookten
+  rookten
+  uitrookten
+
+vouwden
+  invouwden
+  omvouwden
+  opvouwden
+  uitvouwden
+  vouwden
+
+draafden
+  aandraafden
+  afdraafden
+  doordraafden
+  draafden
+  opdraafden
+
+weekten
+  afweekten
+  doorweekten
+  inweekten
+  uitweekten
+  weekten
+
+paden
+  achterpaden
+  bijpaden
+  overpaden
+  paden
+  toepaden
+
+scholen
+  bijscholen
+  nascholen
+  omscholen
+  scholen
+  voorscholen
+
+drogingen
+  afdrogingen
+  drogingen
+  indrogingen
+  opdrogingen
+  uitdrogingen
+
+leggingen
+  afleggingen
+  leggingen
+  omleggingen
+  opleggingen
+  uitleggingen
+
+stomen
+  aanstomen
+  afstomen
+  opstomen
+  stomen
+  uitstomen
+
+stoomden
+  aanstoomden
+  afstoomden
+  opstoomden
+  stoomden
+  uitstoomden
+
+wuiven
+  nawuiven
+  toewuiven
+  uitwuiven
+  wegwuiven
+  wuiven
+
+wuifden
+  nawuifden
+  toewuifden
+  uitwuifden
+  wegwuifden
+  wuifden
+
+erven
+  aanerven
+  achtererven
+  erven
+  overerven
+  voorerven
+
+wonen
+  bijwonen
+  inwonen
+  uitwonen
+  wonen
+
+raden
+  aanraden
+  afraden
+  raden
+  voorraden
+
+tonen
+  aantonen
+  bijtonen
+  ondertonen
+  tonen
+
+treffen
+  aantreffen
+  overtreffen
+  treffen
+  voortreffen
+
+lossen
+  aflossen
+  inlossen
+  lossen
+  oplossen
+
+scheiden
+  afscheiden
+  onderscheiden
+  scheiden
+  uitscheiden
+
+takelen
+  aftakelen
+  optakelen
+  takelen
+  toetakelen
+
+wijken
+  afwijken
+  inwijken
+  uitwijken
+  wijken
+
+heffen
+  aanheffen
+  heffen
+  naheffen
+  opheffen
+
+sporen
+  aansporen
+  nasporen
+  opsporen
+  sporen
+
+volgen
+  achtervolgen
+  navolgen
+  opvolgen
+  volgen
+
+haken
+  aanhaken
+  afhaken
+  haken
+  inhaken
+
+monsteren
+  aanmonsteren
+  afmonsteren
+  monsteren
+  uitmonsteren
+
+staren
+  aanstaren
+  instaren
+  nastaren
+  staren
+
+zweren
+  afzweren
+  inzweren
+  uitzweren
+  zweren
+
+persen
+  afpersen
+  inpersen
+  persen
+  uitpersen
+
+huren
+  afhuren
+  huren
+  inhuren
+  onderhuren
+
+remmen
+  achterremmen
+  afremmen
+  remmen
+  voorremmen
+
+vatten
+  aanvatten
+  omvatten
+  opvatten
+  vatten
+
+fluiten
+  affluiten
+  fluiten
+  nafluiten
+  uitfluiten
+
+leden
+  leden
+  meeleden
+  overleden
+  voorleden
+
+stampen
+  aanstampen
+  afstampen
+  instampen
+  stampen
+
+blaffen
+  aanblaffen
+  afblaffen
+  blaffen
+  nablaffen
+
+dweilen
+  aandweilen
+  afdweilen
+  dweilen
+  opdweilen
+
+harken
+  aanharken
+  bijharken
+  harken
+  opharken
+
+kaarten
+  aankaarten
+  bijkaarten
+  kaarten
+  nakaarten
+
+kakken
+  aankakken
+  inkakken
+  kakken
+  uitkakken
+
+knopen
+  aanknopen
+  afknopen
+  knopen
+  opknopen
+
+mengen
+  aanmengen
+  bijmengen
+  inmengen
+  mengen
+
+rijgen
+  aanrijgen
+  afrijgen
+  inrijgen
+  rijgen
+
+roeren
+  aanroeren
+  omroeren
+  oproeren
+  roeren
+
+schoppen
+  aanschoppen
+  omschoppen
+  schoppen
+  uitschoppen
+
+stoken
+  aanstoken
+  doorstoken
+  opstoken
+  stoken
+
+behoren
+  aanbehoren
+  behoren
+  bijbehoren
+  toebehoren
+
+scheppen
+  omscheppen
+  onderscheppen
+  opscheppen
+  scheppen
+
+klaren
+  inklaren
+  klaren
+  opklaren
+  uitklaren
+
+ademen
+  ademen
+  doorademen
+  inademen
+  uitademen
+
+lijven
+  achterlijven
+  inlijven
+  lijven
+  onderlijven
+
+armen
+  armen
+  omarmen
+  onderarmen
+  voorarmen
+
+schrijden
+  aanschrijden
+  onderschrijden
+  overschrijden
+  schrijden
+
+wielen
+  achterwielen
+  binnenwielen
+  voorwielen
+  wielen
+
+woorden
+  bijwoorden
+  nawoorden
+  voorwoorden
+  woorden
+
+betalingen
+  aanbetalingen
+  afbetalingen
+  betalingen
+  uitbetalingen
+
+passingen
+  aanpassingen
+  inpassingen
+  passingen
+  toepassingen
+
+verkopen
+  doorverkopen
+  uitverkopen
+  verkopen
+  voorverkopen
+
+hoofden
+  achterhoofden
+  binnenhoofden
+  hoofden
+  voorhoofden
+
+deuren
+  achterdeuren
+  deuren
+  onderdeuren
+  voordeuren
+
+rekeningen
+  afrekeningen
+  omrekeningen
+  rekeningen
+  toerekeningen
+
+trekkingen
+  aantrekkingen
+  aftrekkingen
+  intrekkingen
+  trekkingen
+
+lijken
+  achterlijken
+  lijken
+  onderlijken
+  voorlijken
+
+grepen
+  aangrepen
+  grepen
+  ingrepen
+  ondergrepen
+
+hammen
+  achterhammen
+  hammen
+  inhammen
+  uithammen
+
+wijzingen
+  aanwijzingen
+  afwijzingen
+  toewijzingen
+  wijzingen
+
+wonden
+  afwonden
+  omwonden
+  opwonden
+  wonden
+
+wijden
+  inwijden
+  toewijden
+  uitwijden
+  wijden
+
+vullingen
+  aanvullingen
+  invullingen
+  opvullingen
+  vullingen
+
+metingen
+  afmetingen
+  metingen
+  nametingen
+  opmetingen
+
+scheidingen
+  afscheidingen
+  onderscheidingen
+  scheidingen
+  uitscheidingen
+
+waarden
+  overwaarden
+  tegenwaarden
+  voorwaarden
+  waarden
+
+levingen
+  inlevingen
+  nalevingen
+  oplevingen
+  overlevingen
+
+woekeren
+  aanwoekeren
+  doorwoekeren
+  overwoekeren
+  woekeren
+
+speuren
+  afspeuren
+  naspeuren
+  opspeuren
+  speuren
+
+waarderen
+  onderwaarderen
+  opwaarderen
+  overwaarderen
+  waarderen
+
+schreden
+  aanschreden
+  onderschreden
+  overschreden
+  schreden
+
+losten
+  aflosten
+  inlosten
+  losten
+  oplosten
+
+dijkten
+  aandijkten
+  dijkten
+  indijkten
+  omdijkten
+
+scheidden
+  afscheidden
+  onderscheidden
+  scheidden
+  uitscheidden
+
+worpen
+  inworpen
+  onderworpen
+  uitworpen
+  worpen
+
+volgden
+  achtervolgden
+  navolgden
+  opvolgden
+  volgden
+
+woekerden
+  aanwoekerden
+  doorwoekerden
+  overwoekerden
+  woekerden
+
+schepten
+  omschepten
+  onderschepten
+  opschepten
+  schepten
+
+takelden
+  aftakelden
+  optakelden
+  takelden
+  toetakelden
+
+spanningen
+  afspanningen
+  inspanningen
+  spanningen
+  uitspanningen
+
+uitgaan
+  achteruitgaan
+  onderuitgaan
+  uitgaan
+  vooruitgaan
+
+uitgegaan
+  achteruitgegaan
+  onderuitgegaan
+  uitgegaan
+  vooruitgegaan
+
+keringen
+  afkeringen
+  keringen
+  omkeringen
+  uitkeringen
+
+huizen
+  achterhuizen
+  bijhuizen
+  binnenhuizen
+  huizen
+
+luisteren
+  afluisteren
+  luisteren
+  meeluisteren
+  opluisteren
+
+schuren
+  afschuren
+  opschuren
+  schuren
+  uitschuren
+
+smaken
+  bijsmaken
+  nasmaken
+  smaken
+  voorsmaken
+
+schudden
+  afschudden
+  opschudden
+  schudden
+  uitschudden
+
+helpen
+  afhelpen
+  helpen
+  meehelpen
+  weghelpen
+
+dagen
+  dagen
+  nadagen
+  opdagen
+  uitdagen
+
+rekken
+  meerekken
+  oprekken
+  rekken
+  uitrekken
+
+gloeien
+  gloeien
+  nagloeien
+  opgloeien
+  uitgloeien
+
+richtingen
+  inrichtingen
+  oprichtingen
+  richtingen
+  uitrichtingen
+
+slingeren
+  aanslingeren
+  slingeren
+  uitslingeren
+  wegslingeren
+
+klimmen
+  afklimmen
+  inklimmen
+  klimmen
+  opklimmen
+
+klommen
+  afklommen
+  inklommen
+  klommen
+  opklommen
+
+wisten
+  afwisten
+  uitwisten
+  wegwisten
+  wisten
+
+wissen
+  afwissen
+  uitwissen
+  wegwissen
+  wissen
+
+toveren
+  omtoveren
+  toveren
+  voortoveren
+  wegtoveren
+
+blussen
+  afblussen
+  blussen
+  nablussen
+  uitblussen
+
+blusten
+  afblusten
+  blusten
+  nablusten
+  uitblusten
+
+poetsen
+  afpoetsen
+  oppoetsen
+  poetsen
+  uitpoetsen
+
+bollen
+  afbollen
+  bollen
+  opbollen
+  uitbollen
+
+haakten
+  aanhaakten
+  afhaakten
+  haakten
+  inhaakten
+
+loggen
+  aanloggen
+  inloggen
+  loggen
+  uitloggen
+
+harkten
+  aanharkten
+  bijharkten
+  harkten
+  opharkten
+
+zomen
+  afzomen
+  binnenzomen
+  omzomen
+  zomen
+
+klemmen
+  afklemmen
+  inklemmen
+  klemmen
+  omklemmen
+
+klemden
+  afklemden
+  inklemden
+  klemden
+  omklemden
+
+schatten
+  inschatten
+  onderschatten
+  overschatten
+  schatten
+
+tekeningen
+  aantekeningen
+  ondertekeningen
+  tekeningen
+  voortekeningen
+
+dammen
+  aandammen
+  afdammen
+  dammen
+  indammen
+
+prikken
+  doorprikken
+  inprikken
+  opprikken
+  prikken
+
+zworen
+  afzworen
+  inzworen
+  uitzworen
+  zworen
+
+waardeerden
+  onderwaardeerden
+  opwaardeerden
+  overwaardeerden
+  waardeerden
+
+blaften
+  aanblaften
+  afblaften
+  blaften
+  nablaften
+
+damden
+  aandamden
+  afdamden
+  damden
+  indamden
+
+dweilden
+  aandweilden
+  afdweilden
+  dweilden
+  opdweilden
+
+hadden
+  aanhadden
+  doorhadden
+  hadden
+  overhadden
+
+knoopten
+  aanknoopten
+  afknoopten
+  knoopten
+  opknoopten
+
+mengden
+  aanmengden
+  bijmengden
+  inmengden
+  mengden
+
+puntten
+  aanpuntten
+  afpuntten
+  bijpuntten
+  puntten
+
+roerden
+  aanroerden
+  omroerden
+  oproerden
+  roerden
+
+spoorden
+  aanspoorden
+  naspoorden
+  opspoorden
+  spoorden
+
+stampten
+  aanstampten
+  afstampten
+  instampten
+  stampten
+
+stookten
+  aanstookten
+  doorstookten
+  opstookten
+  stookten
+
+wiesen
+  aanwiesen
+  opwiesen
+  uitwiesen
+  wiesen
+
+uitgingen
+  achteruitgingen
+  onderuitgingen
+  uitgingen
+  vooruitgingen
+
+beeldden
+  afbeeldden
+  beeldden
+  inbeeldden
+  uitbeeldden
+
+floten
+  affloten
+  floten
+  nafloten
+  uitfloten
+
+luisterden
+  afluisterden
+  luisterden
+  meeluisterden
+  opluisterden
+
+persten
+  afpersten
+  inpersten
+  persten
+  uitpersten
+
+schuurden
+  afschuurden
+  opschuurden
+  schuurden
+  uitschuurden
+
+ademden
+  ademden
+  doorademden
+  inademden
+  uitademden
+
+huurden
+  afhuurden
+  huurden
+  inhuurden
+  onderhuurden
+
+logden
+  aanlogden
+  inlogden
+  logden
+  uitlogden
+
+woonden
+  bijwoonden
+  inwoonden
+  uitwoonden
+  woonden
+
+prikten
+  doorprikten
+  inprikten
+  opprikten
+  prikten
+
+slikten
+  doorslikten
+  inslikten
+  slikten
+  wegslikten
+
+stortten
+  afstortten
+  instortten
+  stortten
+  uitstortten
+
+wijdden
+  inwijdden
+  toewijdden
+  uitwijdden
+  wijdden
+
+hielpen
+  afhielpen
+  hielpen
+  meehielpen
+  weghielpen
+
+speurden
+  afspeurden
+  naspeurden
+  opspeurden
+  speurden
+
+toverden
+  omtoverden
+  toverden
+  voortoverden
+  wegtoverden
+
+bolden
+  afbolden
+  bolden
+  opbolden
+  uitbolden
+
+poetsten
+  afpoetsten
+  oppoetsten
+  poetsten
+  uitpoetsten
+
+gloeiden
+  gloeiden
+  nagloeiden
+  opgloeiden
+  uitgloeiden
+
+sliepen
+  insliepen
+  oversliepen
+  sliepen
+  uitsliepen
+
+slingerden
+  aanslingerden
+  slingerden
+  uitslingerden
+  wegslingerden
+
+rijzen
+  afrijzen
+  oprijzen
+  rijzen
+  uitrijzen
+
+rezen
+  afrezen
+  oprezen
+  rezen
+  uitrezen
+
+lappen
+  bijlappen
+  lappen
+  oplappen
+  overlappen
+
+lapten
+  bijlapten
+  lapten
+  oplapten
+  overlapten
+
+kuisen
+  afkuisen
+  kuisen
+  opkuisen
+  uitkuisen
+
+kuisten
+  afkuisten
+  kuisten
+  opkuisten
+  uitkuisten
+
+tuinen
+  achtertuinen
+  intuinen
+  tuinen
+  voortuinen
+
+berichten
+  berichten
+  naberichten
+  tegenberichten
+  voorberichten
+
+stemmingen
+  afstemmingen
+  instemmingen
+  stemmingen
+  toestemmingen
+
+boen
+  afboen
+  boen
+  naboen
+  opboen
+
+kauwen
+  kauwen
+  nakauwen
+  uitkauwen
+  voorkauwen
+
+venten
+  afventen
+  inventen
+  uitventen
+  venten
+
+kauwden
+  kauwden
+  nakauwden
+  uitkauwden
+  voorkauwden
+
+klaarden
+  inklaarden
+  klaarden
+  opklaarden
+  uitklaarden
+
+monsterden
+  aanmonsterden
+  afmonsterden
+  monsterden
+  uitmonsterden
+
+flappen
+  achterflappen
+  flappen
+  uitflappen
+  voorflappen
+
+schopten
+  aanschopten
+  omschopten
+  schopten
+  uitschopten
+
+zinken
+  afzinken
+  inzinken
+  wegzinken
+  zinken
+
+zonken
+  afzonken
+  inzonken
+  wegzonken
+  zonken
+
+bloeien
+  bloeien
+  nabloeien
+  opbloeien
+  uitbloeien
+
+bloeiden
+  bloeiden
+  nabloeiden
+  opbloeiden
+  uitbloeiden
+
+spitten
+  doorspitten
+  omspitten
+  spitten
+  uitspitten
+
+kakten
+  aankakten
+  inkakten
+  kakten
+  uitkakten
+
+reedden
+  afreedden
+  overreedden
+  reedden
+  uitreedden
+
+heffingen
+  heffingen
+  naheffingen
+  opheffingen
+  voorheffingen
+
+marsen
+  afmarsen
+  doormarsen
+  marsen
+  opmarsen
+
+vlakken
+  afvlakken
+  ondervlakken
+  uitvlakken
+  vlakken
+
+trouwen
+  introuwen
+  ondertrouwen
+  overtrouwen
+  trouwen
+
+vluchten
+  toevluchten
+  uitvluchten
+  vluchten
+  wegvluchten
+
+spatten
+  afspatten
+  opspatten
+  spatten
+  uitspatten
+
+schakelingen
+  inschakelingen
+  omschakelingen
+  schakelingen
+  uitschakelingen
+
+krassen
+  afkrassen
+  inkrassen
+  krassen
+  opkrassen
+
+typen
+  intypen
+  overtypen
+  typen
+  uittypen
+
+lijsten
+  inlijsten
+  lijsten
+  omlijsten
+  oplijsten
+
+zadelen
+  afzadelen
+  omzadelen
+  opzadelen
+  zadelen
+
+kammen
+  afkammen
+  kammen
+  opkammen
+  uitkammen
+
+loten
+  inloten
+  loten
+  meeloten
+  uitloten
+
+vakken
+  bijvakken
+  vakken
+  voorvakken
+  wegvakken
+
+hoven
+  binnenhoven
+  hoven
+  uithoven
+  voorhoven
+
+kamden
+  afkamden
+  kamden
+  opkamden
+  uitkamden
+
+schoolden
+  bijschoolden
+  naschoolden
+  omschoolden
+  schoolden
+
+lijstten
+  inlijstten
+  lijstten
+  omlijstten
+  oplijstten
+
+trouwden
+  introuwden
+  ondertrouwden
+  overtrouwden
+  trouwden
+
+krasten
+  afkrasten
+  inkrasten
+  krasten
+  opkrasten
+
+zadelden
+  afzadelden
+  omzadelden
+  opzadelden
+  zadelden
+
+typten
+  intypten
+  overtypten
+  typten
+  uittypten
+
+lootten
+  inlootten
+  lootten
+  meelootten
+  uitlootten
+
+vijzen
+  aanvijzen
+  afvijzen
+  opvijzen
+  vijzen
+
+delven
+  afdelven
+  delven
+  opdelven
+  uitdelven
+
+schijnen
+  doorschijnen
+  schijnen
+  toeschijnen
+  uitschijnen
+
+vezen
+  aanvezen
+  afvezen
+  opvezen
+  vezen
+
+delfden
+  afdelfden
+  delfden
+  opdelfden
+  uitdelfden
+
+dolven
+  afdolven
+  dolven
+  opdolven
+  uitdolven
+
+scheen
+  doorscheen
+  scheen
+  toescheen
+  uitscheen
+
+schenen
+  doorschenen
+  schenen
+  toeschenen
+  uitschenen
+
+malen
+  afmalen
+  malen
+  opmalen
+  uitmalen
+
+maalden
+  afmaalden
+  maalden
+  opmaalden
+  uitmaalden
+
+stuwen
+  aanstuwen
+  omstuwen
+  opstuwen
+  stuwen
+
+stuwden
+  aanstuwden
+  omstuwden
+  opstuwden
+  stuwden
+
+snellen
+  aansnellen
+  snellen
+  toesnellen
+  wegsnellen
+
+mesten
+  afmesten
+  bijmesten
+  mesten
+  uitmesten
+
+cijferen
+  cijferen
+  nacijferen
+  uitcijferen
+  wegcijferen
+
+snelden
+  aansnelden
+  snelden
+  toesnelden
+  wegsnelden
+
+mestten
+  afmestten
+  bijmestten
+  mestten
+  uitmestten
+
+cijferden
+  cijferden
+  nacijferden
+  uitcijferden
+  wegcijferden
+
+zeulen
+  aanzeulen
+  afzeulen
+  meezeulen
+  zeulen
+
+zeulden
+  aanzeulden
+  afzeulden
+  meezeulden
+  zeulden
+
+sjouwen
+  aansjouwen
+  afsjouwen
+  meesjouwen
+  sjouwen
+
+sjouwden
+  aansjouwden
+  afsjouwden
+  meesjouwden
+  sjouwden
+
+duiden
+  aanduiden
+  duiden
+  uitduiden
+
+kondigen
+  aankondigen
+  afkondigen
+  kondigen
+
+zonderen
+  afzonderen
+  uitzonderen
+  zonderen
+
+breiden
+  aanbreiden
+  breiden
+  uitbreiden
+
+lijden
+  lijden
+  meelijden
+  overlijden
+
+lenen
+  bijlenen
+  lenen
+  uitlenen
+
+schaffen
+  aanschaffen
+  afschaffen
+  schaffen
+
+vaarden
+  aanvaarden
+  doorvaarden
+  vaarden
+
+merken
+  aanmerken
+  merken
+  opmerken
+
+vinden
+  ondervinden
+  uitvinden
+  vinden
+
+prijzen
+  aanprijzen
+  afprijzen
+  prijzen
+
+randen
+  aanranden
+  omranden
+  randen
+
+schouwen
+  aanschouwen
+  schouwen
+  toeschouwen
+
+wennen
+  aanwennen
+  afwennen
+  wennen
+
+melden
+  aanmelden
+  afmelden
+  melden
+
+bereiden
+  bereiden
+  toebereiden
+  voorbereiden
+
+koelen
+  afkoelen
+  koelen
+  onderkoelen
+
+korten
+  afkorten
+  inkorten
+  korten
+
+reageren
+  afreageren
+  overreageren
+  reageren
+
+schrikken
+  afschrikken
+  opschrikken
+  schrikken
+
+stoffen
+  afstoffen
+  stoffen
+  uitstoffen
+
+vaardigen
+  afvaardigen
+  uitvaardigen
+  vaardigen
+
+muren
+  muren
+  ommuren
+  voormuren
+
+besteden
+  aanbesteden
+  besteden
+  uitbesteden
+
+grijpen
+  aangrijpen
+  grijpen
+  ingrijpen
+
+bestellen
+  afbestellen
+  bestellen
+  nabestellen
+
+borstelen
+  afborstelen
+  borstelen
+  uitborstelen
+
+dalen
+  afdalen
+  dalen
+  indalen
+
+handelen
+  afhandelen
+  handelen
+  onderhandelen
+
+dikken
+  aandikken
+  dikken
+  indikken
+
+hechten
+  aanhechten
+  afhechten
+  hechten
+
+ronden
+  afronden
+  ronden
+  voorronden
+
+eenzetten
+  ineenzetten
+  opeenzetten
+  uiteenzetten
+
+bergen
+  bergen
+  opbergen
+  wegbergen
+
+kiezen
+  doorkiezen
+  kiezen
+  uitkiezen
+
+meren
+  aanmeren
+  afmeren
+  meren
+
+keuren
+  afkeuren
+  keuren
+  voorkeuren
+
+sparen
+  opsparen
+  sparen
+  uitsparen
+
+spellen
+  spellen
+  tegenspellen
+  voorspellen
+
+druipen
+  afdruipen
+  druipen
+  uitdruipen
+
+snuiven
+  insnuiven
+  opsnuiven
+  snuiven
+
+tten
+  bijtten
+  natten
+  toetten
+
+studeren
+  afstuderen
+  instuderen
+  studeren
+
+tussen
+  intussen
+  ondertussen
+  tussen
+
+braden
+  aanbraden
+  braden
+  uitbraden
+
+floepen
+  aanfloepen
+  floepen
+  uitfloepen
+
+gorden
+  aangorden
+  gorden
+  omgorden
+
+hikken
+  aanhikken
+  hikken
+  nahikken
+
+hitsen
+  aanhitsen
+  hitsen
+  ophitsen
+
+koppelen
+  aankoppelen
+  afkoppelen
+  koppelen
+
+kruisen
+  aankruisen
+  doorkruisen
+  kruisen
+
+kweken
+  aankweken
+  kweken
+  opkweken
+
+loeven
+  aanloeven
+  loeven
+  oploeven
+
+modderen
+  aanmodderen
+  doormodderen
+  modderen
+
+munten
+  aanmunten
+  munten
+  uitmunten
+
+porren
+  aanporren
+  opporren
+  porren
+
+schroeven
+  aanschroeven
+  opschroeven
+  schroeven
+
+sjorren
+  aansjorren
+  opsjorren
+  sjorren
+
+stippen
+  aanstippen
+  afstippen
+  stippen
+
+vuren
+  aanvuren
+  afvuren
+  vuren
+
+zwellen
+  aanzwellen
+  opzwellen
+  zwellen
+
+sneeuwen
+  insneeuwen
+  ondersneeuwen
+  sneeuwen
+
+streven
+  nastreven
+  streven
+  tegenstreven
+
+schilderen
+  afschilderen
+  overschilderen
+  schilderen
+
+beden
+  aanbeden
+  beden
+  voorbeden
+
+baggeren
+  baggeren
+  opbaggeren
+  uitbaggeren
+
+beitelen
+  beitelen
+  inbeitelen
+  uitbeitelen
+
+bannen
+  achterbannen
+  bannen
+  uitbannen
+
+eisen
+  eisen
+  opeisen
+  tegeneisen
+
+spoken
+  spoken
+  uitspoken
+  voorspoken
+
+wringen
+  omwringen
+  uitwringen
+  wringen
+
+bijkomen
+  bijkomen
+  nabijkomen
+  voorbijkomen
+
+oefenen
+  inoefenen
+  oefenen
+  uitoefenen
+
+jaren
+  jaren
+  najaren
+  voorjaren
+
+wachtten
+  afwachtten
+  opwachtten
+  wachtten
+
+doeningen
+  aandoeningen
+  afdoeningen
+  doeningen
+
+kortingen
+  afkortingen
+  inkortingen
+  kortingen
+
+biedingen
+  aanbiedingen
+  biedingen
+  opbiedingen
+
+verkochten
+  doorverkochten
+  uitverkochten
+  verkochten
+
+broken
+  broken
+  doorbroken
+  onderbroken
+
+neven
+  achterneven
+  naneven
+  neven
+
+drukkingen
+  drukkingen
+  onderdrukkingen
+  uitdrukkingen
+
+hemden
+  hemden
+  onderhemden
+  overhemden
+
+klaringen
+  inklaringen
+  klaringen
+  opklaringen
+
+wisselingen
+  afwisselingen
+  uitwisselingen
+  wisselingen
+
+stromingen
+  doorstromingen
+  overstromingen
+  stromingen
+
+aanzichten
+  aanzichten
+  achteraanzichten
+  vooraanzichten
+
+vindingen
+  ondervindingen
+  uitvindingen
+  vindingen
+
+vloeden
+  invloeden
+  overvloeden
+  vloeden
+
+handelingen
+  afhandelingen
+  handelingen
+  onderhandelingen
+
+kennen
+  kennen
+  onderkennen
+  toekennen
+
+steden
+  binnensteden
+  steden
+  voorsteden
+
+dingen
+  afdingen
+  dingen
+  meedingen
+
+tallen
+  aantallen
+  overtallen
+  tallen
+
+sporingen
+  aansporingen
+  nasporingen
+  opsporingen
+
+voegingen
+  invoegingen
+  toevoegingen
+  voegingen
+
+tellingen
+  aftellingen
+  optellingen
+  tellingen
+
+bestedingen
+  aanbestedingen
+  bestedingen
+  uitbestedingen
+
+roepingen
+  afroepingen
+  oproepingen
+  roepingen
+
+inen
+  afinen
+  nainen
+  opinen
+
+noemen
+  noemen
+  opnoemen
+  overnoemen
+
+rotten
+  oprotten
+  rotten
+  wegrotten
+
+hullen
+  hullen
+  inhullen
+  omhullen
+
+vagen
+  uitvagen
+  vagen
+  wegvagen
+
+koersen
+  aankoersen
+  afkoersen
+  koersen
+
+troffen
+  aantroffen
+  overtroffen
+  troffen
+
+blikken
+  aanblikken
+  blikken
+  inblikken
+
+blikten
+  aanblikten
+  blikten
+  inblikten
+
+baggerden
+  baggerden
+  opbaggerden
+  uitbaggerden
+
+jouwen
+  jouwen
+  najouwen
+  uitjouwen
+
+schuinen
+  aanschuinen
+  afschuinen
+  schuinen
+
+knappen
+  afknappen
+  knappen
+  opknappen
+
+hulden
+  hulden
+  inhulden
+  omhulden
+
+vonden
+  ondervonden
+  uitvonden
+  vonden
+
+donderen
+  donderen
+  opdonderen
+  overdonderen
+
+belichten
+  belichten
+  onderbelichten
+  overbelichten
+
+roeien
+  oproeien
+  roeien
+  uitroeien
+
+plantingen
+  aanplantingen
+  inplantingen
+  plantingen
+
+hoeden
+  achterhoeden
+  hoeden
+  voorhoeden
+
+plannen
+  achterplannen
+  inplannen
+  plannen
+
+fixen
+  affixen
+  fixen
+  infixen
+
+plaatsen
+  binnenplaatsen
+  overplaatsen
+  plaatsen
+
+klikken
+  aanklikken
+  doorklikken
+  klikken
+
+behandelingen
+  behandelingen
+  nabehandelingen
+  voorbehandelingen
+
+bijgekomen
+  bijgekomen
+  nabijgekomen
+  voorbijgekomen
+
+middagen
+  middagen
+  namiddagen
+  voormiddagen
+
+brekingen
+  afbrekingen
+  brekingen
+  onderbrekingen
+
+buiken
+  buiken
+  onderbuiken
+  uitbuiken
+
+vattingen
+  omvattingen
+  opvattingen
+  vattingen
+
+voedingen
+  ondervoedingen
+  opvoedingen
+  voedingen
+
+einden
+  achtereinden
+  einden
+  uiteinden
+
+ingen
+  ingen
+  uitingen
+  wegingen
+
+bereidingen
+  bereidingen
+  toebereidingen
+  voorbereidingen
+
+mannen
+  mannen
+  overmannen
+  voormannen
+
+ruiten
+  achterruiten
+  ruiten
+  voorruiten
+
+wentelen
+  afwentelen
+  omwentelen
+  wentelen
+
+rechten
+  aanrechten
+  rechten
+  voorrechten
+
+bakenen
+  afbakenen
+  bakenen
+  uitbakenen
+
+katten
+  afkatten
+  katten
+  omkatten
+
+vissen
+  opvissen
+  uitvissen
+  vissen
+
+visten
+  opvisten
+  uitvisten
+  visten
+
+luiden
+  inluiden
+  luiden
+  uitluiden
+
+overvallen
+  achterovervallen
+  overvallen
+  voorovervallen
+
+overvielen
+  achterovervielen
+  overvielen
+  voorovervielen
+
+overgevallen
+  achterovergevallen
+  overgevallen
+  voorovergevallen
+
+merkten
+  aanmerkten
+  merkten
+  opmerkten
+
+hechtten
+  aanhechtten
+  afhechtten
+  hechtten
+
+studeerden
+  afstudeerden
+  instudeerden
+  studeerden
+
+vertellen
+  doorvertellen
+  navertellen
+  vertellen
+
+weven
+  doorweven
+  inweven
+  weven
+
+klanken
+  bijklanken
+  klanken
+  naklanken
+
+dommelen
+  dommelen
+  indommelen
+  wegdommelen
+
+bedelen
+  afbedelen
+  bedelen
+  toebedelen
+
+rasteren
+  afrasteren
+  omrasteren
+  rasteren
+
+blinken
+  blinken
+  opblinken
+  uitblinken
+
+blonken
+  blonken
+  opblonken
+  uitblonken
+
+oplopen
+  achteroplopen
+  oplopen
+  vooroplopen
+
+kalven
+  afkalven
+  inkalven
+  kalven
+
+lekken
+  lekken
+  uitlekken
+  weglekken
+
+weefden
+  doorweefden
+  inweefden
+  weefden
+
+tronen
+  intronen
+  meetronen
+  tronen
+
+baken
+  afbaken
+  baken
+  uitbaken
+
+oefen
+  inoefen
+  oefen
+  uitoefen
+
+tenten
+  intenten
+  tenten
+  voortenten
+
+opgelopen
+  achteropgelopen
+  opgelopen
+  vooropgelopen
+
+raadden
+  aanraadden
+  afraadden
+  raadden
+
+rieden
+  aanrieden
+  afrieden
+  rieden
+
+zweerden
+  afzweerden
+  uitzweerden
+  zweerden
+
+zwoeren
+  afzwoeren
+  inzwoeren
+  zwoeren
+
+rusten
+  rusten
+  toerusten
+  uitrusten
+
+schouwden
+  aanschouwden
+  schouwden
+  toeschouwden
+
+kruisten
+  aankruisten
+  doorkruisten
+  kruisten
+
+gordden
+  aangordden
+  gordden
+  omgordden
+
+rasterden
+  afrasterden
+  omrasterden
+  rasterden
+
+handelden
+  afhandelden
+  handelden
+  onderhandelden
+
+koelden
+  afkoelden
+  koelden
+  onderkoelden
+
+donderden
+  donderden
+  opdonderden
+  overdonderden
+
+noemden
+  noemden
+  opnoemden
+  overnoemden
+
+rden
+  meerden
+  narden
+  toerden
+
+lieden
+  lieden
+  overlieden
+  voorlieden
+
+groefden
+  doorgroefden
+  groefden
+  ingroefden
+
+beenden
+  aanbeenden
+  beenden
+  uitbeenden
+
+besteedden
+  aanbesteedden
+  besteedden
+  uitbesteedden
+
+braadden
+  aanbraadden
+  braadden
+  uitbraadden
+
+dikten
+  aandikten
+  dikten
+  indikten
+
+duidden
+  aanduidden
+  duidden
+  uitduidden
+
+floepten
+  aanfloepten
+  floepten
+  uitfloepten
+
+hieven
+  aanhieven
+  hieven
+  ophieven
+
+hitsten
+  aanhitsten
+  hitsten
+  ophitsten
+
+kaartten
+  aankaartten
+  kaartten
+  nakaartten
+
+koersten
+  aankoersten
+  afkoersten
+  koersten
+
+konden
+  aankonden
+  afkonden
+  konden
+
+koppelden
+  aankoppelden
+  afkoppelden
+  koppelden
+
+kweekten
+  aankweekten
+  kweekten
+  opkweekten
+
+meerden
+  aanmeerden
+  afmeerden
+  meerden
+
+meldden
+  aanmeldden
+  afmeldden
+  meldden
+
+muntten
+  aanmuntten
+  muntten
+  uitmuntten
+
+porden
+  aanporden
+  opporden
+  porden
+
+randden
+  aanrandden
+  omrandden
+  randden
+
+schaften
+  aanschaften
+  afschaften
+  schaften
+
+schroefden
+  aanschroefden
+  opschroefden
+  schroefden
+
+sjorden
+  aansjorden
+  opsjorden
+  sjorden
+
+staarden
+  aanstaarden
+  nastaarden
+  staarden
+
+stipten
+  aanstipten
+  afstipten
+  stipten
+
+vuurden
+  aanvuurden
+  afvuurden
+  vuurden
+
+zwollen
+  aanzwollen
+  opzwollen
+  zwollen
+
+bakenden
+  afbakenden
+  bakenden
+  uitbakenden
+
+bestelden
+  afbestelden
+  bestelden
+  nabestelden
+
+borstelden
+  afborstelden
+  borstelden
+  uitborstelden
+
+daalden
+  afdaalden
+  daalden
+  indaalden
+
+dongen
+  afdongen
+  dongen
+  meedongen
+
+dropen
+  afdropen
+  dropen
+  uitdropen
+
+kortten
+  afkortten
+  inkortten
+  kortten
+
+reageerden
+  afreageerden
+  overreageerden
+  reageerden
+
+schilderden
+  afschilderden
+  overschilderden
+  schilderden
+
+schrikten
+  afschrikten
+  opschrikten
+  schrikten
+
+schuinden
+  aanschuinden
+  afschuinden
+  schuinden
+
+volgingen
+  achtervolgingen
+  navolgingen
+  opvolgingen
+
+dommelden
+  dommelden
+  indommelden
+  wegdommelden
+
+luidden
+  inluidden
+  luidden
+  uitluidden
+
+kenden
+  kenden
+  onderkenden
+  toekenden
+
+schutten
+  afschutten
+  opschutten
+  schutten
+
+troeven
+  aftroeven
+  overtroeven
+  troeven
+
+wikkelen
+  afwikkelen
+  inwikkelen
+  wikkelen
+
+stoften
+  afstoften
+  stoften
+  uitstoften
+
+vaardigden
+  afvaardigden
+  uitvaardigden
+  vaardigden
+
+zonderden
+  afzonderden
+  uitzonderden
+  zonderden
+
+klikten
+  aanklikten
+  doorklikten
+  klikten
+
+modderden
+  aanmodderden
+  doormodderden
+  modderden
+
+zegen
+  doorzegen
+  inzegen
+  zegen
+
+bijkwamen
+  bijkwamen
+  nabijkwamen
+  voorbijkwamen
+
+streefden
+  nastreefden
+  streefden
+  tegenstreefden
+
+vertelden
+  doorvertelden
+  navertelden
+  vertelden
+
+wentelden
+  afwentelden
+  omwentelden
+  wentelden
+
+belichtten
+  belichtten
+  onderbelichtten
+  overbelichtten
+
+borgen
+  borgen
+  opborgen
+  wegborgen
+
+daagden
+  daagden
+  opdaagden
+  uitdaagden
+
+knapten
+  afknapten
+  knapten
+  opknapten
+
+loefden
+  aanloefden
+  loefden
+  oploefden
+
+snoven
+  insnoven
+  opsnoven
+  snoven
+
+behoorden
+  aanbehoorden
+  behoorden
+  toebehoorden
+
+rustten
+  rustten
+  toerustten
+  uitrustten
+
+beitelden
+  beitelden
+  inbeitelden
+  uitbeitelden
+
+jouwden
+  jouwden
+  najouwden
+  uitjouwden
+
+kozen
+  doorkozen
+  kozen
+  uitkozen
+
+lekten
+  lekten
+  uitlekten
+  weglekten
+
+oefenden
+  inoefenden
+  oefenden
+  uitoefenden
+
+rekten
+  oprekten
+  rekten
+  uitrekten
+
+roeiden
+  oproeiden
+  roeiden
+  uitroeiden
+
+spaarden
+  opspaarden
+  spaarden
+  uitspaarden
+
+wrongen
+  omwrongen
+  uitwrongen
+  wrongen
+
+bereidden
+  bereidden
+  toebereidden
+  voorbereidden
+
+opliepen
+  achteropliepen
+  opliepen
+  vooropliepen
+
+vaagden
+  uitvaagden
+  vaagden
+  wegvaagden
+
+troefden
+  aftroefden
+  overtroefden
+  troefden
+
+wikkelden
+  afwikkelden
+  inwikkelden
+  wikkelden
+
+uitlopen
+  achteruitlopen
+  uitlopen
+  vooruitlopen
+
+uitgelopen
+  achteruitgelopen
+  uitgelopen
+  vooruitgelopen
+
+uitliepen
+  achteruitliepen
+  uitliepen
+  vooruitliepen
+
+voeden
+  ondervoeden
+  opvoeden
+  voeden
+
+voedden
+  ondervoedden
+  opvoedden
+  voedden
+
+sloven
+  afsloven
+  sloven
+  uitsloven
+
+serveren
+  afserveren
+  serveren
+  uitserveren
+
+slurpen
+  opslurpen
+  slurpen
+  uitslurpen
+
+serveerden
+  afserveerden
+  serveerden
+  uitserveerden
+
+sloofden
+  afsloofden
+  sloofden
+  uitsloofden
+
+slurpten
+  opslurpten
+  slurpten
+  uitslurpten
+
+wimpelen
+  afwimpelen
+  wegwimpelen
+  wimpelen
+
+zorgen
+  nazorgen
+  voorzorgen
+  zorgen
+
+wimpelden
+  afwimpelden
+  wegwimpelden
+  wimpelden
+
+barsten
+  afbarsten
+  barsten
+  uitbarsten
+
+dreunen
+  dreunen
+  nadreunen
+  opdreunen
+
+pootten
+  aanpootten
+  overpootten
+  pootten
+
+dreunden
+  dreunden
+  nadreunden
+  opdreunden
+
+barstten
+  afbarstten
+  barstten
+  uitbarstten
+
+luizen
+  afluizen
+  inluizen
+  luizen
+
+huwelijken
+  huwelijken
+  nahuwelijken
+  uithuwelijken
+
+luisden
+  afluisden
+  inluisden
+  luisden
+
+driften
+  aandriften
+  driften
+  indriften
+
+zetstukken
+  aanzetstukken
+  inzetstukken
+  zetstukken
+
+banken
+  achterbanken
+  banken
+  voorbanken
+
+drijvingen
+  aandrijvingen
+  overdrijvingen
+  uitdrijvingen
+
+loopbanen
+  inloopbanen
+  loopbanen
+  omloopbanen
+
+stallen
+  opstallen
+  stallen
+  uitstallen
+
+wichten
+  overwichten
+  tegenwichten
+  wichten
+
+rekkingen
+  oprekkingen
+  rekkingen
+  uitrekkingen
+
+stekken
+  overstekken
+  stekken
+  uitstekken
+
+vormen
+  bijvormen
+  omvormen
+  vormen
+
+eren
+  eren
+  operen
+  wegeren
+
+streden
+  afstreden
+  omstreden
+  streden
+
+wegingen
+  afwegingen
+  overwegingen
+  wegingen
+
+breuken
+  afbreuken
+  breuken
+  inbreuken
+
+seinen
+  doorseinen
+  inseinen
+  seinen
+
+speten
+  aanspeten
+  afspeten
+  speten
+
+speetten
+  aanspeetten
+  afspeetten
+  speetten
+
+seinden
+  doorseinden
+  inseinden
+  seinden
+
+kukelen
+  afkukelen
+  kukelen
+  omkukelen
+
+kukelden
+  afkukelden
+  kukelden
+  omkukelden
+
+dichten
+  afdichten
+  dichten
+  toedichten
+
+happen
+  afhappen
+  happen
+  toehappen
+
+schermen
+  afschermen
+  bijschermen
+  schermen
+
+assen
+  achterassen
+  assen
+  voorassen
+
+dichtten
+  afdichtten
+  dichtten
+  toedichtten
+
+hapten
+  afhapten
+  hapten
+  toehapten
+
+vorken
+  achtervorken
+  voorvorken
+  vorken
+
+fietsen
+  fietsen
+  meefietsen
+  wegfietsen
+
+sluizen
+  insluizen
+  sluizen
+  wegsluizen
+
+meldingen
+  aanmeldingen
+  afmeldingen
+  meldingen
+
+sluisden
+  insluisden
+  sluisden
+  wegsluisden
+
+galerijen
+  achtergalerijen
+  galerijen
+  voorgalerijen
+
+gieren
+  gieren
+  ingieren
+  uitgieren
+
+bluffen
+  afbluffen
+  bluffen
+  overbluffen
+
+ijlen
+  ijlen
+  voorijlen
+  wegijlen
+
+wateringen
+  afwateringen
+  uitwateringen
+  wateringen
+
+bluften
+  afbluften
+  bluften
+  overbluften
+
+ijlden
+  ijlden
+  voorijlden
+  wegijlden
+
+winteren
+  doorwinteren
+  overwinteren
+  winteren
+
+kieperen
+  kieperen
+  omkieperen
+  wegkieperen
+
+winterden
+  doorwinterden
+  overwinterden
+  winterden
+
+regenen
+  inregenen
+  regenen
+  uitregenen
+
+wijdingen
+  inwijdingen
+  toewijdingen
+  wijdingen
+
+kieperden
+  kieperden
+  omkieperden
+  wegkieperden
+
+tappen
+  aftappen
+  overtappen
+  tappen
+
+sleuren
+  afsleuren
+  meesleuren
+  sleuren
+
+tapten
+  aftapten
+  overtapten
+  tapten
+
+sleurden
+  afsleurden
+  meesleurden
+  sleurden
+
+palen
+  afpalen
+  ompalen
+  palen
+
+paalden
+  afpaalden
+  ompaalden
+  paalden
+
+snoepen
+  afsnoepen
+  opsnoepen
+  snoepen
+
+snoepten
+  afsnoepten
+  opsnoepten
+  snoepten
+
+oren
+  aforen
+  binnenoren
+  oren
+
+zichtigheden
+  doorzichtigheden
+  omzichtigheden
+  voorzichtigheden
+
+schaven
+  afschaven
+  bijschaven
+  schaven
+
+schaafden
+  afschaafden
+  bijschaafden
+  schaafden
+
+uitsteken
+  achteruitsteken
+  uitsteken
+  vooruitsteken
+
+uitgestoken
+  achteruitgestoken
+  uitgestoken
+  vooruitgestoken
+
+uitstaken
+  achteruitstaken
+  uitstaken
+  vooruitstaken
+
+stevenen
+  aanstevenen
+  afstevenen
+  stevenen
+
+stevenden
+  aanstevenden
+  afstevenden
+  stevenden
+
+zaaien
+  inzaaien
+  uitzaaien
+  zaaien
+
+fietsten
+  fietsten
+  meefietsten
+  wegfietsten
+
+panden
+  achterpanden
+  onderpanden
+  panden
+
+stagen
+  achterstagen
+  stagen
+  voorstagen
+
+tanden
+  ondertanden
+  tanden
+  voortanden
+
+buren
+  buren
+  naburen
+  overburen
+
+snuiten
+  afsnuiten
+  snuiten
+  uitsnuiten
+
+vrijen
+  afvrijen
+  opvrijen
+  vrijen
+
+kledingen
+  aankledingen
+  inkledingen
+  omkledingen
+
+snoten
+  afsnoten
+  snoten
+  uitsnoten
+
+vrijden
+  afvrijden
+  opvrijden
+  vrijden
+
+zaaiden
+  inzaaiden
+  uitzaaiden
+  zaaiden
+
+rasteringen
+  afrasteringen
+  omrasteringen
+  rasteringen
+
+uitrijden
+  achteruitrijden
+  uitrijden
+  vooruitrijden
+
+uitgereden
+  achteruitgereden
+  uitgereden
+  vooruitgereden
+
+uitreden
+  achteruitreden
+  uitreden
+  vooruitreden
+
+krullen
+  krullen
+  omkrullen
+  opkrullen
+
+vinken
+  aanvinken
+  afvinken
+  vinken
+
+krulden
+  krulden
+  omkrulden
+  opkrulden
+
+vinkten
+  aanvinkten
+  afvinkten
+  vinkten
+
+banen
+  banen
+  bijbanen
+  binnenbanen
+
+wasmiddelen
+  afwasmiddelen
+  voorwasmiddelen
+  wasmiddelen
+
+ruimingen
+  inruimingen
+  opruimingen
+  ruimingen
+
+stoofden
+  afstoofden
+  opstoofden
+  stoofden
+
+starten
+  doorstarten
+  opstarten
+  starten
+
+gunsten
+  afgunsten
+  gunsten
+  tegengunsten
+
+voeten
+  bijvoeten
+  voeten
+  voorvoeten
+
+koelingen
+  afkoelingen
+  koelingen
+  onderkoelingen
+
+startten
+  doorstartten
+  opstartten
+  startten
+
+bermen
+  aanbermen
+  bermen
+  wegbermen
+
+woningen
+  bijwoningen
+  inwoningen
+  woningen
+
+regelen
+  afregelen
+  inregelen
+  regelen
+
+commissarissen
+  commissarissen
+  ondercommissarissen
+  wegcommissarissen
+
+werelden
+  onderwerelden
+  voorwerelden
+  werelden
+
+ladingen
+  afladingen
+  ladingen
+  opladingen
+
+hoeken
+  hoeken
+  overhoeken
+  uithoeken
+
+kaderen
+  inkaderen
+  kaderen
+  omkaderen
+
+zweten
+  aanzweten
+  uitzweten
+  zweten
+
+rustingen
+  rustingen
+  toerustingen
+  uitrustingen
+
+producten
+  bijproducten
+  producten
+  uitproducten
+
+lazeren
+  aflazeren
+  lazeren
+  oplazeren
+
+perken
+  afperken
+  inperken
+  perken
+
+bedden
+  bedden
+  inbedden
+  onderbedden
+
+stulpen
+  instulpen
+  stulpen
+  uitstulpen
+
+wendingen
+  aanwendingen
+  afwendingen
+  wendingen
+
+splitsen
+  opsplitsen
+  splitsen
+  uitsplitsen
+
+knijpen
+  afknijpen
+  knijpen
+  uitknijpen
+
+zouten
+  inzouten
+  opzouten
+  zouten
+
+huilen
+  huilen
+  meehuilen
+  uithuilen
+
+likken
+  aflikken
+  likken
+  oplikken
+
+zepen
+  afzepen
+  inzepen
+  zepen
+
+beschouwingen
+  beschouwingen
+  nabeschouwingen
+  voorbeschouwingen
+
+boekingen
+  afboekingen
+  boekingen
+  overboekingen
+
+stortingen
+  instortingen
+  stortingen
+  uitstortingen
+
+diepen
+  diepen
+  opdiepen
+  uitdiepen
+
+melken
+  afmelken
+  melken
+  uitmelken
+
+spiegelen
+  afspiegelen
+  spiegelen
+  voorspiegelen
+
+plechten
+  achterplechten
+  plechten
+  voorplechten
+
+hellen
+  afhellen
+  hellen
+  overhellen
+
+schrapen
+  afschrapen
+  schrapen
+  uitschrapen
+
+stropen
+  afstropen
+  opstropen
+  stropen
+
+besprekingen
+  besprekingen
+  nabesprekingen
+  voorbesprekingen
+
+kramen
+  kramen
+  opkramen
+  uitkramen
+
+spuwen
+  opspuwen
+  spuwen
+  uitspuwen
+
+schattingen
+  inschattingen
+  overschattingen
+  schattingen
+
+vorderingen
+  invorderingen
+  opvorderingen
+  vorderingen
+
+zweetten
+  aanzweetten
+  uitzweetten
+  zweetten
+
+helden
+  afhelden
+  helden
+  overhelden
+
+knepen
+  afknepen
+  knepen
+  uitknepen
+
+lazerden
+  aflazerden
+  lazerden
+  oplazerden
+
+likten
+  aflikten
+  likten
+  oplikten
+
+perkten
+  afperkten
+  inperkten
+  perkten
+
+regelden
+  afregelden
+  inregelden
+  regelden
+
+schraapten
+  afschraapten
+  schraapten
+  uitschraapten
+
+spiegelden
+  afspiegelden
+  spiegelden
+  voorspiegelden
+
+stroopten
+  afstroopten
+  opstroopten
+  stroopten
+
+vlakten
+  afvlakten
+  uitvlakten
+  vlakten
+
+kaderden
+  inkaderden
+  kaderden
+  omkaderden
+
+stulpten
+  instulpten
+  stulpten
+  uitstulpten
+
+zeepten
+  afzeepten
+  inzeepten
+  zeepten
+
+splitsten
+  opsplitsten
+  splitsten
+  uitsplitsten
+
+zoutten
+  inzoutten
+  opzoutten
+  zoutten
+
+bijtten
+  bijtten
+  inbijtten
+  uitbijtten
+
+diepten
+  diepten
+  opdiepten
+  uitdiepten
+
+huilden
+  huilden
+  meehuilden
+  uithuilden
+
+kraamden
+  kraamden
+  opkraamden
+  uitkraamden
+
+molken
+  afmolken
+  molken
+  uitmolken
+
+spuwden
+  opspuwden
+  spuwden
+  uitspuwden
+
+zoomen
+  inzoomen
+  uitzoomen
+  zoomen
+
+eendringen
+  bijeendringen
+  ineendringen
+  opeendringen
+
+dampen
+  dampen
+  indampen
+  uitdampen
+
+pluisden
+  afpluisden
+  doorpluisden
+  pluisden
+
+eendrongen
+  bijeendrongen
+  ineendrongen
+  opeendrongen
+
+eengedrongen
+  bijeengedrongen
+  ineengedrongen
+  opeengedrongen
+
+dampten
+  dampten
+  indampten
+  uitdampten
+
+vetten
+  aanvetten
+  invetten
+  vetten
+
+logen
+  logen
+  uitlogen
+  voorlogen
+
+buigingen
+  afbuigingen
+  buigingen
+  ombuigingen
+
+dopen
+  dopen
+  indopen
+  omdopen
+
+doopten
+  doopten
+  indoopten
+  omdoopten
+
+capaciteiten
+  capaciteiten
+  overcapaciteiten
+  wegcapaciteiten
+
+peinzen
+  napeinzen
+  overpeinzen
+  peinzen
+
+schreeuwen
+  overschreeuwen
+  schreeuwen
+  uitschreeuwen
+
+peinsden
+  napeinsden
+  overpeinsden
+  peinsden
+
+schreeuwden
+  overschreeuwden
+  schreeuwden
+  uitschreeuwden
+
+proppen
+  inproppen
+  opproppen
+  proppen
+
+propten
+  inpropten
+  oppropten
+  propten
+
+sturingen
+  aansturingen
+  bijsturingen
+  sturingen
+
+dekkingen
+  afdekkingen
+  dekkingen
+  indekkingen
+
+verkiezingen
+  uitverkiezingen
+  verkiezingen
+  voorverkiezingen
+
+deuken
+  deuken
+  indeuken
+  uitdeuken
+
+vlooien
+  navlooien
+  uitvlooien
+  vlooien
+
+sijpelen
+  doorsijpelen
+  insijpelen
+  sijpelen
+
+sijpelden
+  doorsijpelden
+  insijpelden
+  sijpelden
+
+deukten
+  deukten
+  indeukten
+  uitdeukten
+
+vlooiden
+  navlooiden
+  uitvlooiden
+  vlooiden
+
+glippen
+  doorglippen
+  glippen
+  wegglippen
+
+bladen
+  bijbladen
+  bladen
+  voorbladen
+
+bloeden
+  bloeden
+  doorbloeden
+  nabloeden
+
+harden
+  afharden
+  harden
+  uitharden
+
+bloedden
+  bloedden
+  doorbloedden
+  nabloedden
+
+hardden
+  afhardden
+  hardden
+  uithardden
+
+glipten
+  doorglipten
+  glipten
+  wegglipten
+
+knellen
+  afknellen
+  knellen
+  omknellen
+
+maaien
+  afmaaien
+  maaien
+  wegmaaien
+
+maaiden
+  afmaaiden
+  maaiden
+  wegmaaiden
+
+zangen
+  nazangen
+  voorzangen
+  zangen
+
+knelden
+  afknelden
+  knelden
+  omknelden
+
+plooien
+  omplooien
+  opplooien
+  plooien
+
+plooiden
+  omplooiden
+  opplooiden
+  plooiden
+
+vormingen
+  navormingen
+  omvormingen
+  vormingen
+
+vieren
+  meevieren
+  uitvieren
+  vieren
+
+vierden
+  meevierden
+  uitvierden
+  vierden
+
+erfden
+  aanerfden
+  erfden
+  overerfden
+
+lepelen
+  inlepelen
+  lepelen
+  oplepelen
+
+lepelden
+  inlepelden
+  lepelden
+  oplepelden
+
+zakkingen
+  afzakkingen
+  inzakkingen
+  zakkingen
+
+vijlen
+  afvijlen
+  bijvijlen
+  vijlen
+
+pellen
+  afpellen
+  pellen
+  uitpellen
+
+pelden
+  afpelden
+  pelden
+  uitpelden
+
+vijlden
+  afvijlden
+  bijvijlden
+  vijlden
+
+zwermen
+  omzwermen
+  uitzwermen
+  zwermen
+
+zwermden
+  omzwermden
+  uitzwermden
+  zwermden
+
+hameren
+  afhameren
+  hameren
+  inhameren
+
+dokken
+  afdokken
+  dokken
+  opdokken
+
+rafelen
+  afrafelen
+  rafelen
+  uitrafelen
+
+dokten
+  afdokten
+  dokten
+  opdokten
+
+rafelden
+  afrafelden
+  rafelden
+  uitrafelden
+
+schalen
+  inschalen
+  opschalen
+  schalen
+
+lezingen
+  aflezingen
+  lezingen
+  nalezingen
+
+boenen
+  afboenen
+  boenen
+  opboenen
+
+soppen
+  afsoppen
+  insoppen
+  soppen
+
+zwenken
+  afzwenken
+  omzwenken
+  zwenken
+
+stikken
+  afstikken
+  opstikken
+  stikken
+
+verven
+  afverven
+  bijverven
+  verven
+
+smeden
+  aansmeden
+  omsmeden
+  smeden
+
+loodsen
+  inloodsen
+  loodsen
+  uitloodsen
+
+torenen
+  optorenen
+  torenen
+  uittorenen
+
+vorsen
+  navorsen
+  uitvorsen
+  vorsen
+
+roesten
+  inroesten
+  roesten
+  wegroesten
+
+boenden
+  afboenden
+  boenden
+  opboenden
+
+boordden
+  afboordden
+  boordden
+  omboordden
+
+grensden
+  afgrensden
+  grensden
+  omgrensden
+
+sopten
+  afsopten
+  insopten
+  sopten
+
+zwenkten
+  afzwenkten
+  omzwenkten
+  zwenkten
+
+verfden
+  afverfden
+  bijverfden
+  verfden
+
+loodsten
+  inloodsten
+  loodsten
+  uitloodsten
+
+schaalden
+  inschaalden
+  opschaalden
+  schaalden
+
+smeedden
+  aansmeedden
+  omsmeedden
+  smeedden
+
+stikten
+  afstikten
+  opstikten
+  stikten
+
+roestten
+  inroestten
+  roestten
+  wegroestten
+
+vorsten
+  navorsten
+  uitvorsten
+  vorsten
+
+bleken
+  aanbleken
+  bleken
+  opbleken
+
+grien
+  grien
+  ingrien
+
+moedigen
+  aanmoedigen
+  moedigen
+
+deren
+  deren
+  naderen
+
+enten
+  enten
+  inenten
+
+keuken
+  bijkeuken
+  keuken
+
+grijzen
+  afgrijzen
+  grijzen
+
+enen
+  enen
+  openen
+
+bootsen
+  bootsen
+  nabootsen
+
+nodigen
+  nodigen
+  uitnodigen
+
+eenkomen
+  bijeenkomen
+  overeenkomen
+
+zuiveren
+  aanzuiveren
+  zuiveren
+
+bevelen
+  aanbevelen
+  bevelen
+
+gapen
+  aangapen
+  gapen
+
+koeken
+  aankoeken
+  koeken
+
+manen
+  aanmanen
+  manen
+
+steunen
+  ondersteunen
+  steunen
+
+dwalen
+  afdwalen
+  dwalen
+
+matten
+  afmatten
+  matten
+
+platten
+  afplatten
+  platten
+
+ranselen
+  afranselen
+  ranselen
+
+romen
+  afromen
+  romen
+
+schilferen
+  afschilferen
+  schilferen
+
+smeken
+  afsmeken
+  smeken
+
+snauwen
+  afsnauwen
+  snauwen
+
+stammen
+  afstammen
+  stammen
+
+stempelen
+  afstempelen
+  stempelen
+
+stompen
+  afstompen
+  stompen
+
+grijnzen
+  aangrijnzen
+  grijnzen
+
+klagen
+  aanklagen
+  klagen
+
+stichten
+  aanstichten
+  stichten
+
+brokkelen
+  afbrokkelen
+  brokkelen
+
+danken
+  afdanken
+  danken
+
+lengen
+  aanlengen
+  lengen
+
+werven
+  aanwerven
+  werven
+
+fecteren
+  affecteren
+  infecteren
+
+palmen
+  inpalmen
+  palmen
+
+proberen
+  proberen
+  uitproberen
+
+eenbrengen
+  bijeenbrengen
+  overeenbrengen
+
+klampen
+  aanklampen
+  klampen
+
+valideren
+  invalideren
+  valideren
+
+schoen
+  overschoen
+  schoen
+
+offeren
+  offeren
+  opofferen
+
+hokken
+  hokken
+  ophokken
+
+aarden
+  aanaarden
+  aarden
+
+belanden
+  aanbelanden
+  belanden
+
+durven
+  aandurven
+  durven
+
+broeden
+  broeden
+  uitbroeden
+
+spartelen
+  spartelen
+  tegenspartelen
+
+sputteren
+  sputteren
+  tegensputteren
+
+stribbelen
+  stribbelen
+  tegenstribbelen
+
+morgen
+  morgen
+  overmorgen
+
+ketsen
+  afketsen
+  ketsen
+
+kraken
+  afkraken
+  kraken
+
+wekken
+  opwekken
+  wekken
+
+vrolijken
+  opvrolijken
+  vrolijken
+
+monteren
+  monteren
+  opmonteren
+
+peperen
+  inpeperen
+  peperen
+
+oculeren
+  inoculeren
+  oculeren
+
+dossen
+  dossen
+  uitdossen
+
+schelden
+  schelden
+  uitschelden
+
+kluiven
+  afkluiven
+  kluiven
+
+eendrijven
+  bijeendrijven
+  uiteendrijven
+
+offensieven
+  offensieven
+  tegenoffensieven
+
+belangen
+  aanbelangen
+  belangen
+
+breien
+  aanbreien
+  breien
+
+kleven
+  aankleven
+  kleven
+
+leunen
+  aanleunen
+  leunen
+
+matigen
+  aanmatigen
+  matigen
+
+pappen
+  aanpappen
+  pappen
+
+pezen
+  aanpezen
+  pezen
+
+rommelen
+  aanrommelen
+  rommelen
+
+scherpen
+  aanscherpen
+  scherpen
+
+slibben
+  aanslibben
+  slibben
+
+sterken
+  aansterken
+  sterken
+
+tijgen
+  aantijgen
+  tijgen
+
+voerhaven
+  aanvoerhaven
+  doorvoerhaven
+
+wakkeren
+  aanwakkeren
+  wakkeren
+
+zwengelen
+  aanzwengelen
+  zwengelen
+
+bevolen
+  aanbevolen
+  bevolen
+
+eengedreven
+  bijeengedreven
+  uiteengedreven
+
+dompelen
+  dompelen
+  onderdompelen
+
+huiven
+  afhuiven
+  huiven
+
+uithalen
+  onderuithalen
+  uithalen
+
+omkijken
+  achteromkijken
+  omkijken
+
+wijlen
+  bijwijlen
+  wijlen
+
+bewijzen
+  aanbewijzen
+  bewijzen
+
+sceiden
+  afsceiden
+  sceiden
+
+verwezen
+  doorverwezen
+  verwezen
+
+testen
+  testen
+  uittesten
+
+kwijnen
+  kwijnen
+  wegkwijnen
+
+hoofdsbeen
+  achterhoofdsbeen
+  voorhoofdsbeen
+
+rapen
+  oprapen
+  rapen
+
+werkzaamheden
+  wegwerkzaamheden
+  werkzaamheden
+
+nachten
+  nachten
+  overnachten
+
+titelen
+  ondertitelen
+  titelen
+
+naamwoorden
+  naamwoorden
+  voornaamwoorden
+
+uwen
+  meeuwen
+  uwen
+
+merkingen
+  aanmerkingen
+  opmerkingen
+
+eenkomsten
+  bijeenkomsten
+  overeenkomsten
+
+zinnen
+  bijzinnen
+  zinnen
+
+beeldingen
+  afbeeldingen
+  inbeeldingen
+
+loopen
+  loopen
+  wegloopen
+
+risten
+  risten
+  toeristen
+
+goden
+  afgoden
+  goden
+
+boorlingen
+  boorlingen
+  inboorlingen
+
+putten
+  putten
+  uitputten
+
+zonderingen
+  afzonderingen
+  uitzonderingen
+
+kondigingen
+  aankondigingen
+  afkondigingen
+
+nichten
+  achternichten
+  nichten
+
+tuigingen
+  aftuigingen
+  overtuigingen
+
+kleinkinderen
+  achterkleinkinderen
+  kleinkinderen
+
+daken
+  afdaken
+  daken
+
+druiprekken
+  afdruiprekken
+  druiprekken
+
+alen
+  alen
+  opalen
+
+kringen
+  kringen
+  omkringen
+
+schoenen
+  overschoenen
+  schoenen
+
+nieren
+  bijnieren
+  nieren
+
+zuigkappen
+  afzuigkappen
+  zuigkappen
+
+wasautomaten
+  afwasautomaten
+  wasautomaten
+
+verdiensten
+  bijverdiensten
+  verdiensten
+
+drijfassen
+  aandrijfassen
+  drijfassen
+
+bezoeken
+  bezoeken
+  tegenbezoeken
+
+voorstellen
+  tegenvoorstellen
+  voorstellen
+
+dagingen
+  dagingen
+  uitdagingen
+
+proeven
+  proeven
+  voorproeven
+
+avonden
+  avonden
+  vooravonden
+
+kaken
+  kaken
+  onderkaken
+
+komelingen
+  aankomelingen
+  nakomelingen
+
+pijpen
+  oppijpen
+  pijpen
+
+bijblijven
+  bijblijven
+  nabijblijven
+
+casseren
+  casseren
+  incasseren
+
+casseerden
+  casseerden
+  incasseerden
+
+schotelen
+  schotelen
+  voorschotelen
+
+transitieven
+  intransitieven
+  transitieven
+
+elatieven
+  elatieven
+  inelatieven
+
+schuddingen
+  opschuddingen
+  schuddingen
+
+borrelen
+  borrelen
+  opborrelen
+
+droogdoeken
+  afdroogdoeken
+  droogdoeken
+
+titelingen
+  aftitelingen
+  ondertitelingen
+
+anen
+  afanen
+  anen
+
+zeeboten
+  onderzeeboten
+  zeeboten
+
+eengekomen
+  bijeengekomen
+  overeengekomen
+
+omgekeken
+  achteromgekeken
+  omgekeken
+
+persingen
+  afpersingen
+  persingen
+
+tonnen
+  aftonnen
+  tonnen
+
+verwerpen
+  omverwerpen
+  verwerpen
+
+formeren
+  formeren
+  informeren
+
+ringen
+  omringen
+  ringen
+
+krikken
+  krikken
+  opkrikken
+
+willigen
+  inwilligen
+  willigen
+
+weiden
+  uitweiden
+  weiden
+
+klachten
+  aanklachten
+  klachten
+
+schouwingen
+  aanschouwingen
+  schouwingen
+
+bestellingen
+  afbestellingen
+  bestellingen
+
+bedoelingen
+  bedoelingen
+  bijbedoelingen
+
+winningen
+  overwinningen
+  winningen
+
+dosissen
+  dosissen
+  overdosissen
+
+gangspunten
+  overgangspunten
+  uitgangspunten
+
+akten
+  akten
+  naakten
+
+heden
+  heden
+  overheden
+
+heersen
+  heersen
+  overheersen
+
+letten
+  letten
+  opletten
+
+tillen
+  optillen
+  tillen
+
+knikkeren
+  knikkeren
+  uitknikkeren
+
+slorpen
+  opslorpen
+  slorpen
+
+zamelen
+  inzamelen
+  zamelen
+
+verwijzen
+  doorverwijzen
+  verwijzen
+
+mijnen
+  mijnen
+  ondermijnen
+
+weren
+  afweren
+  weren
+
+dijen
+  dijen
+  uitdijen
+
+verdelen
+  onderverdelen
+  verdelen
+
+verdeelden
+  onderverdeelden
+  verdeelden
+
+smeulen
+  nasmeulen
+  smeulen
+
+warmen
+  opwarmen
+  warmen
+
+laaien
+  laaien
+  oplaaien
+
+overgeslagen
+  achterovergeslagen
+  overgeslagen
+
+eenbinden
+  aaneenbinden
+  bijeenbinden
+
+knoeien
+  aanknoeien
+  knoeien
+
+asten
+  asten
+  naasten
+
+bakeren
+  bakeren
+  inbakeren
+
+bakerden
+  bakerden
+  inbakerden
+
+hopen
+  hopen
+  ophopen
+
+bekken
+  afbekken
+  bekken
+
+bekten
+  afbekten
+  bekten
+
+juichen
+  juichen
+  toejuichen
+
+stelpen
+  overstelpen
+  stelpen
+
+eenlopen
+  dooreenlopen
+  uiteenlopen
+
+prenten
+  inprenten
+  prenten
+
+ruien
+  opruien
+  ruien
+
+nomen
+  nomen
+  ondernomen
+
+oculeerden
+  inoculeerden
+  oculeerden
+
+enden
+  enden
+  openden
+
+derden
+  derden
+  naderden
+
+valideerden
+  invalideerden
+  valideerden
+
+steunden
+  ondersteunden
+  steunden
+
+titelden
+  ondertitelden
+  titelden
+
+ringden
+  omringden
+  ringden
+
+fecteerden
+  affecteerden
+  infecteerden
+
+dompelden
+  dompelden
+  onderdompelden
+
+mijnden
+  mijnden
+  ondermijnden
+
+heersten
+  heersten
+  overheersten
+
+dreggen
+  afdreggen
+  dreggen
+
+beuken
+  beuken
+  inbeuken
+
+verlopen
+  omverlopen
+  verlopen
+
+zeiken
+  afzeiken
+  zeiken
+
+struinen
+  afstruinen
+  struinen
+
+begrepen
+  begrepen
+  inbegrepen
+
+jutten
+  jutten
+  opjutten
+
+sommen
+  opsommen
+  sommen
+
+peren
+  opperen
+  peren
+
+welven
+  overwelven
+  welven
+
+straffen
+  afstraffen
+  straffen
+
+straften
+  afstraften
+  straften
+
+verhuren
+  onderverhuren
+  verhuren
+
+roosteren
+  inroosteren
+  roosteren
+
+schaduwen
+  overschaduwen
+  schaduwen
+
+zwachtelen
+  omzwachtelen
+  zwachtelen
+
+onderstellen
+  onderstellen
+  vooronderstellen
+
+tapijten
+  ondertapijten
+  tapijten
+
+broeken
+  broeken
+  onderbroeken
+
+zuren
+  aanzuren
+  zuren
+
+ebben
+  ebben
+  wegebben
+
+uitbetalen
+  uitbetalen
+  vooruitbetalen
+
+randingen
+  aanrandingen
+  omrandingen
+
+wezigen
+  aanwezigen
+  afwezigen
+
+winsten
+  aanwinsten
+  winsten
+
+buurten
+  achterbuurten
+  buurten
+
+fronten
+  affronten
+  fronten
+
+schikkingen
+  onderschikkingen
+  schikkingen
+
+wijkingen
+  afwijkingen
+  inwijkingen
+
+wikkelingen
+  afwikkelingen
+  wikkelingen
+
+tmaken
+  natmaken
+  voortmaken
+
+holten
+  bijholten
+  holten
+
+kantoren
+  bijkantoren
+  kantoren
+
+rakelen
+  oprakelen
+  rakelen
+
+gangswegen
+  doorgangswegen
+  toegangswegen
+
+slachten
+  afslachten
+  slachten
+
+turen
+  naturen
+  turen
+
+behouden
+  behouden
+  voorbehouden
+
+wentelingen
+  omwentelingen
+  wentelingen
+
+brengsten
+  aanbrengsten
+  opbrengsten
+
+voedingsproblemen
+  opvoedingsproblemen
+  voedingsproblemen
+
+doseringen
+  doseringen
+  overdoseringen
+
+jassen
+  jassen
+  overjassen
+
+ademingen
+  inademingen
+  uitademingen
+
+eengelopen
+  dooreengelopen
+  uiteengelopen
+
+vaderen
+  vaderen
+  voorvaderen
+
+bladderen
+  afbladderen
+  bladderen
+
+peuzelen
+  oppeuzelen
+  peuzelen
+
+zoenen
+  afzoenen
+  zoenen
+
+aanvallen
+  aanvallen
+  tegenaanvallen
+
+flikkeren
+  flikkeren
+  opflikkeren
+
+levenden
+  levenden
+  overlevenden
+
+wensen
+  toewensen
+  wensen
+
+uitkomen
+  uitkomen
+  vooruitkomen
+
+uitgekomen
+  uitgekomen
+  vooruitgekomen
+
+krimpen
+  inkrimpen
+  krimpen
+
+buiten
+  buiten
+  uitbuiten
+
+smokkelen
+  binnensmokkelen
+  smokkelen
+
+schorten
+  opschorten
+  schorten
+
+schortten
+  opschortten
+  schortten
+
+uitzichten
+  uitzichten
+  vooruitzichten
+
+druisen
+  druisen
+  indruisen
+
+acteren
+  acteren
+  overacteren
+
+weten
+  afweten
+  weten
+
+duffelen
+  duffelen
+  induffelen
+
+meesteren
+  meesteren
+  overmeesteren
+
+meesterden
+  meesterden
+  overmeesterden
+
+brassen
+  brassen
+  tegenbrassen
+
+kwartieren
+  inkwartieren
+  kwartieren
+
+dwingen
+  afdwingen
+  dwingen
+
+bladeren
+  bladeren
+  doorbladeren
+
+bladerden
+  bladerden
+  doorbladerden
+
+fineren
+  affineren
+  fineren
+
+verdedigen
+  uitverdedigen
+  verdedigen
+
+zijgen
+  doorzijgen
+  zijgen
+
+vlechten
+  doorvlechten
+  vlechten
+
+vlochten
+  doorvlochten
+  vlochten
+
+uitspoelen
+  uitspoelen
+  vooruitspoelen
+
+uitspoelden
+  uitspoelden
+  vooruitspoelden
+
+formasjonen
+  formasjonen
+  informasjonen
+
+verkiezen
+  uitverkiezen
+  verkiezen
+
+verkozen
+  uitverkozen
+  verkozen
+
+verkoren
+  uitverkoren
+  verkoren
+
+zeven
+  doorzeven
+  zeven
+
+argumenten
+  argumenten
+  tegenargumenten
+
+bedeelden
+  bedeelden
+  toebedeelden
+
+kapselen
+  inkapselen
+  kapselen
+
+grondden
+  doorgrondden
+  grondden
+
+troggelen
+  aftroggelen
+  troggelen
+
+stippelen
+  stippelen
+  uitstippelen
+
+troggelden
+  aftroggelden
+  troggelden
+
+kalfden
+  afkalfden
+  kalfden
+
+slanken
+  afslanken
+  slanken
+
+sisten
+  insisten
+  sisten
+
+bewezen
+  aanbewezen
+  bewezen
+
+zeefden
+  doorzeefden
+  zeefden
+
+betalingsmethoden
+  afbetalingsmethoden
+  betalingsmethoden
+
+zoen
+  afzoen
+  zoen
+
+leen
+  leen
+  uitleen
+
+eengebonden
+  aaneengebonden
+  bijeengebonden
+
+bijgebleven
+  bijgebleven
+  nabijgebleven
+
+kleinzonen
+  achterkleinzonen
+  kleinzonen
+
+zeikten
+  afzeikten
+  zeikten
+
+zeken
+  afzeken
+  zeken
+
+scheden
+  scheden
+  uitscheden
+
+fineerden
+  affineerden
+  fineerden
+
+formeerden
+  formeerden
+  informeerden
+
+kringden
+  kringden
+  omkringden
+
+zwachtelden
+  omzwachtelden
+  zwachtelden
+
+verhuurden
+  onderverhuurden
+  verhuurden
+
+acteerden
+  acteerden
+  overacteerden
+
+schaduwden
+  overschaduwden
+  schaduwden
+
+stelpten
+  overstelpten
+  stelpten
+
+welfden
+  overwelfden
+  welfden
+
+onderstelden
+  onderstelden
+  vooronderstelden
+
+giffen
+  giffen
+  tegengiffen
+
+smukken
+  opsmukken
+  smukken
+
+aardden
+  aanaardden
+  aardden
+
+belandden
+  aanbelandden
+  belandden
+
+belangden
+  aanbelangden
+  belangden
+
+bevalen
+  aanbevalen
+  bevalen
+
+durfden
+  aandurfden
+  durfden
+
+eenbonden
+  aaneenbonden
+  bijeenbonden
+
+gaapten
+  aangaapten
+  gaapten
+
+grijnsden
+  aangrijnsden
+  grijnsden
+
+hikten
+  aanhikten
+  hikten
+
+klaagden
+  aanklaagden
+  klaagden
+
+klampten
+  aanklampten
+  klampten
+
+kleefden
+  aankleefden
+  kleefden
+
+knoeiden
+  aanknoeiden
+  knoeiden
+
+koekten
+  aankoekten
+  koekten
+
+kondigden
+  aankondigden
+  afkondigden
+
+landden
+  aanlandden
+  landden
+
+lengden
+  aanlengden
+  lengden
+
+leunden
+  aanleunden
+  leunden
+
+maanden
+  aanmaanden
+  maanden
+
+matigden
+  aanmatigden
+  matigden
+
+papten
+  aanpapten
+  papten
+
+prezen
+  aanprezen
+  prezen
+
+rommelden
+  aanrommelden
+  rommelden
+
+scherpten
+  aanscherpten
+  scherpten
+
+slibden
+  aanslibden
+  slibden
+
+sterkten
+  aansterkten
+  sterkten
+
+stichtten
+  aanstichtten
+  stichtten
+
+tegen
+  aantegen
+  tegen
+
+toonden
+  aantoonden
+  toonden
+
+wierven
+  aanwierven
+  wierven
+
+zuiverden
+  aanzuiverden
+  zuiverden
+
+zuurden
+  aanzuurden
+  zuurden
+
+zwengelden
+  aanzwengelden
+  zwengelden
+
+omkeken
+  achteromkeken
+  omkeken
+
+oversloegen
+  achteroversloegen
+  oversloegen
+
+bladderden
+  afbladderden
+  bladderden
+
+brokkelden
+  afbrokkelden
+  brokkelden
+
+dankten
+  afdankten
+  dankten
+
+dregden
+  afdregden
+  dregden
+
+dwaalden
+  afdwaalden
+  dwaalden
+
+dwongen
+  afdwongen
+  dwongen
+
+huifden
+  afhuifden
+  huifden
+
+ketsten
+  afketsten
+  ketsten
+
+keurden
+  afkeurden
+  keurden
+
+kloven
+  afkloven
+  kloven
+
+kraakten
+  afkraakten
+  kraakten
+
+prijsden
+  afprijsden
+  prijsden
+
+ranselden
+  afranselden
+  ranselden
+
+remden
+  afremden
+  remden
+
+rondden
+  afrondden
+  rondden
+
+roomden
+  afroomden
+  roomden
+
+schilferden
+  afschilferden
+  schilferden
+
+slachtten
+  afslachtten
+  slachtten
+
+formanten
+  formanten
+  informanten
+
+polen
+  polen
+  tegenpolen
+
+beukten
+  beukten
+  inbeukten
+
+druisten
+  druisten
+  indruisten
+
+entten
+  entten
+  inentten
+
+krompen
+  inkrompen
+  krompen
+
+palmden
+  inpalmden
+  palmden
+
+peperden
+  inpeperden
+  peperden
+
+offeringen
+  offeringen
+  opofferingen
+
+spellingen
+  spellingen
+  voorspellingen
+
+smeekten
+  afsmeekten
+  smeekten
+
+snauwden
+  afsnauwden
+  snauwden
+
+stamden
+  afstamden
+  stamden
+
+stempelden
+  afstempelden
+  stempelden
+
+stompten
+  afstompten
+  stompten
+
+struinden
+  afstruinden
+  struinden
+
+tonden
+  aftonden
+  tonden
+
+weerden
+  afweerden
+  weerden
+
+zoenden
+  afzoenden
+  zoenden
+
+eenbrachten
+  bijeenbrachten
+  overeenbrachten
+
+eenkwamen
+  bijeenkwamen
+  overeenkwamen
+
+smokkelden
+  binnensmokkelden
+  smokkelden
+
+doven
+  doven
+  uitdoven
+
+prentten
+  inprentten
+  prentten
+
+roosterden
+  inroosterden
+  roosterden
+
+willigden
+  inwilligden
+  willigden
+
+zamelden
+  inzamelden
+  zamelden
+
+discussieerden
+  discussieerden
+  meediscussieerden
+
+bijbleven
+  bijbleven
+  nabijbleven
+
+bootsten
+  bootsten
+  nabootsten
+
+smeulden
+  nasmeulden
+  smeulden
+
+verliepen
+  omverliepen
+  verliepen
+
+verwierpen
+  omverwierpen
+  verwierpen
+
+sneeuwden
+  insneeuwden
+  ondersneeuwden
+
+uithaalden
+  onderuithaalden
+  uithaalden
+
+borrelden
+  borrelden
+  opborrelden
+
+eisten
+  eisten
+  opeisten
+
+flikkerden
+  flikkerden
+  opflikkerden
+
+hokten
+  hokten
+  ophokten
+
+hoopten
+  hoopten
+  ophoopten
+
+krikten
+  krikten
+  opkrikten
+
+laaiden
+  laaiden
+  oplaaiden
+
+offerden
+  offerden
+  opofferden
+
+peuzelden
+  oppeuzelden
+  peuzelden
+
+pijpten
+  oppijpten
+  pijpten
+
+raapten
+  opraapten
+  raapten
+
+rakelden
+  oprakelden
+  rakelden
+
+ruiden
+  opruiden
+  ruiden
+
+slorpten
+  opslorpten
+  slorpten
+
+smukten
+  opsmukten
+  smukten
+
+tilden
+  optilden
+  tilden
+
+warmden
+  opwarmden
+  warmden
+
+wekten
+  opwekten
+  wekten
+
+brasten
+  brasten
+  tegenbrasten
+
+spartelden
+  spartelden
+  tegenspartelden
+
+sputterden
+  sputterden
+  tegensputterden
+
+stribbelden
+  stribbelden
+  tegenstribbelden
+
+juichten
+  juichten
+  toejuichten
+
+wensten
+  toewensten
+  wensten
+
+broedden
+  broedden
+  uitbroedden
+
+dijden
+  dijden
+  uitdijden
+
+dosten
+  dosten
+  uitdosten
+
+eendreven
+  bijeendreven
+  uiteendreven
+
+eenliepen
+  dooreenliepen
+  uiteenliepen
+
+knikkerden
+  knikkerden
+  uitknikkerden
+
+leenden
+  leenden
+  uitleenden
+
+nodigden
+  nodigden
+  uitnodigden
+
+probeerden
+  probeerden
+  uitprobeerden
+
+scholden
+  scholden
+  uitscholden
+
+spookten
+  spookten
+  uitspookten
+
+stippelden
+  stippelden
+  uitstippelden
+
+testten
+  testten
+  uittestten
+
+verdedigden
+  uitverdedigden
+  verdedigden
+
+weidden
+  uitweidden
+  weidden
+
+behielden
+  behielden
+  voorbehielden
+
+schotelden
+  schotelden
+  voorschotelden
+
+tmaakten
+  natmaakten
+  voortmaakten
+
+uitbetaalden
+  uitbetaalden
+  vooruitbetaalden
+
+uitkwamen
+  uitkwamen
+  vooruitkwamen
+
+ebden
+  ebden
+  wegebden
+
+kwijnden
+  kwijnden
+  wegkwijnden
+
+wazen
+  wazen
+  wegwazen
+
+doofden
+  doofden
+  uitdoofden
+
+uitzien
+  uitzien
+  vooruitzien
+
+overmorgen
+  overmorgen
+  overovermorgen
+
+uitgezien
+  uitgezien
+  vooruitgezien
+
+uitzagen
+  uitzagen
+  vooruitzagen
+
+kluizen
+  kluizen
+  overkluizen
+
+disponen
+  disponen
+  indisponen
+
+kluisden
+  kluisden
+  overkluisden
+
+floersen
+  floersen
+  omfloersen
+
+sliepten
+  sliepten
+  uitsliepten
+
+formen
+  formen
+  informen
+
+poeieren
+  afpoeieren
+  poeieren
+
+overbuigen
+  overbuigen
+  vooroverbuigen
+
+taaien
+  aftaaien
+  taaien
+
+poeierden
+  afpoeierden
+  poeierden
+
+overbogen
+  overbogen
+  vooroverbogen
+
+overgebogen
+  overgebogen
+  voorovergebogen
+
+baren
+  baren
+  opbaren
+
+beuren
+  beuren
+  opbeuren
+
+oordelen
+  oordelen
+  vooroordelen
+
+baarden
+  baarden
+  opbaarden
+
+beurden
+  beurden
+  opbeurden
+
+verhitten
+  oververhitten
+  verhitten
+
+baten
+  baten
+  uitbaten
+
+programmeren
+  programmeren
+  voorprogrammeren
+
+troonden
+  meetroonden
+  troonden
+
+baatten
+  baatten
+  uitbaatten
+
+slokken
+  opslokken
+  slokken
+
+stalen
+  instalen
+  stalen
+
+slokten
+  opslokten
+  slokten
+
+programmeerden
+  programmeerden
+  voorprogrammeerden
+
+tekenboeken
+  aantekenboeken
+  tekenboeken
+
+wateringskanalen
+  afwateringskanalen
+  uitwateringskanalen
+
+zaken
+  bijzaken
+  zaken
+
+tomen
+  intomen
+  tomen
+
+toomden
+  intoomden
+  toomden
+
+heiningen
+  heiningen
+  omheiningen
+
+kopingen
+  afkopingen
+  omkopingen
+
+gordijnen
+  gordijnen
+  overgordijnen
+
+bewegingen
+  bewegingen
+  tegenbewegingen
+
+kandidaten
+  kandidaten
+  tegenkandidaten
+
+partijen
+  partijen
+  tegenpartijen
+
+spoeden
+  spoeden
+  tegenspoeden
+
+huldigen
+  huldigen
+  inhuldigen
+
+vaden
+  invaden
+  vaden
+
+dersten
+  dersten
+  indersten
+
+quieren
+  inquieren
+  quieren
+
+huldigden
+  huldigden
+  inhuldigden
+
+vormden
+  omvormden
+  vormden
+
+verwaaien
+  omverwaaien
+  verwaaien
+
+hijsen
+  hijsen
+  ophijsen
+
+verwaaiden
+  omverwaaiden
+  verwaaiden
+
+verwoeien
+  omverwoeien
+  verwoeien
+
+hesen
+  hesen
+  ophesen
+
+bazuinen
+  bazuinen
+  uitbazuinen
+
+schilderingen
+  afschilderingen
+  schilderingen
+
+rivieren
+  bijrivieren
+  rivieren
+
+bazuinden
+  bazuinden
+  uitbazuinden
+
+nazenden
+  achternazenden
+  nazenden
+
+nagezonden
+  achternagezonden
+  nagezonden
+
+pekelen
+  inpekelen
+  pekelen
+
+belasten
+  belasten
+  overbelasten
+
+huiden
+  huiden
+  voorhuiden
+
+nazonden
+  achternazonden
+  nazonden
+
+pekelden
+  inpekelden
+  pekelden
+
+belastten
+  belastten
+  overbelastten
+
+bruggen
+  bruggen
+  overbruggen
+
+ondertekenen
+  meeondertekenen
+  ondertekenen
+
+onderteken
+  meeonderteken
+  onderteken
+
+ondertekenden
+  meeondertekenden
+  ondertekenden
+
+tien
+  achtertien
+  tien
+
+linken
+  doorlinken
+  linken
+
+narijden
+  achternarijden
+  narijden
+
+nagereden
+  achternagereden
+  nagereden
+
+salen
+  nasalen
+  salen
+
+nareden
+  achternareden
+  nareden
+
+linkten
+  doorlinkten
+  linkten
+
+verteren
+  inverteren
+  verteren
+
+verteerden
+  inverteerden
+  verteerden
+
+peigeren
+  afpeigeren
+  peigeren
+
+nokken
+  afnokken
+  nokken
+
+nokten
+  afnokten
+  nokten
+
+peigerden
+  afpeigerden
+  peigerden
+
+biechten
+  biechten
+  opbiechten
+
+tentasen
+  intentasen
+  tentasen
+
+tentaren
+  intentaren
+  tentaren
+
+biechtten
+  biechtten
+  opbiechtten
+
+klussen
+  bijklussen
+  klussen
+
+bruisen
+  bruisen
+  opbruisen
+
+dichtingen
+  afdichtingen
+  dichtingen
+
+fecten
+  affecten
+  infecten
+
+potten
+  oppotten
+  potten
+
+schermden
+  afschermden
+  schermden
+
+klusten
+  bijklusten
+  klusten
+
+bruisten
+  bruisten
+  opbruisten
+
+doemen
+  doemen
+  opdoemen
+
+muten
+  inmuten
+  muten
+
+doemden
+  doemden
+  opdoemden
+
+deinen
+  deinen
+  meedeinen
+
+hoesten
+  hoesten
+  ophoesten
+
+deinden
+  deinden
+  meedeinden
+
+hoestten
+  hoestten
+  ophoestten
+
+moffelen
+  moffelen
+  wegmoffelen
+
+loophuizen
+  aanloophuizen
+  inloophuizen
+
+moffelden
+  moffelden
+  wegmoffelden
+
+dieningen
+  indieningen
+  toedieningen
+
+gravingen
+  afgravingen
+  opgravingen
+
+doeken
+  doeken
+  opdoeken
+
+midden
+  doormidden
+  midden
+
+inasen
+  afinasen
+  opinasen
+
+inaren
+  afinaren
+  opinaren
+
+clinen
+  clinen
+  inclinen
+
+sluiken
+  insluiken
+  sluiken
+
+sloken
+  insloken
+  sloken
+
+slinken
+  slinken
+  wegslinken
+
+formasen
+  formasen
+  informasen
+
+formaren
+  formaren
+  informaren
+
+slonken
+  slonken
+  wegslonken
+
+filtreren
+  filtreren
+  infiltreren
+
+strooien
+  strooien
+  uitstrooien
+
+filtraten
+  filtraten
+  infiltraten
+
+zinkingen
+  inzinkingen
+  zinkingen
+
+filtreerden
+  filtreerden
+  infiltreerden
+
+strooiden
+  strooiden
+  uitstrooiden
+
+ploegen
+  omploegen
+  ploegen
+
+plaatsingen
+  overplaatsingen
+  plaatsingen
+
+onderstellingen
+  onderstellingen
+  vooronderstellingen
+
+ploegden
+  omploegden
+  ploegden
+
+vigeren
+  navigeren
+  vigeren
+
+jaarsmorgen
+  najaarsmorgen
+  voorjaarsmorgen
+
+dalingen
+  afdalingen
+  dalingen
+
+huldigingen
+  huldigingen
+  inhuldigingen
+
+bramen
+  afbramen
+  bramen
+
+vigeerden
+  navigeerden
+  vigeerden
+
+eenhouden
+  aaneenhouden
+  bijeenhouden
+
+kolven
+  afkolven
+  kolven
+
+eengehouden
+  aaneengehouden
+  bijeengehouden
+
+voerrechten
+  invoerrechten
+  uitvoerrechten
+
+kolfden
+  afkolfden
+  kolfden
+
+eenhielden
+  aaneenhielden
+  bijeenhielden
+
+synchroniseren
+  nasynchroniseren
+  synchroniseren
+
+drenken
+  doordrenken
+  drenken
+
+hongeren
+  hongeren
+  uithongeren
+
+frissen
+  frissen
+  opfrissen
+
+entingen
+  entingen
+  inentingen
+
+drenkten
+  doordrenkten
+  drenkten
+
+synchroniseerden
+  nasynchroniseerden
+  synchroniseerden
+
+plaatsten
+  overplaatsten
+  plaatsten
+
+hongerden
+  hongerden
+  uithongerden
+
+grissen
+  grissen
+  weggrissen
+
+piraten
+  piraten
+  wegpiraten
+
+stuffen
+  stuffen
+  wegstuffen
+
+voorbeelden
+  tegenvoorbeelden
+  voorbeelden
+
+doezelen
+  doezelen
+  wegdoezelen
+
+huppelen
+  huppelen
+  weghuppelen
+
+kapen
+  kapen
+  wegkapen
+
+vertrouwen
+  toevertrouwen
+  vertrouwen
+
+kommen
+  kommen
+  omkommen
+
+citen
+  citen
+  inciten
+
+citasen
+  citasen
+  incitasen
+
+citaren
+  citaren
+  incitaren
+
+olieden
+  inolieden
+  olieden
+
+vertrouwden
+  toevertrouwden
+  vertrouwden
+
+doezelden
+  doezelden
+  wegdoezelden
+
+gristen
+  gristen
+  weggristen
+
+huppelden
+  huppelden
+  weghuppelden
+
+kaapten
+  kaapten
+  wegkaapten
+
+stuften
+  stuften
+  wegstuften
+
+honen
+  honen
+  weghonen
+
+uitzetten
+  uitzetten
+  vooruitzetten
+
+hoonden
+  hoonden
+  weghoonden
+
+vleugelen
+  overvleugelen
+  vleugelen
+
+validen
+  invaliden
+  validen
+
+luyen
+  afluyen
+  luyen
+
+luyesen
+  afluyesen
+  luyesen
+
+luyeren
+  afluyeren
+  luyeren
+
+vleugelden
+  overvleugelden
+  vleugelden
+
+verwarmen
+  verwarmen
+  voorverwarmen
+
+stralingen
+  stralingen
+  uitstralingen
+
+verwarmden
+  verwarmden
+  voorverwarmden
+
+amaren
+  afamaren
+  amaren
+
+amasen
+  afamasen
+  amasen
+
+amen
+  afamen
+  amen
+
+erraren
+  aferraren
+  erraren
+
+errasen
+  aferrasen
+  errasen
+
+erren
+  aferren
+  erren
+
+oraren
+  aforaren
+  oraren
+
+orasen
+  aforasen
+  orasen
+
+rentaren
+  afrentaren
+  rentaren
+
+rentasen
+  afrentasen
+  rentasen
+
+renten
+  afrenten
+  renten
+
+dispusieren
+  dispusieren
+  indispusieren
+
+dispusiesen
+  dispusiesen
+  indispusiesen
+
+fluyen
+  fluyen
+  influyen
+
+fluyeren
+  fluyeren
+  influyeren
+
+fluyesen
+  fluyesen
+  influyesen
+
+halaren
+  halaren
+  inhalaren
+
+halasen
+  halasen
+  inhalasen
+
+molaren
+  inmolaren
+  molaren
+
+molasen
+  inmolasen
+  molasen
+
+molen
+  inmolen
+  molen
+
+vierten
+  invierten
+  vierten
+
+eraren
+  eraren
+  operaren
+
+erasen
+  erasen
+  operasen
+
+wedstrijden
+  uitwedstrijden
+  wedstrijden
+
+hoepelen
+  hoepelen
+  ophoepelen
+
+farten
+  farten
+  infarten
+
+funden
+  funden
+  infunden
+
+fundieren
+  fundieren
+  infundieren
+
+fundiesen
+  fundiesen
+  infundiesen
+
+movilicen
+  inmovilicen
+  movilicen
+
+movilizaren
+  inmovilizaren
+  movilizaren
+
+movilizasen
+  inmovilizasen
+  movilizasen
+
+titularen
+  intitularen
+  titularen
+
+titulasen
+  intitulasen
+  titulasen
+
+titulen
+  intitulen
+  titulen
+
+hoepelden
+  hoepelden
+  ophoepelden
+
+bedachten
+  bedachten
+  voorbedachten
+
+hechtingen
+  aanhechtingen
+  hechtingen
+
+stutten
+  onderstutten
+  stutten
+
+prangen
+  omprangen
+  prangen
+
+prangden
+  omprangden
+  prangden
+
+tenen
+  aftenen
+  tenen
+
+fleuren
+  fleuren
+  opfleuren
+
+flitsen
+  aanflitsen
+  flitsen
+
+flitsten
+  aanflitsten
+  flitsten
+
+fleurden
+  fleurden
+  opfleurden
+
+stiefelen
+  aanstiefelen
+  stiefelen
+
+dunnen
+  dunnen
+  uitdunnen
+
+stiefelden
+  aanstiefelden
+  stiefelden
+
+keffen
+  aankeffen
+  keffen
+
+polderen
+  inpolderen
+  polderen
+
+hemelen
+  hemelen
+  ophemelen
+
+telen
+  aantelen
+  telen
+
+leken
+  afleken
+  leken
+
+keften
+  aankeften
+  keften
+
+teelden
+  aanteelden
+  teelden
+
+leekten
+  afleekten
+  leekten
+
+polderden
+  inpolderden
+  polderden
+
+hemelden
+  hemelden
+  ophemelden
+
+dunden
+  dunden
+  uitdunden
+
+talen
+  aftalen
+  talen
+
+vertrekken
+  omvertrekken
+  vertrekken
+
+grosseren
+  grosseren
+  ingrosseren
+
+vertrokken
+  omvertrokken
+  vertrokken
+
+sjen
+  nasjen
+  sjen
+
+loopspreekuren
+  aanloopspreekuren
+  inloopspreekuren
+
+grosseerden
+  grosseerden
+  ingrosseerden
+
+steekvlammen
+  aansteekvlammen
+  steekvlammen
+
+stichtingen
+  aanstichtingen
+  stichtingen
+
+verwantschappen
+  aanverwantschappen
+  verwantschappen
+
+cirkelen
+  cirkelen
+  omcirkelen
+
+cirkelden
+  cirkelden
+  omcirkelden
+
+kienen
+  kienen
+  uitkienen
+
+kien
+  kien
+  uitkien
+
+kienden
+  kienden
+  uitkienden
+
+tapen
+  intapen
+  tapen
+
+tapeten
+  intapeten
+  tapeten
+
+uitgangen
+  achteruitgangen
+  uitgangen
+
+laken
+  laken
+  onderlaken
+
+drijfriemen
+  aandrijfriemen
+  drijfriemen
+
+worstelen
+  doorworstelen
+  worstelen
+
+vogelen
+  uitvogelen
+  vogelen
+
+monden
+  monden
+  uitmonden
+
+kicken
+  afkicken
+  kicken
+
+strekken
+  strekken
+  uitstrekken
+
+aandrijvingen
+  aandrijvingen
+  achteraandrijvingen
+
+regeren
+  meeregeren
+  regeren
+
+zonnen
+  bijzonnen
+  zonnen
+
+staten
+  binnenstaten
+  staten
+
+varianten
+  invarianten
+  varianten
+
+afdelingen
+  afdelingen
+  onderafdelingen
+
+borden
+  borden
+  onderborden
+
+scheppingen
+  onderscheppingen
+  scheppingen
+
+gangsregelingen
+  omgangsregelingen
+  overgangsregelingen
+
+doelpunten
+  doelpunten
+  uitdoelpunten
+
+gangsspanningen
+  ingangsspanningen
+  uitgangsspanningen
+
+hoofdsbeenderen
+  achterhoofdsbeenderen
+  voorhoofdsbeenderen
+
+kleppen
+  achterkleppen
+  kleppen
+
+sappelen
+  afsappelen
+  sappelen
+
+wielaandrijvingen
+  achterwielaandrijvingen
+  voorwielaandrijvingen
+
+kepingen
+  inkepingen
+  uitkepingen
+
+verdelingen
+  onderverdelingen
+  verdelingen
+
+buurjongen
+  buurjongen
+  overbuurjongen
+
+buurkinderen
+  buurkinderen
+  overbuurkinderen
+
+buurmannen
+  buurmannen
+  overbuurmannen
+
+buurvrouwen
+  buurvrouwen
+  overbuurvrouwen
+
+willen
+  meewillen
+  willen
+
+spelingen
+  spelingen
+  toespelingen
+
+mondden
+  mondden
+  uitmondden
+
+strekten
+  strekten
+  uitstrekten
+
+peesden
+  aanpeesden
+  peesden
+
+kickten
+  afkickten
+  kickten
+
+sappelden
+  afsappelden
+  sappelden
+
+snuitten
+  afsnuitten
+  snuitten
+
+worstelden
+  doorworstelden
+  worstelden
+
+regeerden
+  meeregeerden
+  regeerden
+
+wilden
+  meewilden
+  wilden
+
+wouden
+  meewouden
+  wouden
+
+vogelden
+  uitvogelden
+  vogelden
+
+lippen
+  lippen
+  onderlippen
+
+duidingen
+  aanduidingen
+  duidingen
+
+planeten
+  bijplaneten
+  planeten
+
+breekpunten
+  afbreekpunten
+  breekpunten
+
+spiegelingen
+  afspiegelingen
+  spiegelingen
+
+splitsingen
+  afsplitsingen
+  splitsingen
+
+haren
+  afharen
+  haren
+
+haarden
+  afhaarden
+  haarden
+
+behoeden
+  behoeden
+  voorbehoeden
+
+behoedden
+  behoedden
+  voorbehoedden
+
+mengingen
+  inmengingen
+  mengingen
+
+rechtten
+  aanrechtten
+  rechtten
+
+bedelden
+  afbedelden
+  bedelden
+
+switchen
+  aanswitchen
+  switchen
+
+rotzooien
+  aanrotzooien
+  rotzooien
+
+groen
+  groen
+  ingroen
+
+verlegen
+  inverlegen
+  verlegen
+
+uitschuiven
+  achteruitschuiven
+  uitschuiven
+
+aankomen
+  aankomen
+  achteraankomen
+
+omkomen
+  achteromkomen
+  omkomen
+
+opkomen
+  achteropkomen
+  opkomen
+
+bijgelegen
+  bijgelegen
+  nabijgelegen
+
+hooghouden
+  hooghouden
+  omhooghouden
+
+nalopen
+  achternalopen
+  nalopen
+
+omzien
+  achteromzien
+  omzien
+
+bevolken
+  bevolken
+  overbevolken
+
+hevelen
+  hevelen
+  overhevelen
+
+schorsen
+  opschorsen
+  schorsen
+
+afgegaan
+  afgegaan
+  voorafgegaan
+
+klooien
+  aanklooien
+  klooien
+
+toetsen
+  intoetsen
+  toetsen
+
+overdrukken
+  achteroverdrukken
+  overdrukken
+
+schemeren
+  doorschemeren
+  schemeren
+
+opleidingen
+  opleidingen
+  vooropleidingen
+
+klooiden
+  aanklooiden
+  klooiden
+
+rotzooiden
+  aanrotzooiden
+  rotzooiden
+
+switchten
+  aanswitchten
+  switchten
+
+aangekomen
+  aangekomen
+  achteraangekomen
+
+aankwamen
+  aankwamen
+  achteraankwamen
+
+omgekomen
+  achteromgekomen
+  omgekomen
+
+omgezien
+  achteromgezien
+  omgezien
+
+omkwamen
+  achteromkwamen
+  omkwamen
+
+omzagen
+  achteromzagen
+  omzagen
+
+opgekomen
+  achteropgekomen
+  opgekomen
+
+opkwamen
+  achteropkwamen
+  opkwamen
+
+overdrukten
+  achteroverdrukten
+  overdrukten
+
+uitgeschoven
+  achteruitgeschoven
+  uitgeschoven
+
+uitschoven
+  achteruitschoven
+  uitschoven
+
+schemerden
+  doorschemerden
+  schemerden
+
+toetsten
+  intoetsten
+  toetsten
+
+hooggehouden
+  hooggehouden
+  omhooggehouden
+
+hooghielden
+  hooghielden
+  omhooghielden
+
+schorsten
+  opschorsten
+  schorsten
+
+bevolkten
+  bevolkten
+  overbevolkten
+
+hevelden
+  hevelden
+  overhevelden
+
+middaggebeden
+  middaggebeden
+  namiddaggebeden
+
+nagelopen
+  achternagelopen
+  nagelopen
+
+naliepen
+  achternaliepen
+  naliepen
+
+hankelijkheden
+  aanhankelijkheden
+  afhankelijkheden
+
+onthouden
+  onthouden
+  oponthouden
+
+boxen
+  boxen
+  inboxen
+
+uren
+  overuren
+  uren
+
+liften
+  liften
+  meeliften
+
+bijvoeren
+  bijvoeren
+  voorbijvoeren
+
+keuringen
+  afkeuringen
+  keuringen
+
+kasten
+  kasten
+  onderkasten
+
+stoelen
+  stoelen
+  voorstoelen
+
+rossen
+  afrossen
+  rossen
+
+rammelen
+  aframmelen
+  rammelen
+
+zwerven
+  omzwerven
+  zwerven
+
+draden
+  binnendraden
+  draden
+
+markten
+  binnenmarkten
+  markten
+
+schroefdraden
+  binnenschroefdraden
+  schroefdraden
+
+lessen
+  bijlessen
+  lessen
+
+aardingen
+  aanaardingen
+  aardingen
+
+haligheden
+  aanhaligheden
+  inhaligheden
+
+wezigheden
+  aanwezigheden
+  afwezigheden
+
+betalingssystemen
+  afbetalingssystemen
+  betalingssystemen
+
+valligheden
+  afvalligheden
+  toevalligheden
+
+slachtingen
+  afslachtingen
+  slachtingen
+
+rammelden
+  aframmelden
+  rammelden
+
+rosten
+  afrosten
+  rosten
+
+zwierven
+  omzwierven
+  zwierven
+
+zetterijen
+  afzetterijen
+  zetterijen
+
+filtraren
+  filtraren
+  infiltraren
+
+filtrasen
+  filtrasen
+  infiltrasen
+
+filtren
+  filtren
+  infiltren
+
+utilicen
+  inutilicen
+  utilicen
+
+utilizaren
+  inutilizaren
+  utilizaren
+
+utilizasen
+  inutilizasen
+  utilizasen
+
+wervingen
+  aanwervingen
+  wervingen
+
+kiessystemen
+  doorkiessystemen
+  kiessystemen
+
+slagpunten
+  inslagpunten
+  omslagpunten
+
+stabiliteiten
+  instabiliteiten
+  stabiliteiten
+
+jaarsavonden
+  najaarsavonden
+  voorjaarsavonden
+
+jaarsmiddagen
+  najaarsmiddagen
+  voorjaarsmiddagen
+
+jaarsnachten
+  najaarsnachten
+  voorjaarsnachten
+
+jaarsochtenden
+  najaarsochtenden
+  voorjaarsochtenden
+
+dominanten
+  dominanten
+  onderdominanten
+
+handelaren
+  handelaren
+  onderhandelaren
+
+jufferblokken
+  jufferblokken
+  onderjufferblokken
+
+watersporten
+  onderwatersporten
+  watersporten
+
+temperaturen
+  ondertemperaturen
+  temperaturen
+
+windingen
+  opwindingen
+  windingen
+
+bevolkingen
+  bevolkingen
+  overbevolkingen
+
+noemingen
+  opnoemingen
+  overnoemingen
+
+taken
+  overtaken
+  taken
+
+schulpen
+  schulpen
+  uitschulpen
+
+schuimen
+  afschuimen
+  schuimen
+
+lijningen
+  omlijningen
+  uitlijningen
+
+bouwdozen
+  bouwdozen
+  inbouwdozen
+
+bestemmingen
+  bestemmingen
+  voorbestemmingen
+
+bipsen
+  bipsen
+  voorbipsen
+
+wetenschappen
+  voorwetenschappen
+  wetenschappen
+
+aanduidingen
+  aanduidingen
+  wegaanduidingen
+
+woelen
+  omwoelen
+  woelen
+
+verbinden
+  doorverbinden
+  verbinden
+
+verbonden
+  doorverbonden
+  verbonden
+
+ontwerpen
+  ontwerpen
+  voorontwerpen
+
+vorderen
+  invorderen
+  vorderen
+
+versperringen
+  versperringen
+  wegversperringen
+
+directeuren
+  directeuren
+  onderdirecteuren
+
+wasbakken
+  afwasbakken
+  wasbakken
+
+berghokken
+  berghokken
+  opberghokken
+
+officieren
+  officieren
+  onderofficieren
+
+zwakken
+  afzwakken
+  zwakken
+
+verdienen
+  bijverdienen
+  verdienen
+
+kleuren
+  inkleuren
+  kleuren
+
+rokken
+  onderrokken
+  rokken
+
+puilen
+  puilen
+  uitpuilen
+
+ingangen
+  achteringangen
+  ingangen
+
+compenseren
+  compenseren
+  overcompenseren
+
+compenseerden
+  compenseerden
+  overcompenseerden
+
+drammen
+  doordrammen
+  drammen
+
+opstellen
+  opstellen
+  vooropstellen
+
+vermoeien
+  oververmoeien
+  vermoeien
+
+verzadigen
+  oververzadigen
+  verzadigen
+
+dutten
+  dutten
+  indutten
+
+pleuren
+  oppleuren
+  pleuren
+
+schokken
+  naschokken
+  schokken
+
+kinnen
+  kinnen
+  onderkinnen
+
+telsommen
+  aftelsommen
+  optelsommen
+
+kroppen
+  kroppen
+  opkroppen
+
+peppen
+  oppeppen
+  peppen
+
+tutten
+  optutten
+  tutten
+
+naderingen
+  naderingen
+  toenaderingen
+
+zieken
+  uitzieken
+  zieken
+
+dromen
+  dromen
+  wegdromen
+
+krabben
+  afkrabben
+  krabben
+
+tanken
+  bijtanken
+  tanken
+
+pluggen
+  inpluggen
+  pluggen
+
+razen
+  razen
+  uitrazen
+
+spijkeren
+  bijspijkeren
+  spijkeren
+
+kappingen
+  afkappingen
+  overkappingen
+
+koppen
+  inkoppen
+  koppen
+
+namiddagen
+  achternamiddagen
+  namiddagen
+
+nazitten
+  achternazitten
+  nazitten
+
+nagezeten
+  achternagezeten
+  nagezeten
+
+opraken
+  achteropraken
+  opraken
+
+beulen
+  afbeulen
+  beulen
+
+bikken
+  afbikken
+  bikken
+
+trainen
+  aftrainen
+  trainen
+
+grendelen
+  afgrendelen
+  grendelen
+
+raffelen
+  afraffelen
+  raffelen
+
+stuiten
+  afstuiten
+  stuiten
+
+lebberen
+  aflebberen
+  lebberen
+
+marcheren
+  afmarcheren
+  marcheren
+
+schminken
+  afschminken
+  schminken
+
+tobben
+  aftobben
+  tobben
+
+toppen
+  aftoppen
+  toppen
+
+werkplekken
+  afwerkplekken
+  werkplekken
+
+klederen
+  klederen
+  onderklederen
+
+ruggen
+  onderruggen
+  ruggen
+
+sloffen
+  bijsloffen
+  sloffen
+
+bochten
+  binnenbochten
+  bochten
+
+druppelen
+  binnendruppelen
+  druppelen
+
+vergroten
+  uitvergroten
+  vergroten
+
+rondingen
+  afrondingen
+  rondingen
+
+stulpingen
+  instulpingen
+  uitstulpingen
+
+tekenaren
+  intekenaren
+  ondertekenaren
+
+turisten
+  naturisten
+  turisten
+
+belastingen
+  belastingen
+  overbelastingen
+
+sparingen
+  sparingen
+  uitsparingen
+
+schrokken
+  opschrokken
+  schrokken
+
+nazaten
+  achternazaten
+  nazaten
+
+opraakten
+  achteropraakten
+  opraakten
+
+beulden
+  afbeulden
+  beulden
+
+bikten
+  afbikten
+  bikten
+
+grendelden
+  afgrendelden
+  grendelden
+
+krabden
+  afkrabden
+  krabden
+
+lebberden
+  aflebberden
+  lebberden
+
+marcheerden
+  afmarcheerden
+  marcheerden
+
+raffelden
+  afraffelden
+  raffelden
+
+schminkten
+  afschminkten
+  schminkten
+
+schuimden
+  afschuimden
+  schuimden
+
+slootten
+  afslootten
+  slootten
+
+stuitten
+  afstuitten
+  stuitten
+
+tobden
+  aftobden
+  tobden
+
+topten
+  aftopten
+  topten
+
+trainden
+  aftrainden
+  trainden
+
+zichtten
+  afzichtten
+  zichtten
+
+zwakten
+  afzwakten
+  zwakten
+
+spijkerden
+  bijspijkerden
+  spijkerden
+
+tankten
+  bijtankten
+  tankten
+
+verdien
+  bijverdien
+  verdien
+
+verdienden
+  bijverdienden
+  verdienden
+
+druppelden
+  binnendruppelden
+  druppelden
+
+dramden
+  doordramden
+  dramden
+
+tochtten
+  doortochtten
+  tochtten
+
+kleurden
+  inkleurden
+  kleurden
+
+kopten
+  inkopten
+  kopten
+
+plugden
+  inplugden
+  plugden
+
+vorderden
+  invorderden
+  vorderden
+
+liftten
+  liftten
+  meeliftten
+
+tuurden
+  natuurden
+  tuurden
+
+schiepen
+  omschiepen
+  schiepen
+
+woelden
+  omwoelden
+  woelden
+
+kropten
+  kropten
+  opkropten
+
+pleurden
+  oppleurden
+  pleurden
+
+vermoeiden
+  oververmoeiden
+  vermoeiden
+
+verzadigden
+  oververzadigden
+  verzadigden
+
+schrokten
+  opschrokten
+  schrokten
+
+braakten
+  braakten
+  uitbraakten
+
+puilden
+  puilden
+  uitpuilden
+
+raasden
+  raasden
+  uitraasden
+
+schulpten
+  schulpten
+  uitschulpten
+
+vergrootten
+  uitvergrootten
+  vergrootten
+
+ziekten
+  uitziekten
+  ziekten
+
+opstelden
+  opstelden
+  vooropstelden
+
+proefden
+  proefden
+  voorproefden
+
+droomden
+  droomden
+  wegdroomden
+
+scheerden
+  scheerden
+  wegscheerden
+
+waren
+  waren
+  wegwaren
+
+spanten
+  spanten
+  voorspanten
+
+berekenen
+  berekenen
+  doorberekenen
+
+spekken
+  doorspekken
+  spekken
+
+waden
+  doorwaden
+  waden
+
+bespreken
+  bespreken
+  nabespreken
+
+bereken
+  bereken
+  doorbereken
+
+berekenden
+  berekenden
+  doorberekenden
+
+spekten
+  doorspekten
+  spekten
+
+waadden
+  doorwaadden
+  waadden
+
+bespraken
+  bespraken
+  nabespraken
+
+besproken
+  besproken
+  nabesproken
+
+nagaan
+  achternagaan
+  nagaan
+
+uitwijken
+  achteruitwijken
+  uitwijken
+
+afbetalingen
+  afbetalingen
+  voorafbetalingen
+
+strijden
+  afstrijden
+  strijden
+
+spruiten
+  spruiten
+  uitspruiten
+
+afgaan
+  afgaan
+  voorafgaan
+
+bijlopen
+  bijlopen
+  voorbijlopen
+
+uitspringen
+  uitspringen
+  vooruitspringen
+
+borsten
+  borsten
+  inborsten
+
+boeten
+  boeten
+  inboeten
+
+boezemen
+  boezemen
+  inboezemen
+
+calculeren
+  calculeren
+  incalculeren
+
+opgaan
+  opgaan
+  vooropgaan
+
+besterven
+  aanbesterven
+  besterven
+
+nagegaan
+  achternagegaan
+  nagegaan
+
+nagingen
+  achternagingen
+  nagingen
+
+uitgeslagen
+  achteruitgeslagen
+  uitgeslagen
+
+uitgeweken
+  achteruitgeweken
+  uitgeweken
+
+uitsloegen
+  achteruitsloegen
+  uitsloegen
+
+uitweken
+  achteruitweken
+  uitweken
+
+boetten
+  boetten
+  inboetten
+
+calculeerden
+  calculeerden
+  incalculeerden
+
+eengeslagen
+  ineengeslagen
+  uiteengeslagen
+
+fluisteren
+  fluisteren
+  influisteren
+
+stinken
+  instinken
+  stinken
+
+validiteiten
+  invaliditeiten
+  validiteiten
+
+valswegen
+  invalswegen
+  uitvalswegen
+
+wijkelingen
+  inwijkelingen
+  uitwijkelingen
+
+zegenen
+  inzegenen
+  zegenen
+
+bestierven
+  aanbestierven
+  bestierven
+
+bestorven
+  aanbestorven
+  bestorven
+
+eensloegen
+  ineensloegen
+  uiteensloegen
+
+fluisterden
+  fluisterden
+  influisterden
+
+stonken
+  instonken
+  stonken
+
+sproten
+  sproten
+  uitsproten
+
+afgingen
+  afgingen
+  voorafgingen
+
+bijgelopen
+  bijgelopen
+  voorbijgelopen
+
+bijliepen
+  bijliepen
+  voorbijliepen
+
+opgegaan
+  opgegaan
+  vooropgegaan
+
+opgingen
+  opgingen
+  vooropgingen
+
+uitgesprongen
+  uitgesprongen
+  vooruitgesprongen
+
+uitsprongen
+  uitsprongen
+  vooruitsprongen
+
+bijtrekken
+  bijtrekken
+  voorbijtrekken
+
+hoogzitten
+  hoogzitten
+  omhoogzitten
+
+verrijden
+  omverrijden
+  verrijden
+
+verschieten
+  omverschieten
+  verschieten
+
+zuipen
+  opzuipen
+  zuipen
+
+vochtten
+  invochtten
+  vochtten
+
+zegenden
+  inzegenden
+  zegenden
+
+verreden
+  omverreden
+  verreden
+
+verschoten
+  omverschoten
+  verschoten
+
+versloegen
+  omversloegen
+  versloegen
+
+zopen
+  opzopen
+  zopen
+
+bijgetrokken
+  bijgetrokken
+  voorbijgetrokken
+
+bijtrokken
+  bijtrokken
+  voorbijtrokken
+
+knallen
+  afknallen
+  knallen
+
+uitwerpen
+  uitwerpen
+  vooruitwerpen
+
+uitkijken
+  uitkijken
+  vooruitkijken
+
+uitdenken
+  uitdenken
+  vooruitdenken
+
+liegen
+  liegen
+  voorliegen
+
+bijsteken
+  bijsteken
+  voorbijsteken
+
+bedingen
+  bedingen
+  voorbedingen
+
+versterven
+  aanversterven
+  versterven
+
+schijten
+  schijten
+  uitschijten
+
+knalden
+  afknalden
+  knalden
+
+scheten
+  scheten
+  uitscheten
+
+bedongen
+  bedongen
+  voorbedongen
+
+bijgestoken
+  bijgestoken
+  voorbijgestoken
+
+bijstaken
+  bijstaken
+  voorbijstaken
+
+uitdachten
+  uitdachten
+  vooruitdachten
+
+uitgekeken
+  uitgekeken
+  vooruitgekeken
+
+uitgeworpen
+  uitgeworpen
+  vooruitgeworpen
+
+uitkeken
+  uitkeken
+  vooruitkeken
+
+uitwierpen
+  uitwierpen
+  vooruitwierpen
+
+pijnen
+  napijnen
+  pijnen
+
+seizoen
+  naseizoen
+  seizoen
+
+seizoenen
+  naseizoenen
+  seizoenen
+
+bauwen
+  bauwen
+  nabauwen
+
+tafelen
+  natafelen
+  tafelen
+
+loopsnelheden
+  loopsnelheden
+  omloopsnelheden
+
+zendbrieven
+  omzendbrieven
+  zendbrieven
+
+turnen
+  omturnen
+  turnen
+
+verhalen
+  omverhalen
+  verhalen
+
+publiceren
+  publiceren
+  voorpubliceren
+
+bezettingen
+  bezettingen
+  onderbezettingen
+
+jurken
+  jurken
+  onderjurken
+
+koningen
+  koningen
+  onderkoningen
+
+vertegenwoordigingen
+  ondervertegenwoordigingen
+  vertegenwoordigingen
+
+bauwden
+  bauwden
+  nabauwden
+
+tafelden
+  natafelden
+  tafelden
+
+turnden
+  omturnden
+  turnden
+
+verhaalden
+  omverhaalden
+  verhaalden
+
+publiceerden
+  publiceerden
+  voorpubliceerden
+
+centiemen
+  centiemen
+  opcentiemen
+
+bouwwerken
+  bouwwerken
+  opbouwwerken
+
+doffen
+  doffen
+  opdoffen
+
+dissen
+  dissen
+  opdissen
+
+dirken
+  dirken
+  opdirken
+
+boksen
+  boksen
+  opboksen
+
+tanen
+  aftanen
+  tanen
+
+lawaaien
+  lawaaien
+  oplawaaien
+
+hogen
+  hogen
+  ophogen
+
+kalfateren
+  kalfateren
+  opkalfateren
+
+poneren
+  opponeren
+  poneren
+
+scharrelen
+  opscharrelen
+  scharrelen
+
+snorren
+  opsnorren
+  snorren
+
+sodemieteren
+  opsodemieteren
+  sodemieteren
+
+souperen
+  opsouperen
+  souperen
+
+stapelen
+  opstapelen
+  stapelen
+
+tornen
+  optornen
+  tornen
+
+trommelen
+  optrommelen
+  trommelen
+
+wellen
+  opwellen
+  wellen
+
+zwepen
+  opzwepen
+  zwepen
+
+klassen
+  klassen
+  overklassen
+
+waken
+  doorwaken
+  waken
+
+hallen
+  hallen
+  voorhallen
+
+waakten
+  doorwaakten
+  waakten
+
+boksten
+  boksten
+  opboksten
+
+doften
+  doften
+  opdoften
+
+hoogden
+  hoogden
+  ophoogden
+
+kalfaterden
+  kalfaterden
+  opkalfaterden
+
+poneerden
+  opponeerden
+  poneerden
+
+scharrelden
+  opscharrelden
+  scharrelden
+
+snorden
+  opsnorden
+  snorden
+
+sodemieterden
+  opsodemieterden
+  sodemieterden
+
+soupeerden
+  opsoupeerden
+  soupeerden
+
+stapelden
+  opstapelden
+  stapelden
+
+tornden
+  optornden
+  tornden
+
+trommelden
+  optrommelden
+  trommelden
+
+welden
+  opwelden
+  welden
+
+zweepten
+  opzweepten
+  zweepten
+
+manden
+  manden
+  overmanden
+
+disten
+  disten
+  opdisten
+
+rijtijden
+  aanrijtijden
+  rijtijden
+
+takelingen
+  aftakelingen
+  takelingen
+
+beddingen
+  beddingen
+  inbeddingen
+
+dozen
+  dozen
+  omdozen
+
+begrazingen
+  begrazingen
+  overbegrazingen
+
+verlaten
+  toeverlaten
+  verlaten
+
+pijnigen
+  afpijnigen
+  pijnigen
+
+pijnigden
+  afpijnigden
+  pijnigden
+
+keilen
+  keilen
+  wegkeilen
+
+maatregelen
+  maatregelen
+  tegenmaatregelen
+
+spitsen
+  spitsen
+  toespitsen
+
+jakkeren
+  afjakkeren
+  jakkeren
+
+gummen
+  gummen
+  uitgummen
+
+foeteren
+  foeteren
+  uitfoeteren
+
+puffen
+  puffen
+  uitpuffen
+
+kafferen
+  kafferen
+  uitkafferen
+
+joelen
+  joelen
+  uitjoelen
+
+loven
+  loven
+  uitloven
+
+rangeren
+  rangeren
+  uitrangeren
+
+proesten
+  proesten
+  uitproesten
+
+neden
+  naneden
+  neden
+
+mergelen
+  mergelen
+  uitmergelen
+
+onderzoeken
+  onderzoeken
+  vooronderzoeken
+
+scannen
+  inscannen
+  scannen
+
+haasten
+  haasten
+  overhaasten
+
+matigingen
+  aanmatigingen
+  matigingen
+
+bouten
+  achterbouten
+  bouten
+
+bergvakken
+  bergvakken
+  opbergvakken
+
+haaldagen
+  inhaaldagen
+  ophaaldagen
+
+ingenomen
+  ingenomen
+  vooringenomen
+
+arresten
+  arresten
+  voorarresten
+
+portalen
+  portalen
+  voorportalen
+
+posten
+  posten
+  voorposten
+
+beschikken
+  beschikken
+  voorbeschikken
+
+bestemmen
+  bestemmen
+  voorbestemmen
+
+bijpraten
+  bijpraten
+  voorbijpraten
+
+sorteren
+  sorteren
+  voorsorteren
+
+liggingen
+  liggingen
+  wegliggingen
+
+markeringen
+  markeringen
+  wegmarkeringen
+
+omleggingen
+  omleggingen
+  wegomleggingen
+
+pesten
+  pesten
+  wegpesten
+
+jakkerden
+  afjakkerden
+  jakkerden
+
+haastten
+  haastten
+  overhaastten
+
+spitsten
+  spitsten
+  toespitsten
+
+foeterden
+  foeterden
+  uitfoeterden
+
+gumden
+  gumden
+  uitgumden
+
+joelden
+  joelden
+  uitjoelden
+
+kafferden
+  kafferden
+  uitkafferden
+
+loofden
+  loofden
+  uitloofden
+
+mergelden
+  mergelden
+  uitmergelden
+
+proestten
+  proestten
+  uitproestten
+
+puften
+  puften
+  uitpuften
+
+rangeerden
+  rangeerden
+  uitrangeerden
+
+stalden
+  stalden
+  uitstalden
+
+beschikten
+  beschikten
+  voorbeschikten
+
+bestemden
+  bestemden
+  voorbestemden
+
+bijpraatten
+  bijpraatten
+  voorbijpraatten
+
+opstonden
+  opstonden
+  vooropstonden
+
+sorteerden
+  sorteerden
+  voorsorteerden
+
+keilden
+  keilden
+  wegkeilden
+
+pestten
+  pestten
+  wegpestten
+
+zwijnen
+  afzwijnen
+  zwijnen
+
+piepen
+  oppiepen
+  piepen
+
+warken
+  meewarken
+  warken
+
+moorden
+  moorden
+  uitmoorden
+
+spreiden
+  spreiden
+  uitspreiden
+
+dekzeilen
+  afdekzeilen
+  dekzeilen
+
+pakwerken
+  inpakwerken
+  pakwerken
+
+dokteren
+  dokteren
+  uitdokteren
+
+kotsen
+  kotsen
+  uitkotsen
+
+stijven
+  opstijven
+  stijven
+
+telfouten
+  optelfouten
+  telfouten
+
+stukken
+  stukken
+  voorstukken
+
+spugen
+  spugen
+  uitspugen
+
+kloegen
+  aankloegen
+  kloegen
+
+sloften
+  bijsloften
+  sloften
+
+scanden
+  inscanden
+  scanden
+
+piepten
+  oppiepten
+  piepten
+
+stijfden
+  opstijfden
+  stijfden
+
+dokterden
+  dokterden
+  uitdokterden
+
+kotsten
+  kotsten
+  uitkotsten
+
+moordden
+  moordden
+  uitmoordden
+
+spreidden
+  spreidden
+  uitspreidden
+
+staakten
+  staakten
+  wegstaakten
+
+knopingen
+  aanknopingen
+  opknopingen
+
+leuningen
+  aanleuningen
+  leuningen
+
+vloeiingen
+  afvloeiingen
+  vloeiingen
+
+slaapmiddelen
+  inslaapmiddelen
+  slaapmiddelen
+
+ritsen
+  afritsen
+  ritsen
+
+kiepen
+  kiepen
+  omkiepen
+
+schonen
+  opschonen
+  schonen
+
+schrieven
+  inschrieven
+  schrieven
+
+heien
+  heien
+  onderheien
+
+financieren
+  financieren
+  onderfinancieren
+
+helften
+  helften
+  weghelften
+
+ranselingen
+  afranselingen
+  ranselingen
+
+rammelingen
+  aframmelingen
+  rammelingen
+
+leesfouten
+  afleesfouten
+  leesfouten
+
+godsbeelden
+  afgodsbeelden
+  godsbeelden
+
+betalingstermijnen
+  afbetalingstermijnen
+  betalingstermijnen
+
+knotten
+  afknotten
+  knotten
+
+fokken
+  fokken
+  opfokken
+
+kikkeren
+  kikkeren
+  opkikkeren
+
+vertoningen
+  vertoningen
+  voorvertoningen
+
+poorten
+  achterpoorten
+  poorten
+
+pinken
+  pinken
+  wegpinken
+
+ritsten
+  afritsten
+  ritsten
+
+planden
+  inplanden
+  planden
+
+kiepten
+  kiepten
+  omkiepten
+
+financierden
+  financierden
+  onderfinancierden
+
+heiden
+  heiden
+  onderheiden
+
+fokten
+  fokten
+  opfokten
+
+kikkerden
+  kikkerden
+  opkikkerden
+
+schoonden
+  opschoonden
+  schoonden
+
+spogen
+  spogen
+  uitspogen
+
+spuugden
+  spuugden
+  uitspuugden
+
+pinkten
+  pinkten
+  wegpinkten
+
+vluchtten
+  vluchtten
+  wegvluchtten
+
+startproblemen
+  opstartproblemen
+  startproblemen
+
+hechtenissen
+  hechtenissen
+  voorhechtenissen
+
+zinderen
+  nazinderen
+  zinderen
+
+flakkeren
+  flakkeren
+  opflakkeren
+
+slakken
+  slakken
+  wegslakken
+
+zinderden
+  nazinderden
+  zinderden
+
+flakkerden
+  flakkerden
+  opflakkerden
+
+luchten
+  luchten
+  opluchten
+
+rispen
+  oprispen
+  rispen
+
+printen
+  printen
+  uitprinten
+
+luchtten
+  luchtten
+  opluchtten
+
+rispten
+  oprispten
+  rispten
+
+printten
+  printten
+  uitprintten
+
+vertonen
+  vertonen
+  voorvertonen
+
+zuigingen
+  afzuigingen
+  zuigingen
+
+lapwerken
+  lapwerken
+  oplapwerken
+
+klieven
+  doorklieven
+  klieven
+
+kliefden
+  doorkliefden
+  kliefden
+
+vertoonden
+  vertoonden
+  voorvertoonden
+
+snijdingen
+  insnijdingen
+  snijdingen
+
+kantelen
+  kantelen
+  omkantelen
+
+gommen
+  gommen
+  uitgommen
+
+dieven
+  afdieven
+  dieven
+
+diefden
+  afdiefden
+  diefden
+
+kantelden
+  kantelden
+  omkantelden
+
+gomden
+  gomden
+  uitgomden
+
+duvelen
+  duvelen
+  opduvelen
+
+duvelden
+  duvelden
+  opduvelden
+
+beroepen
+  beroepen
+  bijberoepen
+
+trillen
+  natrillen
+  trillen
+
+enwerken
+  openwerken
+  wegenwerken
+
+remmingen
+  afremmingen
+  remmingen
+
+blokken
+  afblokken
+  blokken
+
+knagen
+  afknagen
+  knagen
+
+ratelen
+  afratelen
+  ratelen
+
+takken
+  aftakken
+  takken
+
+dwalingen
+  afdwalingen
+  dwalingen
+
+grazen
+  afgrazen
+  grazen
+
+blokten
+  afblokten
+  blokten
+
+graasden
+  afgraasden
+  graasden
+
+knaagden
+  afknaagden
+  knaagden
+
+ratelden
+  afratelden
+  ratelden
+
+takten
+  aftakten
+  takten
+
+trilden
+  natrilden
+  trilden
+
+ruilingen
+  omruilingen
+  ruilingen
+
+kegelen
+  kegelen
+  omkegelen
+
+repelen
+  afrepelen
+  repelen
+
+repelden
+  afrepelden
+  repelden
+
+kegelden
+  kegelden
+  omkegelden
+
+galmen
+  galmen
+  nagalmen
+
+masten
+  masten
+  voormasten
+
+naderen
+  naderen
+  toenaderen
+
+naderden
+  naderden
+  toenaderden
+
+kantingen
+  afkantingen
+  tegenkantingen
+
+vangsten
+  bijvangsten
+  vangsten
+
+poepen
+  poepen
+  uitpoepen
+
+vlammen
+  opvlammen
+  vlammen
+
+duikelen
+  duikelen
+  opduikelen
+
+duikelden
+  duikelden
+  opduikelden
+
+vlamden
+  opvlamden
+  vlamden
+
+poepten
+  poepten
+  uitpoepten
+
+bergingen
+  bergingen
+  opbergingen
+
+kerven
+  inkerven
+  kerven
+
+dijkingen
+  indijkingen
+  omdijkingen
+
+vangnetten
+  opvangnetten
+  vangnetten
+
+lakken
+  aflakken
+  lakken
+
+strengelen
+  omstrengelen
+  strengelen
+
+lakten
+  aflakten
+  lakten
+
+kerfden
+  inkerfden
+  kerfden
+
+strengelden
+  omstrengelden
+  strengelden
+
+luusteren
+  luusteren
+  meeluusteren
+
+dammingen
+  afdammingen
+  indammingen
+
+oogsten
+  naoogsten
+  oogsten
+
+vijzelen
+  opvijzelen
+  vijzelen
+
+verbredingen
+  verbredingen
+  wegverbredingen
+
+verzekeren
+  meeverzekeren
+  verzekeren
+
+mieteren
+  mieteren
+  wegmieteren
+
+mieterden
+  mieterden
+  wegmieterden
+
+stuwingen
+  opstuwingen
+  stuwingen
+
+valkuilen
+  afvalkuilen
+  valkuilen
+
+weringen
+  afweringen
+  weringen
+
+reuzen
+  reuzen
+  wegreuzen
+
+vlaggen
+  afvlaggen
+  vlaggen
+
+wroeten
+  omwroeten
+  wroeten
+
+peuteren
+  peuteren
+  uitpeuteren
+
+bazen
+  bazen
+  onderbazen
+
+effecten
+  bijeffecten
+  effecten
+
+tappunten
+  aftappunten
+  tappunten
+
+zalen
+  bijzalen
+  zalen
+
+turven
+  afturven
+  turven
+
+ballen
+  ballen
+  bijballen
+
+figuren
+  bijfiguren
+  figuren
+
+pimpen
+  oppimpen
+  pimpen
+
+veren
+  opveren
+  veren
+
+dekverven
+  afdekverven
+  dekverven
+
+sluimeren
+  insluimeren
+  sluimeren
+
+vachten
+  ondervachten
+  vachten
+
+klokken
+  afklokken
+  klokken
+
+suffen
+  suffen
+  wegsuffen
+
+puien
+  puien
+  voorpuien
+
+sponsen
+  afsponsen
+  sponsen
+
+gistingen
+  gistingen
+  nagistingen
+
+woelingen
+  omwoelingen
+  woelingen
+
+fertiliteiten
+  fertiliteiten
+  infertiliteiten
+
+spijzen
+  spijzen
+  toespijzen
+
+kalefateren
+  kalefateren
+  opkalefateren
+
+toepen
+  toepen
+  toetoepen
+
+borduren
+  borduren
+  doorborduren
+
+wallen
+  omwallen
+  wallen
+
+kepen
+  inkepen
+  kepen
+
+frezen
+  frezen
+  uitfrezen
+
+kankeren
+  inkankeren
+  kankeren
+
+gipsen
+  gipsen
+  ingipsen
+
+kraaiden
+  kraaiden
+  uitkraaiden
+
+kristalliseerden
+  kristalliseerden
+  uitkristalliseerden
+
+plunderden
+  plunderden
+  uitplunderden
+
+torenden
+  torenden
+  uittorenden
+
+ventten
+  uitventten
+  ventten
+
+wasemden
+  uitwasemden
+  wasemden
+
+toren
+  toren
+  uittoren
+
+balanceren
+  balanceren
+  uitbalanceren
+
+botten
+  botten
+  uitbotten
+
+delgen
+  delgen
+  uitdelgen
+
+kraaien
+  kraaien
+  uitkraaien
+
+kristalliseren
+  kristalliseren
+  uitkristalliseren
+
+plunderen
+  plunderen
+  uitplunderen
+
+schateren
+  schateren
+  uitschateren
+
+selecteren
+  selecteren
+  uitselecteren
+
+veteren
+  uitveteren
+  veteren
+
+vloeken
+  uitvloeken
+  vloeken
+
+waaieren
+  uitwaaieren
+  waaieren
+
+wasemen
+  uitwasemen
+  wasemen
+
+woeden
+  uitwoeden
+  woeden
+
+zwavelen
+  uitzwavelen
+  zwavelen
+
+freaken
+  freaken
+  uitfreaken
+
+flapten
+  flapten
+  uitflapten
+
+kavelen
+  kavelen
+  uitkavelen
+
+puren
+  puren
+  uitpuren
+
+middelpuntigheden
+  middelpuntigheden
+  uitmiddelpuntigheden
+
+rijstroken
+  rijstroken
+  uitrijstroken
+
+sjokken
+  meesjokken
+  sjokken
+
+afzettingen
+  afzettingen
+  wegafzettingen
+
+bonjouren
+  bonjouren
+  wegbonjouren
+
+promoveren
+  promoveren
+  wegpromoveren
+
+schrappen
+  schrappen
+  wegschrappen
+
+raspen
+  afraspen
+  raspen
+
+plukken
+  afplukken
+  plukken
+
+doppen
+  afdoppen
+  doppen
+
+sieren
+  opsieren
+  sieren
+
+pulken
+  afpulken
+  pulken
+
+ruwen
+  opruwen
+  ruwen
+
+torsen
+  meetorsen
+  torsen
+
+dopten
+  afdopten
+  dopten
+
+klokten
+  afklokten
+  klokten
+
+plukten
+  afplukten
+  plukten
+
+pulkten
+  afpulkten
+  pulkten
+
+raspten
+  afraspten
+  raspten
+
+sponsten
+  afsponsten
+  sponsten
+
+turfden
+  afturfden
+  turfden
+
+vlagden
+  afvlagden
+  vlagden
+
+borduurden
+  borduurden
+  doorborduurden
+
+gipsten
+  gipsten
+  ingipsten
+
+kankerden
+  inkankerden
+  kankerden
+
+sluimerden
+  insluimerden
+  sluimerden
+
+tuinden
+  intuinden
+  tuinden
+
+torsten
+  meetorsten
+  torsten
+
+verzekerden
+  meeverzekerden
+  verzekerden
+
+galmden
+  galmden
+  nagalmden
+
+walden
+  omwalden
+  walden
+
+wroetten
+  omwroetten
+  wroetten
+
+kalefaterden
+  kalefaterden
+  opkalefaterden
+
+pimpten
+  oppimpten
+  pimpten
+
+ruwden
+  opruwden
+  ruwden
+
+sierden
+  opsierden
+  sierden
+
+veerden
+  opveerden
+  veerden
+
+vijzelden
+  opvijzelden
+  vijzelden
+
+balanceerden
+  balanceerden
+  uitbalanceerden
+
+delgden
+  delgden
+  uitdelgden
+
+freesden
+  freesden
+  uitfreesden
+
+gierden
+  gierden
+  uitgierden
+
+kavelden
+  kavelden
+  uitkavelden
+
+loogden
+  loogden
+  uitloogden
+
+peuterden
+  peuterden
+  uitpeuterden
+
+puurden
+  puurden
+  uitpuurden
+
+schaterden
+  schaterden
+  uitschaterden
+
+selecteerden
+  selecteerden
+  uitselecteerden
+
+veterden
+  uitveterden
+  veterden
+
+vloekten
+  uitvloekten
+  vloekten
+
+waaierden
+  uitwaaierden
+  waaierden
+
+woedden
+  uitwoedden
+  woedden
+
+zwavelden
+  uitzwavelden
+  zwavelden
+
+bonjourden
+  bonjourden
+  wegbonjourden
+
+promoveerden
+  promoveerden
+  wegpromoveerden
+
+schrapten
+  schrapten
+  wegschrapten
+
+suften
+  suften
+  wegsuften
+
+korven
+  inkorven
+  korven
+
+tooien
+  optooien
+  tooien
+
+delvingen
+  delvingen
+  opdelvingen
+
+dansen
+  afdansen
+  dansen
+
+welvingen
+  overwelvingen
+  welvingen
+
+dreigen
+  afdreigen
+  dreigen
+
+vrouwen
+  bijvrouwen
+  vrouwen
+
+zemen
+  afzemen
+  zemen
+
+glanzen
+  glanzen
+  naglanzen
+
+glansen
+  glansen
+  naglansen
+
+dansten
+  afdansten
+  dansten
+
+dreigden
+  afdreigden
+  dreigden
+
+hamerden
+  afhamerden
+  hamerden
+
+zeemden
+  afzeemden
+  zeemden
+
+korfden
+  inkorfden
+  korfden
+
+tooiden
+  optooiden
+  tooiden
+
+tassen
+  ondertassen
+  tassen
+
+diensten
+  diensten
+  nadiensten
+
+haspelen
+  afhaspelen
+  haspelen
+
+pitsen
+  afpitsen
+  pitsen
+
+kransen
+  kransen
+  omkransen
+
+sponzen
+  afsponzen
+  sponzen
+
+haspelden
+  afhaspelden
+  haspelden
+
+kantten
+  afkantten
+  kantten
+
+melkten
+  afmelkten
+  melkten
+
+pitsten
+  afpitsten
+  pitsten
+
+sponsden
+  afsponsden
+  sponsden
+
+kransten
+  kransten
+  omkransten
+
+kaatsen
+  afkaatsen
+  kaatsen
+
+deklagen
+  afdeklagen
+  deklagen
+
+ronselen
+  afronselen
+  ronselen
+
+snoeien
+  afsnoeien
+  snoeien
+
+kruien
+  kruien
+  opkruien
+
+knobbelen
+  knobbelen
+  uitknobbelen
+
+garen
+  garen
+  voorgaren
+
+bewerken
+  bewerken
+  voorbewerken
+
+opzetten
+  opzetten
+  vooropzetten
+
+nijpen
+  afnijpen
+  nijpen
+
+beschouwen
+  beschouwen
+  voorbeschouwen
+
+schuttingen
+  afschuttingen
+  schuttingen
+
+knauwen
+  afknauwen
+  knauwen
+
+pennen
+  afpennen
+  pennen
+
+zwieren
+  afzwieren
+  zwieren
+
+tokkelen
+  aftokkelen
+  tokkelen
+
+kaatsten
+  afkaatsten
+  kaatsten
+
+nepen
+  afnepen
+  nepen
+
+ronselden
+  afronselden
+  ronselden
+
+snoeiden
+  afsnoeiden
+  snoeiden
+
+zwierden
+  afzwierden
+  zwierden
+
+vuringen
+  aanvuringen
+  afvuringen
+
+kruiden
+  kruiden
+  opkruiden
+
+knobbelden
+  knobbelden
+  uitknobbelden
+
+beschouwden
+  beschouwden
+  voorbeschouwden
+
+bewerkten
+  bewerkten
+  voorbewerkten
+
+knauwden
+  afknauwden
+  knauwden
+
+penden
+  afpenden
+  penden
+
+bussen
+  bussen
+  inbussen
+
+zegeningen
+  inzegeningen
+  zegeningen
+
+deemsteren
+  deemsteren
+  wegdeemsteren
+
+kuilen
+  inkuilen
+  kuilen
+
+peilen
+  afpeilen
+  peilen
+
+wagen
+  bijwagen
+  wagen
+
+zwikken
+  omzwikken
+  zwikken
+
+huwen
+  huwen
+  uithuwen
+
+druppen
+  afdruppen
+  druppen
+
+kleren
+  kleren
+  onderkleren
+
+buurlieden
+  buurlieden
+  overbuurlieden
+
+oefeningen
+  oefeningen
+  uitoefeningen
+
+drupten
+  afdrupten
+  drupten
+
+peilden
+  afpeilden
+  peilden
+
+kuilden
+  inkuilden
+  kuilden
+
+formaliseren
+  formaliseren
+  informaliseren
+
+zwikten
+  omzwikten
+  zwikten
+
+bleekten
+  bleekten
+  opbleekten
+
+huwden
+  huwden
+  uithuwden
+
+kerken
+  bijkerken
+  kerken
+
+brieven
+  brieven
+  overbrieven
+
+ramen
+  inramen
+  ramen
+
+raamden
+  inraamden
+  raamden
+
+briefden
+  briefden
+  overbriefden
+
+concurreren
+  concurreren
+  wegconcurreren
+
+beplantingen
+  beplantingen
+  wegbeplantingen
+
+bedekkingen
+  bedekkingen
+  wegbedekkingen
+
+bebakeningen
+  bebakeningen
+  wegbebakeningen
+
+barricaden
+  barricaden
+  wegbarricaden
+
+aansluitingen
+  aansluitingen
+  wegaansluitingen
+
+missen
+  missen
+  voormissen
+
+ponden
+  ponden
+  uitponden
+
+concurreerden
+  concurreerden
+  wegconcurreerden
+
+gillingen
+  gillingen
+  ondergillingen
+
+peilingen
+  afpeilingen
+  peilingen
+
+botsen
+  aanbotsen
+  botsen
+
+tollen
+  omtollen
+  tollen
+
+fladderen
+  fladderen
+  wegfladderen
+
+leesverhalen
+  leesverhalen
+  voorleesverhalen
+
+botsten
+  aanbotsten
+  botsten
+
+tolden
+  omtolden
+  tolden
+
+beschikkingen
+  beschikkingen
+  voorbeschikkingen
+
+makingen
+  afmakingen
+  makingen
+
+stouwen
+  instouwen
+  stouwen
+
+ramingen
+  omramingen
+  ramingen
+
+poken
+  oppoken
+  poken
+
+kussen
+  afkussen
+  kussen
+
+kusten
+  afkusten
+  kusten
+
+stouwden
+  instouwden
+  stouwden
+
+pookten
+  oppookten
+  pookten
+
