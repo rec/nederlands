@@ -1,2 +1,2 @@
-# dutch
-Dutch word frequencies
+# neederlands
+Neederland woord frequenties

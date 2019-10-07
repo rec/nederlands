@@ -1,0 +1,315 @@
+komen
+  aankomen achterkomen afkomen bijkomen binnenkomen doorkomen inkomen komen meekomen nakomen omkomen onderkomen opkomen overkomen tegenkomen toekomen uitkomen voorkomen wegkomen
+
+lopen
+  aanlopen achterlopen aflopen bijlopen binnenlopen doorlopen inlopen lopen meelopen nalopen omlopen onderlopen oplopen overlopen toelopen uitlopen voorlopen weglopen
+
+gaan
+  aangaan afgaan binnengaan doorgaan gaan ingaan meegaan nagaan omgaan ondergaan opgaan overgaan tegengaan toegaan uitgaan voorgaan weggaan
+
+brengen
+  aanbrengen afbrengen bijbrengen binnenbrengen brengen doorbrengen inbrengen meebrengen nabrengen ombrengen onderbrengen opbrengen overbrengen toebrengen uitbrengen voorbrengen wegbrengen
+
+werken
+  achterwerken afwerken bijwerken binnenwerken doorwerken inwerken meewerken nawerken omwerken opwerken overwerken tegenwerken toewerken uitwerken voorwerken wegwerken werken
+
+houden
+  aanhouden achterhouden afhouden bijhouden binnenhouden houden inhouden nahouden omhouden onderhouden ophouden overhouden tegenhouden uithouden voorhouden weghouden
+
+doen
+  aandoen afdoen bijdoen doen doordoen indoen meedoen nadoen omdoen onderdoen opdoen overdoen toedoen uitdoen voordoen wegdoen
+
+spelen
+  aanspelen afspelen bijspelen doorspelen inspelen meespelen naspelen omspelen opspelen overspelen spelen tegenspelen toespelen uitspelen voorspelen wegspelen
+
+geven
+  aangeven afgeven bijgeven doorgeven geven ingeven meegeven nageven omgeven opgeven overgeven toegeven uitgeven voorgeven weggeven
+
+zetten
+  aanzetten afzetten bijzetten doorzetten inzetten nazetten omzetten onderzetten opzetten overzetten tegenzetten uitzetten voorzetten wegzetten zetten
+
+trekken
+  aantrekken aftrekken bijtrekken binnentrekken doortrekken intrekken meetrekken natrekken omtrekken optrekken overtrekken trekken uittrekken voortrekken wegtrekken
+
+vallen
+  aanvallen afvallen bijvallen binnenvallen invallen meevallen omvallen opvallen overvallen tegenvallen toevallen uitvallen vallen voorvallen wegvallen
+
+namen
+  aannamen achternamen afnamen bijnamen doornamen innamen meenamen namen ondernamen opnamen overnamen toenamen uitnamen voornamen wegnamen
+
+gaven
+  aangaven afgaven bijgaven doorgaven gaven ingaven meegaven nagaven omgaven opgaven overgaven toegaven uitgaven voorgaven weggaven
+
+slagen
+  aanslagen afslagen bijslagen doorslagen inslagen naslagen omslagen onderslagen opslagen overslagen slagen tegenslagen toeslagen uitslagen voorslagen
+
+vielen
+  aanvielen afvielen bijvielen binnenvielen invielen meevielen omvielen opvielen overvielen tegenvielen toevielen uitvielen vielen voorvielen wegvielen
+
+trokken
+  aantrokken aftrokken bijtrokken binnentrokken doortrokken introkken meetrokken natrokken omtrokken optrokken overtrokken trokken uittrokken voortrokken wegtrokken
+
+schrijven
+  aanschrijven afschrijven bijschrijven doorschrijven inschrijven omschrijven onderschrijven opschrijven overschrijven schrijven toeschrijven uitschrijven voorschrijven wegschrijven
+
+voeren
+  aanvoeren afvoeren bijvoeren binnenvoeren doorvoeren invoeren meevoeren omvoeren opvoeren overvoeren toevoeren uitvoeren voeren wegvoeren
+
+nemen
+  aannemen afnemen bijnemen doornemen innemen meenemen nemen ondernemen opnemen overnemen toenemen uitnemen voornemen wegnemen
+
+rijden
+  aanrijden afrijden binnenrijden doorrijden inrijden meerijden narijden omrijden oprijden overrijden rijden uitrijden voorrijden wegrijden
+
+steken
+  aansteken afsteken bijsteken doorsteken insteken ondersteken opsteken oversteken steken tegensteken toesteken uitsteken voorsteken wegsteken
+
+laten
+  aanlaten achterlaten aflaten binnenlaten doorlaten inlaten laten nalaten oplaten overlaten toelaten uitlaten voorlaten weglaten
+
+halen
+  aanhalen achterhalen afhalen bijhalen binnenhalen doorhalen halen inhalen omhalen ophalen overhalen toehalen uithalen weghalen
+
+dragen
+  aandragen afdragen bijdragen dragen indragen meedragen nadragen omdragen opdragen overdragen toedragen uitdragen voordragen wegdragen
+
+stonden
+  aanstonden achterstonden afstonden bijstonden doorstonden instonden onderstonden opstonden overstonden stonden tegenstonden toestonden uitstonden voorstonden
+
+schreven
+  aanschreven afschreven bijschreven doorschreven inschreven omschreven onderschreven opschreven overschreven schreven toeschreven uitschreven voorschreven wegschreven
+
+staken
+  aanstaken afstaken bijstaken doorstaken instaken onderstaken opstaken overstaken staken tegenstaken toestaken uitstaken voorstaken wegstaken
+
+reden
+  aanreden afreden binnenreden doorreden inreden meereden nareden omreden opreden overreden reden uitreden voorreden wegreden
+
+leggen
+  aanleggen afleggen bijleggen inleggen leggen omleggen onderleggen opleggen overleggen toeleggen uitleggen voorleggen wegleggen
+
+stellen
+  aanstellen achterstellen afstellen bijstellen instellen omstellen onderstellen opstellen stellen tegenstellen toestellen uitstellen voorstellen
+
+delen
+  aandelen achterdelen delen indelen meedelen nadelen onderdelen opdelen tegendelen toedelen uitdelen voordelen wegdelen
+
+kijken
+  aankijken afkijken doorkijken inkijken kijken meekijken nakijken omkijken opkijken overkijken toekijken uitkijken wegkijken
+
+schieten
+  aanschieten afschieten binnenschieten doorschieten inschieten omschieten opschieten overschieten schieten toeschieten uitschieten voorschieten wegschieten
+
+keken
+  aankeken afkeken doorkeken inkeken keken meekeken nakeken omkeken opkeken overkeken toekeken uitkeken wegkeken
+
+schoten
+  aanschoten afschoten binnenschoten doorschoten inschoten omschoten opschoten overschoten schoten toeschoten uitschoten voorschoten wegschoten
+
+voerden
+  aanvoerden afvoerden bijvoerden binnenvoerden doorvoerden invoerden meevoerden opvoerden overvoerden toevoerden uitvoerden voerden wegvoerden
+
+drukken
+  aandrukken afdrukken bijdrukken doordrukken drukken indrukken nadrukken onderdrukken opdrukken overdrukken tegendrukken uitdrukken
+
+zien
+  aanzien afzien doorzien inzien nazien omzien opzien overzien toezien uitzien voorzien zien
+
+maken
+  aanmaken afmaken bijmaken doormaken inmaken maken meemaken namaken opmaken overmaken uitmaken wegmaken
+
+wegen
+  achterwegen afwegen bijwegen binnenwegen doorwegen meewegen nawegen omwegen opwegen overwegen uitwegen wegen
+
+blijven
+  aanblijven achterblijven afblijven bijblijven binnenblijven blijven nablijven opblijven overblijven uitblijven voorblijven wegblijven
+
+stoten
+  aanstoten afstoten doorstoten instoten nastoten omstoten opstoten stoten toestoten uitstoten voorstoten wegstoten
+
+sturen
+  aansturen afsturen bijsturen doorsturen insturen meesturen nasturen opsturen sturen toesturen uitsturen wegsturen
+
+roepen
+  aanroepen afroepen binnenroepen inroepen naroepen omroepen oproepen overroepen roepen toeroepen uitroepen wegroepen
+
+varen
+  aanvaren afvaren binnenvaren doorvaren invaren meevaren omvaren opvaren overvaren uitvaren varen wegvaren
+
+slepen
+  aanslepen afslepen bijslepen binnenslepen inslepen meeslepen naslepen omslepen opslepen slepen uitslepen wegslepen
+
+zagen
+  aanzagen afzagen doorzagen inzagen nazagen omzagen opzagen overzagen toezagen uitzagen voorzagen zagen
+
+teken
+  aanteken afteken bijteken inteken nateken onderteken opteken overteken teken uitteken voorteken wegteken
+
+denken
+  aandenken achterdenken denken doordenken indenken meedenken nadenken overdenken toedenken uitdenken wegdenken
+
+treden
+  aantreden aftreden bijtreden binnentreden intreden optreden overtreden toetreden treden uittreden voortreden
+
+tekenen
+  aantekenen aftekenen bijtekenen intekenen natekenen ondertekenen optekenen overtekenen tekenen uittekenen voortekenen
+
+drijven
+  aandrijven afdrijven doordrijven drijven indrijven meedrijven omdrijven opdrijven overdrijven uitdrijven wegdrijven
+
+snijden
+  aansnijden afsnijden bijsnijden doorsnijden insnijden opsnijden snijden toesnijden uitsnijden voorsnijden wegsnijden
+
+hangen
+  aanhangen afhangen bijhangen doorhangen hangen omhangen ophangen overhangen uithangen voorhangen weghangen
+
+blazen
+  aanblazen afblazen blazen doorblazen inblazen meeblazen omblazen opblazen overblazen uitblazen wegblazen
+
+lichten
+  aanlichten achterlichten bijlichten doorlichten inlichten lichten oplichten tegenlichten toelichten uitlichten voorlichten
+
+werpen
+  afwerpen inwerpen omwerpen onderwerpen opwerpen tegenwerpen toewerpen uitwerpen voorwerpen wegwerpen werpen
+
+draaien
+  aandraaien afdraaien bijdraaien doordraaien draaien indraaien meedraaien omdraaien opdraaien uitdraaien wegdraaien
+
+schuiven
+  aanschuiven afschuiven bijschuiven binnenschuiven doorschuiven inschuiven onderschuiven opschuiven schuiven uitschuiven wegschuiven
+
+vliegen
+  aanvliegen afvliegen binnenvliegen invliegen meevliegen omvliegen opvliegen overvliegen uitvliegen vliegen wegvliegen
+
+bouwen
+  aanbouwen afbouwen bijbouwen bouwen inbouwen meebouwen nabouwen ombouwen onderbouwen opbouwen uitbouwen
+
+kopen
+  aankopen afkopen bijkopen inkopen kopen omkopen opkopen overkopen uitkopen voorkopen wegkopen
+
+praten
+  aanpraten bijpraten doorpraten inpraten meepraten napraten ompraten praten uitpraten voorpraten wegpraten
+
+zitten
+  aanzitten bijzitten inzitten meezitten nazitten opzitten overzitten tegenzitten uitzitten voorzitten zitten
+
+stromen
+  afstromen binnenstromen doorstromen instromen onderstromen overstromen stromen tegenstromen toestromen uitstromen wegstromen
+
+dreven
+  aandreven afdreven doordreven dreven indreven meedreven omdreven opdreven overdreven uitdreven wegdreven
+
+spraken
+  aanspraken afspraken doorspraken inspraken naspraken overspraken spraken tegenspraken toespraken uitspraken voorspraken
+
+rollen
+  aanrollen afrollen bijrollen doorrollen inrollen narollen omrollen oprollen rollen uitrollen wegrollen
+
+traden
+  aantraden aftraden bijtraden binnentraden intraden optraden overtraden toetraden traden uittraden voortraden
+
+lagen
+  aanlagen achterlagen bijlagen doorlagen inlagen lagen omlagen onderlagen oplagen toelagen voorlagen
+
+hingen
+  aanhingen afhingen bijhingen doorhingen hingen omhingen ophingen overhingen uithingen voorhingen weghingen
+
+breken
+  aanbreken afbreken binnenbreken breken doorbreken inbreken onderbreken opbreken uitbreken wegbreken
+
+spreken
+  aanspreken afspreken doorspreken inspreken naspreken spreken tegenspreken toespreken uitspreken voorspreken
+
+vragen
+  aanvragen afvragen doorvragen meevragen navragen ondervragen opvragen overvragen uitvragen vragen
+
+bakken
+  aanbakken achterbakken afbakken bakken doorbakken inbakken meebakken opbakken uitbakken voorbakken
+
+rekenen
+  aanrekenen afrekenen inrekenen meerekenen narekenen omrekenen rekenen toerekenen uitrekenen voorrekenen
+
+leven
+  afleven doorleven inleven leven meeleven naleven opleven overleven toeleven uitleven
+
+gooien
+  aangooien afgooien bijgooien gooien ingooien omgooien opgooien toegooien uitgooien weggooien
+
+zenden
+  afzenden doorzenden inzenden meezenden nazenden opzenden toezenden uitzenden wegzenden zenden
+
+branden
+  aanbranden afbranden binnenbranden branden doorbranden inbranden nabranden opbranden uitbranden wegbranden
+
+leveren
+  aanleveren afleveren bijleveren inleveren leveren naleveren opleveren overleveren toeleveren uitleveren
+
+buigen
+  afbuigen bijbuigen buigen doorbuigen inbuigen meebuigen ombuigen overbuigen toebuigen uitbuigen
+
+spannen
+  aanspannen afspannen inspannen omspannen onderspannen opspannen overspannen spannen uitspannen voorspannen
+
+waaien
+  aanwaaien afwaaien inwaaien meewaaien omwaaien opwaaien overwaaien uitwaaien waaien wegwaaien
+
+springen
+  aanspringen afspringen bijspringen inspringen omspringen opspringen overspringen springen uitspringen wegspringen
+
+lezen
+  aflezen doorlezen inlezen lezen meelezen nalezen oplezen overlezen uitlezen voorlezen
+
+laden
+  afladen bijladen doorladen inladen laden meeladen omladen opladen overladen uitladen
+
+vroegen
+  aanvroegen afvroegen doorvroegen meevroegen navroegen ondervroegen opvroegen overvroegen uitvroegen vroegen
+
+braken
+  aanbraken afbraken binnenbraken braken doorbraken inbraken onderbraken opbraken uitbraken wegbraken
+
+reken
+  aanreken afreken inreken meereken nareken omreken reken toereken uitreken voorreken
+
+sluiten
+  aansluiten afsluiten bijsluiten insluiten omsluiten opsluiten sluiten uitsluiten wegsluiten
+
+pakken
+  aanpakken afpakken inpakken meepakken ompakken oppakken pakken uitpakken wegpakken
+
+zoeken
+  aanzoeken afzoeken doorzoeken meezoeken nazoeken onderzoeken opzoeken uitzoeken zoeken
+
+stemmen
+  afstemmen instemmen meestemmen overstemmen stemmen tegenstemmen toestemmen voorstemmen wegstemmen
+
+wassen
+  aanwassen afwassen inwassen omwassen opwassen uitwassen voorwassen wassen wegwassen
+
+koken
+  afkoken doorkoken inkoken koken meekoken opkoken overkoken uitkoken voorkoken
+
+spoelen
+  aanspoelen afspoelen doorspoelen naspoelen omspoelen overspoelen spoelen uitspoelen wegspoelen
+
+dekken
+  achterdekken afdekken dekken indekken opdekken overdekken toedekken voordekken wegdekken
+
+duwen
+  aanduwen afduwen doorduwen duwen induwen omduwen opduwen uitduwen wegduwen
+
+gieten
+  aangieten afgieten bijgieten gieten ingieten opgieten overgieten uitgieten weggieten
+
+jagen
+  aanjagen afjagen doorjagen injagen jagen najagen opjagen overjagen wegjagen
+
+graven
+  afgraven doorgraven graven ingraven omgraven ondergraven opgraven uitgraven weggraven
+
+stellingen
+  aanstellingen afstellingen bijstellingen instellingen onderstellingen opstellingen stellingen tegenstellingen voorstellingen
+
+binden
+  aanbinden afbinden binden inbinden ombinden onderbinden opbinden toebinden voorbinden
+
