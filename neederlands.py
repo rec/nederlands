@@ -41,6 +41,7 @@ VOORVOEGSELS = (
     'ver',
     'vol',
     'voor',
+    'voorbe',
     'vrij',
     'weer',
     'weg',
