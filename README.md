@@ -1,2 +1,2 @@
 # neederlands
-Neederland woord frequenties
+Neederlandse woord frequenties

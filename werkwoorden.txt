@@ -56,6 +56,33 @@ lopen
   vrijlopen
   weglopen
 
+houden
+  aanhouden
+  achterhouden
+  afhouden
+  behouden
+  bijhouden
+  binnenhouden
+  goedhouden
+  houden
+  inhouden
+  nahouden
+  omhouden
+  onderhouden
+  onthouden
+  ophouden
+  overhouden
+  tegenhouden
+  uithouden
+  vasthouden
+  verhouden
+  volhouden
+  voorbehouden
+  voorhouden
+  vrijhouden
+  weerhouden
+  weghouden
+
 gaan
   aangaan
   afgaan
@@ -82,31 +109,31 @@ gaan
   voorgaan
   weggaan
 
-houden
-  aanhouden
-  achterhouden
-  afhouden
-  behouden
-  bijhouden
-  binnenhouden
-  goedhouden
-  houden
-  inhouden
-  nahouden
-  omhouden
-  onderhouden
-  onthouden
-  ophouden
-  overhouden
-  tegenhouden
-  uithouden
-  vasthouden
-  verhouden
-  volhouden
-  voorhouden
-  vrijhouden
-  weerhouden
-  weghouden
+werken
+  achterwerken
+  afwerken
+  bewerken
+  bijwerken
+  binnenwerken
+  doorwerken
+  herwerken
+  inwerken
+  loswerken
+  meewerken
+  nawerken
+  omwerken
+  opwerken
+  overwerken
+  samenwerken
+  tegenwerken
+  toewerken
+  uitwerken
+  verwerken
+  voorbewerken
+  voorwerken
+  wegwerken
+  werken
+  zwartwerken
 
 doen
   aandoen
@@ -157,31 +184,6 @@ vallen
   voorvallen
   vrijvallen
   wegvallen
-
-werken
-  achterwerken
-  afwerken
-  bewerken
-  bijwerken
-  binnenwerken
-  doorwerken
-  herwerken
-  inwerken
-  loswerken
-  meewerken
-  nawerken
-  omwerken
-  opwerken
-  overwerken
-  samenwerken
-  tegenwerken
-  toewerken
-  uitwerken
-  verwerken
-  voorwerken
-  wegwerken
-  werken
-  zwartwerken
 
 stellen
   aanstellen
@@ -1035,6 +1037,22 @@ gooien
   volgooien
   weggooien
 
+stemmen
+  afstemmen
+  bestemmen
+  herstemmen
+  instemmen
+  meestemmen
+  ontstemmen
+  overstemmen
+  stemmen
+  tegenstemmen
+  toestemmen
+  verstemmen
+  voorbestemmen
+  voorstemmen
+  wegstemmen
+
 snijden
   aansnijden
   afsnijden
@@ -1283,21 +1301,6 @@ leven
   samenleven
   toeleven
   uitleven
-
-stemmen
-  afstemmen
-  bestemmen
-  herstemmen
-  instemmen
-  meestemmen
-  ontstemmen
-  overstemmen
-  stemmen
-  tegenstemmen
-  toestemmen
-  verstemmen
-  voorstemmen
-  wegstemmen
 
 stoten
   aanstoten
@@ -1628,6 +1631,19 @@ zoeken
   verzoeken
   zoeken
 
+richten
+  aanrichten
+  africhten
+  berichten
+  herrichten
+  inrichten
+  onderrichten
+  oprichten
+  richten
+  uitrichten
+  verrichten
+  voorberichten
+
 vragen
   aanvragen
   afvragen
@@ -1818,18 +1834,6 @@ kleden
   opkleden
   uitkleden
   verkleden
-
-richten
-  aanrichten
-  africhten
-  berichten
-  herrichten
-  inrichten
-  onderrichten
-  oprichten
-  richten
-  uitrichten
-  verrichten
 
 vangen
   aanvangen
@@ -2309,6 +2313,17 @@ voegen
   vervoegen
   voegen
 
+schikken
+  aanschikken
+  beschikken
+  herschikken
+  inschikken
+  onderschikken
+  opschikken
+  schikken
+  verschikken
+  voorbeschikken
+
 zuigen
   aanzuigen
   afzuigen
@@ -2385,6 +2400,17 @@ kenden
   ontkenden
   toekenden
   verkenden
+
+schikten
+  aanschikten
+  beschikten
+  herschikten
+  inschikten
+  onderschikten
+  opschikten
+  schikten
+  verschikten
+  voorbeschikten
 
 smeerden
   aansmeerden
@@ -2704,16 +2730,6 @@ vechten
   vechten
   vrijvechten
 
-schikken
-  aanschikken
-  beschikken
-  herschikken
-  inschikken
-  onderschikken
-  opschikken
-  schikken
-  verschikken
-
 kruipen
   bekruipen
   doorkruipen
@@ -2903,16 +2919,6 @@ vochten
   uitvochten
   vochten
   vrijvochten
-
-schikten
-  aanschikten
-  beschikten
-  herschikten
-  inschikten
-  onderschikten
-  opschikten
-  schikten
-  verschikten
 
 baden
   aanbaden
@@ -3615,6 +3621,15 @@ houdingen
   uithoudingen
   verhoudingen
 
+handelingen
+  afhandelingen
+  behandelingen
+  handelingen
+  mishandelingen
+  onderhandelingen
+  verhandelingen
+  voorbehandelingen
+
 leggingen
   afleggingen
   beleggingen
@@ -4213,6 +4228,14 @@ heffen
   opheffen
   verheffen
 
+dingen
+  afdingen
+  bedingen
+  dingen
+  meedingen
+  verdingen
+  voorbedingen
+
 grenzen
   afgrenzen
   begrenzen
@@ -4437,14 +4460,6 @@ vormingen
   vervormingen
   vormingen
 
-handelingen
-  afhandelingen
-  behandelingen
-  handelingen
-  mishandelingen
-  onderhandelingen
-  verhandelingen
-
 helpen
   afhelpen
   behelpen
@@ -4500,6 +4515,14 @@ keringen
   omkeringen
   uitkeringen
   verkeringen
+
+stemmingen
+  afstemmingen
+  bestemmingen
+  instemmingen
+  stemmingen
+  toestemmingen
+  voorbestemmingen
 
 kenningen
   erkenningen
@@ -4645,6 +4668,14 @@ reikten
   toereikten
   uitreikten
 
+dongen
+  afdongen
+  bedongen
+  dongen
+  meedongen
+  voldongen
+  voorbedongen
+
 veegden
   aanveegden
   afveegden
@@ -4652,6 +4683,14 @@ veegden
   uitveegden
   veegden
   wegveegden
+
+hoeden
+  achterhoeden
+  behoeden
+  hoeden
+  verhoeden
+  voorbehoeden
+  voorhoeden
 
 zeggingen
   aanzeggingen
@@ -4942,6 +4981,13 @@ prijzen
   misprijzen
   prijzen
 
+schouwen
+  aanschouwen
+  beschouwen
+  schouwen
+  toeschouwen
+  voorbeschouwen
+
 wennen
   aanwennen
   afwennen
@@ -5032,13 +5078,6 @@ zinnen
   verzinnen
   volzinnen
   zinnen
-
-dingen
-  afdingen
-  bedingen
-  dingen
-  meedingen
-  verdingen
 
 klimmen
   afklimmen
@@ -5320,13 +5359,6 @@ voegingen
   vervoegingen
   voegingen
 
-stemmingen
-  afstemmingen
-  bestemmingen
-  instemmingen
-  stemmingen
-  toestemmingen
-
 werpingen
   afwerpingen
   onderwerpingen
@@ -5432,6 +5464,13 @@ leenden
   uitleenden
   verleenden
 
+schouwden
+  aanschouwden
+  beschouwden
+  schouwden
+  toeschouwden
+  voorbeschouwden
+
 speurden
   afspeurden
   bespeurden
@@ -5502,13 +5541,6 @@ slikten
   verslikten
   wegslikten
 
-dongen
-  afdongen
-  bedongen
-  dongen
-  meedongen
-  voldongen
-
 hieuwen
   afhieuwen
   hieuwen
@@ -5529,13 +5561,6 @@ spanningen
   ontspanningen
   spanningen
   uitspanningen
-
-hoeden
-  achterhoeden
-  behoeden
-  hoeden
-  verhoeden
-  voorhoeden
 
 dekkingen
   afdekkingen
@@ -6198,12 +6223,6 @@ letten
   opletten
   verletten
 
-schouwen
-  aanschouwen
-  beschouwen
-  schouwen
-  toeschouwen
-
 perken
   afperken
   beperken
@@ -6546,6 +6565,12 @@ wachtten
   verwachtten
   wachtten
 
+sprekingen
+  aansprekingen
+  besprekingen
+  versprekingen
+  voorbesprekingen
+
 betalingen
   aanbetalingen
   afbetalingen
@@ -6594,6 +6619,12 @@ hemden
   overhemden
   zwarthemden
 
+schikkingen
+  beschikkingen
+  onderschikkingen
+  schikkingen
+  voorbeschikkingen
+
 deuren
   achterdeuren
   deuren
@@ -6617,6 +6648,12 @@ wikkelingen
   ontwikkelingen
   verwikkelingen
   wikkelingen
+
+schouwingen
+  aanschouwingen
+  beschouwingen
+  schouwingen
+  voorbeschouwingen
 
 lijken
   achterlijken
@@ -6845,12 +6882,6 @@ grensden
   begrensden
   grensden
   omgrensden
-
-schouwden
-  aanschouwden
-  beschouwden
-  schouwden
-  toeschouwden
 
 stalen
   bestalen
@@ -7163,6 +7194,12 @@ schaven
   beschaven
   bijschaven
   schaven
+
+hoedden
+  behoedden
+  hoedden
+  verhoedden
+  voorbehoedden
 
 zomen
   afzomen
@@ -8147,6 +8184,11 @@ bereiden
   toebereiden
   voorbereiden
 
+reiden
+  bereiden
+  reiden
+  voorbereiden
+
 lonen
   belonen
   lonen
@@ -8632,11 +8674,6 @@ merkingen
   bemerkingen
   opmerkingen
 
-sprekingen
-  aansprekingen
-  besprekingen
-  versprekingen
-
 beeldingen
   afbeeldingen
   inbeeldingen
@@ -8667,11 +8704,6 @@ goden
   goden
   weergoden
 
-schikkingen
-  beschikkingen
-  onderschikkingen
-  schikkingen
-
 kondigingen
   aankondigingen
   afkondigingen
@@ -8681,11 +8713,6 @@ dieningen
   bedieningen
   indieningen
   toedieningen
-
-schouwingen
-  aanschouwingen
-  beschouwingen
-  schouwingen
 
 tuigingen
   aftuigingen
@@ -9556,11 +9583,6 @@ goochelden
   begoochelden
   goochelden
   ontgoochelden
-
-hoedden
-  behoedden
-  hoedden
-  verhoedden
 
 oplopen
   achteroplopen
@@ -11921,10 +11943,6 @@ redderen
   beredderen
   redderen
 
-reiden
-  bereiden
-  reiden
-
 schimpen
   beschimpen
   schimpen
@@ -12356,6 +12374,10 @@ uwen
 varingen
   aanvaringen
   ervaringen
+
+elden
+  beelden
+  voorbeelden
 
 palingen
   bepalingen
@@ -13233,6 +13255,10 @@ pandden
   pandden
   verpandden
 
+reidden
+  bereidden
+  voorbereidden
+
 wondden
   verwondden
   wondden
@@ -13552,6 +13578,10 @@ vloten
 zekerden
   verzekerden
   zekerden
+
+reidingen
+  bereidingen
+  voorbereidingen
 
 vaderen
   vaderen
@@ -20061,3 +20091,1028 @@ dauwen
   bedauwen
   dauwen
 
+
+----------------
+
+komen
+  aangekomen
+  achteraankomen
+  achteromgekomen
+  achteromkomen
+  achteropgekomen
+  achteropkomen
+  afgekomen
+  afikomen
+  arbeidsinkomen
+  basisinkomen
+  bijeengekomen
+  bijeenkomen
+  bijgekomen
+  binnengekomen
+  bovengekomen
+  bovenkomen
+  buitengekomen
+  buitenkomen
+  doorgekomen
+  gekomen
+  gereedgekomen
+  gereedkomen
+  gezinsinkomen
+  heenkomen
+  ingekomen
+  klaargekomen
+  klaarkomen
+  langsgekomen
+  langskomen
+  losgekomen
+  maandinkomen
+  meegekomen
+  middeninkomen
+  nabijgekomen
+  nabijkomen
+  nagekomen
+  neergekomen
+  norminkomen
+  omgekomen
+  omhooggekomen
+  omhoogkomen
+  onvolkomen
+  opgekomen
+  overeengekomen
+  overeenkomen
+  overgekomen
+  rondgekomen
+  rondkomen
+  samengekomen
+  tegemoetgekomen
+  tegemoetkomen
+  tegengekomen
+  tekortgekomen
+  tekortkomen
+  terechtgekomen
+  terechtkomen
+  teruggekomen
+  terugkomen
+  thuisgekomen
+  thuiskomen
+  toegekomen
+  topinkomen
+  tussengekomen
+  tussenkomen
+  uitgekomen
+  vervangingsinkomen
+  verwelkomen
+  verzamelinkomen
+  volgekomen
+  voorbijgekomen
+  voorbijkomen
+  voorgekomen
+  voortgekomen
+  voortkomen
+  vooruitgekomen
+  vooruitkomen
+  vrijgekomen
+  wedergekomen
+  wederkomen
+  weergekomen
+  weeromgekomen
+  weeromkomen
+  weggekomen
+  welgekomen
+lopen
+  aangelopen
+  aangeslopen
+  aanslopen
+  achtergelopen
+  achternagelopen
+  achternalopen
+  achteropgelopen
+  achteroplopen
+  achteruitgelopen
+  achteruitlopen
+  afgelopen
+  antilopen
+  beeklopen
+  beslopen
+  bijgelopen
+  binnengelopen
+  binnengeslopen
+  binnenslopen
+  bloeddoorlopen
+  bloedsomlopen
+  boslopen
+  braaklopen
+  bufferoverlopen
+  crosslopen
+  cyclopen
+  dichtgelopen
+  dichtlopen
+  doodgelopen
+  doodlopen
+  dooreengelopen
+  dooreenlopen
+  doorgelopen
+  drooggelopen
+  drooglopen
+  duurlopen
+  estafettelopen
+  galopen
+  gelijkgelopen
+  gelijklopen
+  gelopen
+  geslopen
+  hardgelopen
+  hardlopen
+  heengelopen
+  heenlopen
+  heetgelopen
+  heetlopen
+  hindernislopen
+  hordelopen
+  ingelopen
+  ingeslopen
+  inslopen
+  klapgelopen
+  klaplopen
+  koolstofkringlopen
+  kringlopen
+  kroeglopen
+  kussenslopen
+  landlopen
+  langsgelopen
+  langslopen
+  leeggelopen
+  leeglopen
+  levenslopen
+  losgelopen
+  marathonlopen
+  meegelopen
+  misgelopen
+  naaktgelopen
+  naaktlopen
+  nagelopen
+  nageslopen
+  naslopen
+  omgelopen
+  omhooggelopen
+  omhooglopen
+  omvergelopen
+  omverlopen
+  ondergelopen
+  opgelopen
+  overgelopen
+  overhoopgelopen
+  overhooplopen
+  platgelopen
+  platlopen
+  robotwedlopen
+  rondgelopen
+  rondgeslopen
+  rondlopen
+  rondslopen
+  samengelopen
+  skigelopen
+  skilopen
+  slopen
+  sponsorlopen
+  steltlopen
+  stierenlopen
+  stormgelopen
+  stormlopen
+  stukgelopen
+  stuklopen
+  teruggelopen
+  teruglopen
+  toegelopen
+  traplopen
+  trimlopen
+  tweelopen
+  uiteengelopen
+  uiteenlopen
+  uitgelopen
+  vastgelopen
+  veldlopen
+  verdergelopen
+  verderlopen
+  volgelopen
+  voorbijgelopen
+  voorbijlopen
+  voorgelopen
+  vooropgelopen
+  vooroplopen
+  vooruitgelopen
+  vooruitlopen
+  vrijgelopen
+  wachtgelopen
+  wachtlopen
+  wadlopen
+  wapenwedlopen
+  warmgelopen
+  warmlopen
+  waterkringlopen
+  waterlopen
+  wedlopen
+  weggelopen
+  weggeslopen
+  wegslopen
+  zakkenlopen
+  zaklopen
+  zettenverlopen
+  ziektebelopen
+  ziekteverlopen
+houden
+  aaneengehouden
+  aaneenhouden
+  aangehouden
+  achtergehouden
+  afgehouden
+  beetgehouden
+  beethouden
+  beziggehouden
+  bezighouden
+  bijeengehouden
+  bijeenhouden
+  bijgehouden
+  binnengehouden
+  boekgehouden
+  boekhouden
+  bovengehouden
+  bovenhouden
+  celinhouden
+  cilinderinhouden
+  dichtgehouden
+  dichthouden
+  doodgehouden
+  doodhouden
+  drooggehouden
+  drooghouden
+  eenpersoonshuishouden
+  geheimgehouden
+  geheimhouden
+  gehouden
+  gereedgehouden
+  gereedhouden
+  gevangengehouden
+  gevangenhouden
+  goedgehouden
+  grootgehouden
+  groothouden
+  hooggehouden
+  hooghouden
+  huisgehouden
+  huishouden
+  ingehouden
+  kermishouden
+  lesinhouden
+  maaginhouden
+  maatgehouden
+  maathouden
+  nagehouden
+  natgehouden
+  nathouden
+  nedergehouden
+  nederhouden
+  omgehouden
+  omhooggehouden
+  omhooghouden
+  ondergehouden
+  opengehouden
+  openhouden
+  opgehouden
+  oponthouden
+  overgehouden
+  registerinhouden
+  schoongehouden
+  schoonhouden
+  schuilgehouden
+  schuilhouden
+  standgehouden
+  standhouden
+  stilgehouden
+  stilhouden
+  tegengehouden
+  teruggehouden
+  terughouden
+  thuisgehouden
+  thuishouden
+  tweepersoonshuishouden
+  uitgehouden
+  vastgehouden
+  volgehouden
+  voorgehouden
+  vrijgehouden
+  weggehouden
+  zorginhouden
+gaan
+  aangegaan
+  achternagaan
+  achternagegaan
+  achteruitgaan
+  achteruitgegaan
+  ademhalingsorgaan
+  adviesorgaan
+  afgegaan
+  bedieningsorgaan
+  beroepsorgaan
+  bestuursorgaan
+  binnengegaan
+  buitengaan
+  buitengegaan
+  dichtgaan
+  dichtgegaan
+  diepgaan
+  diepgegaan
+  donororgaan
+  doodgaan
+  doodgegaan
+  doorgegaan
+  evenwichtsorgaan
+  galigaan
+  gegaan
+  geslachtsorgaan
+  heengaan
+  heengegaan
+  higaan
+  ingegaan
+  kapotgaan
+  kapotgegaan
+  langsgaan
+  langsgegaan
+  losgegaan
+  mangaan
+  meegegaan
+  misgegaan
+  nagegaan
+  neergegaan
+  omgegaan
+  omhooggaan
+  omhooggegaan
+  omlaaggaan
+  omlaaggegaan
+  onbegaan
+  ondergegaan
+  onderuitgaan
+  onderuitgegaan
+  opengaan
+  opengegaan
+  opgegaan
+  orgaan
+  overgegaan
+  overlegorgaan
+  pangalagaan
+  reukorgaan
+  rondgaan
+  rondgegaan
+  samengegaan
+  schoolgaan
+  schoolgegaan
+  schuilgaan
+  schuilgegaan
+  slapengaan
+  spraakorgaan
+  stukgaan
+  stukgegaan
+  tegengegaan
+  tekeergaan
+  tekeergegaan
+  teloorgaan
+  teloorgegaan
+  tenietgaan
+  tenietgegaan
+  teruggaan
+  teruggegaan
+  toegegaan
+  uiteengaan
+  uiteengegaan
+  uitgegaan
+  verdergaan
+  verdergegaan
+  voorafgaan
+  voorafgegaan
+  voorbijgaan
+  voorbijgegaan
+  voorgegaan
+  vooropgaan
+  vooropgegaan
+  voortgaan
+  voortgegaan
+  voortplantingsorgaan
+  vooruitgaan
+  vooruitgegaan
+  vreemdgaan
+  vreemdgegaan
+  weggegaan
+  wijkopbouworgaan
+werken
+  aardewerken
+  aardwerken
+  ambachtswerken
+  bankwerken
+  banwerken
+  beeldhouwwerken
+  benenwerken
+  beukwerken
+  beulswerken
+  bindwerken
+  blussingwerken
+  bluswerken
+  boekwerken
+  bolwerken
+  bouwwerken
+  breiwerken
+  broddelwerken
+  bronswerken
+  compilatiewerken
+  computernetwerken
+  dagwerken
+  dakwerken
+  datanetwerken
+  datumuurwerken
+  deeltijdwerken
+  denkwerken
+  dichtwerken
+  distributienetwerken
+  doodwerken
+  drijfwerken
+  drukwerken
+  duwwerken
+  eindwerken
+  elektriciteitsnetwerken
+  etswerken
+  fietsknooppuntennetwerken
+  fietsnetwerken
+  fietsroutenetwerken
+  flexwerken
+  fotowerken
+  gemeentewerken
+  gietwerken
+  graafwerken
+  grijswerken
+  grondwerken
+  haakwerken
+  handwerken
+  heilswerken
+  heiwerken
+  heksenwerken
+  hekwerken
+  herculeswerken
+  hoofdwerken
+  houtsnijwerken
+  ijzerwerken
+  inpakwerken
+  invalwerken
+  irrigatiewerken
+  jaarwerken
+  jeugdwerken
+  jongerenwerken
+  kabelnetwerken
+  kantwerken
+  kinderwerken
+  kladwerken
+  klassewerken
+  knalwerken
+  knoeiwerken
+  knutselwerken
+  koeliewerken
+  koetswerken
+  koorwerken
+  kopwerken
+  kruimelwerken
+  kunstwerken
+  kwartsuurwerken
+  lakwerken
+  lapwerken
+  laswerken
+  latwerken
+  levenswerken
+  liefdewerken
+  lofwerken
+  loofwerken
+  loopwerken
+  luiwerken
+  maaswerken
+  mannenwerken
+  medewerken
+  meerwerken
+  meesterwerken
+  mensenwerken
+  metselwerken
+  nachtwerken
+  naslagwerken
+  netwerken
+  onderhoudswerken
+  ontwikkelingswerken
+  opbouwwerken
+  openwerken
+  oplapwerken
+  paalwerken
+  pakwerken
+  pelswerken
+  peuterwerken
+  pianowerken
+  plaatwerken
+  plakwerken
+  plateelwerken
+  pleisterwerken
+  politiewerken
+  prikwerken
+  printwerken
+  proefwerken
+  prozawerken
+  prulwerken
+  prutswerken
+  puzzelwerken
+  raamwerken
+  raderwerken
+  rasterwerken
+  rekenwerken
+  remmingswerken
+  reukwerken
+  roerwerken
+  satellietnetwerken
+  schilderwerken
+  slavenwerken
+  slingeruurwerken
+  smeedwerken
+  smidswerken
+  smoelwerken
+  snijwerken
+  snoeiwerken
+  solowerken
+  speelwerken
+  speurwerken
+  spuitwerken
+  standaardwerken
+  sternetwerken
+  stikwerken
+  stopwerken
+  strafwerken
+  suikerbakkerswerken
+  suikerwerken
+  tekenwerken
+  tekstverwerken
+  telecommunicatienetwerken
+  telefoonnetwerken
+  televisienetwerken
+  telewerken
+  telwerken
+  terreurnetwerken
+  terugwerken
+  thuisnetwerken
+  thuiswerken
+  tikwerken
+  tilwerken
+  tinwerken
+  titanenwerken
+  topwerken
+  transportnetwerken
+  typewerken
+  typwerken
+  uitzendwerken
+  uurwerken
+  vakwerken
+  veldwerken
+  verdedigingswerken
+  verfwerken
+  vervoersnetwerken
+  vestingwerken
+  vlechtwerken
+  vliegwerken
+  voegwerken
+  vouwwerken
+  vrouwenwerken
+  vuurwerken
+  wandelnetwerken
+  wandelroutenetwerken
+  waterbouwwerken
+  waterleidingnetwerken
+  wateruurwerken
+  waterwerken
+  weefwerken
+  wegenwerken
+  wijkwerken
+  wonderwerken
+  woonwagenwerken
+  zakuurwerken
+  zendelingswerken
+  zendingswerken
+  zetwerken
+  zilverwerken
+  zoekwerken
+doen
+  boosdoen
+  dichtdoen
+  dienstdoen
+  dooddoen
+  nietsdoen
+  opendoen
+  pardoen
+  tekortdoen
+  tenietdoen
+  terugdoen
+  voortdoen
+  weldoen
+  zakendoen
+vallen
+  aangevallen
+  achterovergevallen
+  achterovervallen
+  afgevallen
+  aftrekaanvallen
+  aidsgevallen
+  angstaanvallen
+  arbeidsongevallen
+  atoomaanvallen
+  bankovervallen
+  bedrijfsongevallen
+  beroepsongevallen
+  betrouwbaarheidsintervallen
+  bijgevallen
+  binnengevallen
+  bouwvallen
+  buitenspelvallen
+  busongevallen
+  cyberaanvallen
+  dementiegevallen
+  dichtgevallen
+  dichtvallen
+  doodgevallen
+  doodvallen
+  droneaanvallen
+  drooggevallen
+  droogvallen
+  drukvallen
+  flauwgevallen
+  flauwvallen
+  fokkenvallen
+  gevallen
+  grensgevallen
+  grootzeilvallen
+  haaienaanvallen
+  hackeraanvallen
+  hagelvallen
+  hartaanvallen
+  huidkankergevallen
+  ijsvallen
+  ingevallen
+  intervallen
+  kernaanvallen
+  kernongevallen
+  klauwvallen
+  knievallen
+  koersvallen
+  lastiggevallen
+  lastigvallen
+  lotgevallen
+  luchtaanvallen
+  meegevallen
+  meervallen
+  mesaanvallen
+  misgevallen
+  muizenvallen
+  naamvallen
+  neergevallen
+  nokkevallen
+  noodgevallen
+  omgevallen
+  ongevallen
+  opengevallen
+  openvallen
+  opgevallen
+  overgevallen
+  paniekaanvallen
+  pantsermeervallen
+  pechgevallen
+  piekevallen
+  probleemgevallen
+  roofovervallen
+  samengevallen
+  schadegevallen
+  slaapaanvallen
+  smurfaanvallen
+  spoedgevallen
+  spraakwatervallen
+  sterfgevallen
+  stilgevallen
+  stilvallen
+  stroomuitvallen
+  tegenaanvallen
+  tegengevallen
+  teruggevallen
+  terugvallen
+  tijdsintervallen
+  toegevallen
+  toeristenvallen
+  tongvallen
+  toonvallen
+  trouwgevallen
+  twijfelgevallen
+  uiteengevallen
+  uiteenvallen
+  uitgevallen
+  vergeldingsaanvallen
+  verkeersongevallen
+  verrassingsaanvallen
+  voorgevallen
+  voorovergevallen
+  voorovervallen
+  vrijgevallen
+  watervallen
+  watervervallen
+  weggevallen
+  welgevallen
+  woedeaanvallen
+  woordenlijstaanvallen
+  zeilvallen
+  zelfmoordaanvallen
+  zenuwaanvallen
+  ziektegevallen
+  zondevallen
+stellen
+  abbestellen
+  achtergestellen
+  afbestellen
+  bankstellen
+  beendergestellen
+  begrotingsvoorstellen
+  belangstellen
+  beleidsvoorstellen
+  bestandsvoorstellen
+  blootstellen
+  crankstellen
+  darstellen
+  destilleertoestellen
+  distilleertoestellen
+  draaischijftoestellen
+  drumstellen
+  einstellen
+  fototoestellen
+  gasstellen
+  gelijkstellen
+  geruststellen
+  gestellen
+  homostellen
+  hoofdgestellen
+  hoofdstellen
+  hoortoestellen
+  initiatiefvoorstellen
+  initiatiefwetsvoorstellen
+  kipptoestellen
+  kookstellen
+  landingsgestellen
+  lijntoestellen
+  mastellen
+  metrostellen
+  mistellen
+  nabestellen
+  omroepbestellen
+  onderzoekstoestellen
+  openstellen
+  paardenhoofdstellen
+  pastellen
+  radiotoestellen
+  roerstellen
+  schadeloosstellen
+  soxhlettoestellen
+  speeltoestellen
+  staatsbestellen
+  tegenoverstellen
+  tegenvoorstellen
+  telefoontoestellen
+  televisietoestellen
+  tentoonstellen
+  terechtstellen
+  tevredenstellen
+  tewerkstellen
+  tramstellen
+  treinstellen
+  veiligstellen
+  veronderstellen
+  vooronderstellen
+  vooropstellen
+  voortbewegingstoestellen
+  vorstellen
+  wasstellen
+  waterpastoestellen
+  wetsvoorstellen
+  wielstellen
+  yuppenstellen
+  zenuwgestellen
+  zuurstellen
+  zweeftoestellen
+trekken
+  bekkentrekken
+  dekbedovertrekken
+  dichttrekken
+  familietrekken
+  fietsaftrekken
+  ganstrekken
+  gelaatstrekken
+  gelijktrekken
+  heentrekken
+  karaktertrekken
+  kinderaftrekken
+  kromtrekken
+  kussenovertrekken
+  langstrekken
+  lijntrekken
+  omhoogtrekken
+  omvertrekken
+  opentrekken
+  palingtrekken
+  partijtrekken
+  rechttrekken
+  rondtrekken
+  schatvertrekken
+  staatsievertrekken
+  straktrekken
+  strekken
+  stuiptrekken
+  terugtrekken
+  touwtrekken
+  uitrekken
+  uitstrekken
+  verstrekken
+  volstrekken
+  voorbijtrekken
+  voorttrekken
+  woonvertrekken
+  worteltrekken
+  zelfstandigenaftrekken
+  zenuwtrekken
+slagen
+  aangeslagen
+  achterovergeslagen
+  achteruitgeslagen
+  afgeslagen
+  armslagen
+  beeldverslagen
+  belastingaanslagen
+  belegslagen
+  beraadslagen
+  bestuurslagen
+  blikseminslagen
+  bomaanslagen
+  bominslagen
+  booromslagen
+  compressieslagen
+  concurrentieslagen
+  cultuuromslagen
+  damslagen
+  deeltijdontslagen
+  dichtgeslagen
+  donderslagen
+  doodgeslagen
+  doodslagen
+  doorgeslagen
+  dubbelgeslagen
+  dubbelslagen
+  dwarslagen
+  energieopslagen
+  fijngeslagen
+  gadegeslagen
+  gaslagen
+  genadeslagen
+  geslagen
+  gevarentoeslagen
+  gezinsbijslagen
+  glottisslagen
+  golfslagen
+  grenslagen
+  grondslagen
+  hartslagen
+  hoefslagen
+  honkslagen
+  huiduitslagen
+  huishoudentoeslagen
+  humuslagen
+  huurtoeslagen
+  ijslagen
+  ineengeslagen
+  ingeslagen
+  inhaalslagen
+  jaarverslagen
+  kaakslagen
+  kaalgeslagen
+  kalkaanslagen
+  kanonslagen
+  kapotgeslagen
+  karateslagen
+  kinderbijslagen
+  kinderdoodslagen
+  kinderopvangtoeslagen
+  klokslagen
+  koortsuitslagen
+  kwartslagen
+  kwinkslagen
+  laboratoriumuitslagen
+  lamgeslagen
+  losgeslagen
+  manslagen
+  misgeslagen
+  mokerslagen
+  moordaanslagen
+  moslagen
+  nageslagen
+  neergeslagen
+  nekslagen
+  noodopslagen
+  omgeslagen
+  omhooggeslagen
+  omvergeslagen
+  onderzoeksverslagen
+  ongeslagen
+  onverslagen
+  oogopslagen
+  opengeslagen
+  opgeslagen
+  overgeslagen
+  papierslagen
+  platgeslagen
+  polsslagen
+  prestigeslagen
+  puntslagen
+  radslagen
+  ridderslagen
+  rugslagen
+  scheefgeslagen
+  schoolslagen
+  slijtageslagen
+  sportuitslagen
+  stokslagen
+  stootslagen
+  stukgeslagen
+  tandaanslagen
+  terneergeslagen
+  terreuraanslagen
+  teruggeslagen
+  terugslagen
+  toegeslagen
+  toetsaanslagen
+  toverslagen
+  tweeslagen
+  uiteengeslagen
+  uitgeslagen
+  vakantietoeslagen
+  vastgeslagen
+  veldslagen
+  vertaalslagen
+  vetopslagen
+  vinkenslagen
+  visafslagen
+  vleugelslagen
+  vlinderslagen
+  voorgeslagen
+  vuistslagen
+  waslagen
+  waterstofopslagen
+  weggeslagen
+  welslagen
+  wisselslagen
+  woonkostentoeslagen
+  zeeslagen
+  zelfmoordaanslagen
+  zonneslagen
+  zorgtoeslagen
+  zuigerslagen
+  zwaardslagen
+  zweepslagen
+  zwemslagen
+geven
+  aangegeven
+  afgegeven
+  basisgegeven
+  bijgegeven
+  blootgegeven
+  blootgeven
+  doorgegeven
+  gegeven
+  heruitgegeven
+  heruitgeven
+  ingegeven
+  leidinggegeven
+  leidinggeven
+  lesgegeven
+  lesgeven
+  meegegeven
+  nagegeven
+  omgegeven
+  opgegeven
+  overgegeven
+  prijsgegeven
+  prijsgeven
+  rondgegeven
+  rondgeven
+  teruggegeven
+  teruggeven
+  toegegeven
+  uitgegeven
+  verslaggeven
+  voorgegeven
+  vormgegeven
+  vormgeven
+  vrijgegeven
+  weergegeven
+  weggegeven
+  werkgeven
+  wetgeven

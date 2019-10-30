@@ -1,7 +1,7 @@
 import string
 
 WIKI_BESTAND = '/Users/tom/Downloads/\
-nlwiktionary-20191001-pages-articles-multistream-index.txt'
+nlwiktionary-20191020-pages-articles-multistream-index.txt'
 WOORD_BESTAND = 'woord-frequenties.txt'
 SLECHT_BESTAND = 'slechte-woorden.txt'
 
@@ -13,10 +13,12 @@ MIN_ACHTERVOEGSEL = 4
 VOORVOEGSELS = (
     'aan',
     'achter',
+    'achterop',
     'af',
     'be',
     'bij',
     'binnen',
+    'boven',
     'door',
     'er',
     'goed',
@@ -36,6 +38,7 @@ VOORVOEGSELS = (
     'tegen',
     'teleur',
     'toe',
+    'tussen',
     'uit',
     'vast',
     'ver',
@@ -102,13 +105,29 @@ def werkwoorden(woorden):
 def druck_werkwoorden(werkwoorden):
     for i, (k, v) in enumerate(werkwoorden):
         print(k)
-        if not False:
-            for j in v:
-                print(' ', j)
-            print()
+        for j in v:
+            print(' ', j)
+        print()
         if i > AANTAL:
             break
 
 
+def classic_extract():
+    wiki = list(wikitionary())
+    ww = werkwoorden(wiki)
+    druck_werkwoorden(ww)
+    print()
+    print('----------------')
+    print()
+
+    for i, (k, v) in enumerate(ww):
+        if i > 10:
+            break
+        words = set(w for w in wiki if w.endswith(k))
+        print(k)
+        for missing in sorted(words.difference(v)):
+            print(' ', missing)
+
+
 if __name__ == '__main__':
-    druck_werkwoorden(werkwoorden(wikitionary()))
+    classic_extract()
