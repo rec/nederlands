@@ -13,12 +13,31 @@ def wikitionary():
             yield woord
 
 
-def hex_woorden():
-    counts = [0, 0]
+def schrijf_alles():
     for woord in wikitionary():
-        counts[is_hex(woord)] += 1
-    print(counts[1], '/', counts[0], '=', counts[1] / counts[0])
+        print(woord)
+
+
+def hex_woorden(woorden):
+    counts = [[0, 0], [0, 0]]
+    for woord in woorden:
+        woord = woord.strip()
+        seven = len(woord) == 7
+        hx = is_hex(woord)
+        counts[seven][hx] += 1
+        if hx:
+            print('!' if seven else ' ', woord)
+
+        # acceded
+        # deceded
+        # defaced
+        # effaced
+
+    for c in counts:
+        print(c[1], '/', c[0], '=', c[1] / c[0])
 
 
 if __name__ == '__main__':
-    classic_extract()
+    hex_woorden(open('engelse_woorden.txt'))
+    # hex_woorden(wikitionary())
+    # schrijf_alles()
