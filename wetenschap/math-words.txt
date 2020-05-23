@@ -1,0 +1,160 @@
+aftrekken, to subtract
+de achthoek, the octagon
+de afgeleide, the derivative
+de afhankelijke variabele, the dependent variable
+de afstand, the distance
+de as, the axis
+de benadering, the approximation
+de beoordeling, the rate
+de bol, the sphere
+de brandpunt van de ellips, the focus of the ellipse
+de breuk, the fraction
+de constante, the constant
+de cosinus, the cosine
+de divisie, the division
+de dodecaëder, the dodecahedron
+de driehoek, the triangle
+de eenheid, the unit
+de ellips, the ellipse
+de ellipsoïde, the ellipsoid
+de engel, the angle
+de formule, the formula
+de frequentie, the frequency
+de functie, the function
+de geometrie, the geometry
+de getaltheorie, the number theory
+de graad, the degree
+de gradenboog, the protractor
+de graaf, the graph
+de grootste gemene deler, the greatest common division
+de gulden snede, the golden ratio
+de haakjes, the parenthesis
+de helft, the half
+de hoeveelheid, the quantity
+de hyperbool, the hyperbola
+de hypotenusa, the hypotenuse
+de identiteit, the indentity
+de integraal, the integral
+de isoceles-driehoek, the isoceles triangle
+de juiste hoek, the right angle
+de kans, the probability
+de kegelsnede, the conic section
+de kleinste gemene veelvoud, the least common multiple
+de kubus, the cube
+de kubuswortel, the cube root
+de kwadratische vergelijking, the quadratic equation
+de lege set, the empty set
+de lengte, the length
+de lijn, the line
+de liniaal, the ruler
+de logica, the logic
+de maatregel, the measure
+de mediaan, the median
+de noemer, the denominator
+de normale verdeling, the normal distribution
+de octaëder, the octahedron
+de omtrek, the circumference
+de onafhankelijke variabele, the independent variable
+de ondergrens, the lower bound
+de oneindigheid, the infinity
+de oorsprong, the origin
+de oplossing, the solution
+de parabool, the parabola
+de periodieke functie, the periodic function
+de raaklijn, the tangent
+de rechte lijn, the straight line
+de recursie, the recursion
+de reflecteerhoek, the reflect angle
+de reguliere veelhoek, the regular polygon
+de scherpe hoek, the acute angle
+de sinus, the sine
+de standaardafwijking, the standard deviation
+de statistieken, the statistics
+de stompe hoek, the obtuse angle
+de tegenstelling, the contradiction
+de teller, the numerator
+de tetraëder, the tetrahedron
+de toevoeging, the addition
+de trigonometrie, the trigonometry
+de vakbond, the union
+de variabele, the variable
+de vaste stof, the solid
+de vergelijking, the equation
+de vermenigvuldiging, the multiplication
+de vermenigvuldigingstabel, the multiplication table
+de vierhoek, the quadrilateral
+de vierkantswortel, the square root
+de wiskunde, the mathematics
+de zeshoek, the hexagon
+de zevenhoek, the heptagon
+deelbaar, divisible
+delen, to divide
+een ​​breuk te vereenvoudigen, to simplify a fraction
+exponentiële, exponential
+factorisatie, factorization
+factoriseren, to factorize
+gelijk aan, equal to
+gelijken, to equal
+gelijkzijdig, equilateral
+groter dan, greater than
+het Cartesisch coördinaat, the cartesian coordinate
+het Romeinse cijfer, the Roman numeral
+het aftrekken, the subtraction
+het bestelde paar, the ordered pair
+het bewijs, the proof
+het binaire getal, the binary number
+het cijfer, the numeral
+het complexe getal, the complex number
+het denkbeeldige getal, the imaginary number
+het even getal, the even number
+het gebied, the area
+het gehele getal, the integer
+het gelijkteken, the equals sign
+het gemiddelde, the average
+het geometrische gemiddelde, the geometric mean
+het getal, the number
+het harmonische gemiddelde, the harmonic mean
+het hele getal, the whole number
+het hexadecimale getal, the hexadecimal number
+het hoekpunt, the vertex
+het hoofdtelwoord, the cardinal number
+het irrationele getal, the irrational number
+het kompas, the compass
+het kruispunt, the intersection
+het lemma, the lemma
+het logaritme, the logarithm
+het maximum, the maximum
+het minimum, the minimum
+het natuurlijke logaritme, the natural logarithm
+het omgekeerde, the inverse
+het ondertekende getal, the signed number
+het oneven getal, the odd number
+het overblijfsel, the remainder
+het parallellogram, the parallelogram
+het pentagon, the pentagon
+het percentage, the percentage
+het perfecte vierkant, the perfect square
+het polynoom, the polynomial
+het priemgetal, the prime number
+het punt, the point
+het puntproduct, the dot product
+het quotiënt, the quotient
+het rangtelwoord, the ordinal number
+het symbool, the symbol
+het vermoeden, the conjecture
+het vierkant, the square
+het volume, the volume
+horizontaal, horizontal
+in tweeën delen, to bisect
+minder dan, less than
+negatief, negative
+oneindig, infinite
+ongelijk aan, unequal to
+recursieve, recursive
+reflectie, reflection
+verdeelt, divides
+vermenigvuldigen, to multiply
+verticaal, vertical
+voegen, to add
+wederzijds priem, mutually prime
+willekeurig, random

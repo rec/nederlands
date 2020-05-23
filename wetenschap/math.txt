@@ -1,0 +1,336 @@
+divides
+divisible
+equals
+equilateral
+exponential (growth)
+factorization
+greater than
+horizontal
+infinite
+is equal to
+is unequal to
+less than
+mutually prime
+negative
+random
+reciprocal
+recursive
+reflection
+the Roman numeral
+the acute angle
+the addition
+the algebra
+the angle
+the approximation
+the area
+the average
+the axis
+the binary number
+the calculus
+the cardinal number
+the circumference
+the compass
+the complex number
+the conic section
+the conjecture
+the constant
+the contradiction
+the cosecant
+the cosine
+the cotangent
+the cube
+the cube root
+the degree
+the denominator
+the dependent variable
+the derivative
+the diameter
+the distance
+the division
+the dot product
+the ellipse
+the empty set
+the equals sign
+the equation
+the even number
+the factor
+the formula
+the fraction
+the frequency
+the function
+the geometric mean
+the geometry
+the golden ratio
+the graph
+the greatest common division
+the half
+the harmonic mean
+the heptagon
+the hexadecimal number
+the hexagon
+the hyperbola
+the hypotenuse
+the hypothesus
+the imaginary number
+the indentity
+the independent variable
+the infinity
+the integer
+the integral
+the intersection
+the inverse
+the irrational number
+the isoceles triangle
+the least common factor
+the lemma
+the length
+the line
+the logarithm
+the logic
+the lower bound
+the mathematics
+the matrix
+the maximum
+the measure
+the median
+the minimum
+the multiplication
+the multiplication table
+the natural logarithm
+the normal distribution
+the number
+the number theory
+the numeral
+the numerator
+the obtuse angle
+the octagon
+the odd number
+the ordered pair
+the ordinal number
+the origin
+the parabola
+the parallelogram
+the parenthesis
+the pentagon
+the percentage
+the perfect square
+the periodic function
+the point
+the polynomial
+the prime number
+the probability
+the proof
+the proper fraction
+the protractor
+the quadratic equation
+the quadrilateral
+the quantity
+the quotient
+the rate
+the ratio
+the recursion
+the reflect angle
+the regular polygon
+the remainder
+the right angle
+the ruler
+the secant
+the signed number
+the sine
+the solid
+the solution
+the sphere
+the square
+the square root
+the standard deviation
+the statistics
+the straight line
+the subtraction
+the symbol
+the tangent
+the tetrahedron
+the triangle
+the trigonometry
+the union
+the unit
+the variable
+the vector
+the vertex
+the volume
+the whole number
+to add
+to bisect
+to divide
+to factorize
+to multiply
+to simplify a fraction
+to subtract
+vertical
+verdeelt
+deelbaar
+gelijken
+gelijkzijdig
+exponentiële groei)
+factorisatie
+groter dan
+horizontaal
+oneindig
+is gelijk aan
+is ongelijk aan
+minder dan
+wederzijds prime
+negatief
+willekeurig
+wederzijds
+recursieve
+reflectie
+het Romeinse cijfer
+de scherpe hoek
+de toevoeging
+de algebra
+de engel
+de benadering
+het gebied
+het gemiddelde
+de as
+het binaire nummer
+de calculus
+het hoofdtelwoord
+de omtrek
+het Kompas
+het complexe nummer
+de kegelsnede
+het vermoeden
+de constante
+de tegenstelling
+de cosecant
+de cosinus
+de cotangent
+de Kubus
+de kubuswortel
+de graad
+de noemer
+de afhankelijke variabele
+de afgeleide
+de diameter
+de afstand
+de divisie
+het puntproduct
+de ellips
+de lege set
+het gelijkteken
+de vergelijking
+het even nummer
+de factor
+de Formule
+de fractie
+de frequentie
+de functie
+het geometrische gemiddelde
+de geometrie
+de gulden snede
+de grafiek
+de grootste gemeenschappelijke verdeling
+de helft
+het harmonische gemiddelde
+de zevenhoek
+het hexadecimale getal
+de zeshoek
+de hyperbool
+de hypotenusa
+de hypothesus
+het denkbeeldige getal
+de identiteit
+de onafhankelijke variabele
+de oneindigheid
+het gehele getal
+de integraal
+het kruispunt
+het omgekeerde
+het irrationele nummer
+de isoceles-driehoek
+de minst voorkomende factor
+het lemma
+de lengte
+de lijn
+het logaritme
+de logica
+de ondergrens
+de wiskunde
+de matrix
+het maximum
+de maatregel
+de mediaan
+het minimum
+de vermenigvuldiging
+de vermenigvuldigingstabel
+het natuurlijke logaritme
+de normale verdeling
+het nummer
+de getaltheorie
+het cijfer
+de teller
+de stompe hoek
+de achthoek
+het oneven nummer
+het bestelde paar
+het rangtelwoord
+de oorsprong
+de parabool
+het parallellogram
+de haakjes
+het pentagon
+het percentage
+het perfecte vierkant
+de periodieke functie
+het punt
+het polynoom
+het priemgetal
+De kans
+het bewijs
+de juiste fractie
+de gradenboog
+de kwadratische vergelijking
+de vierhoek
+de hoeveelheid
+het quotiënt
+de beoordeling
+de ratio
+de recursie
+de reflecteerhoek
+de reguliere veelhoek
+het overblijfsel
+de juiste hoek
+de liniaal
+de secant
+het ondertekende nummer
+de sinus
+de vaste stof
+de oplossing
+de bol
+het plein
+de vierkantswortel
+de standaardafwijking
+de statistieken
+de rechte lijn
+het aftrekken
+het symbool
+de raaklijn
+de tetraëder
+de driehoek
+de trigonometrie
+de vakbond
+de eenheid
+de variabele
+de vector
+het hoekpunt
+het volume
+het hele nummer
+toevoegen
+in tweeën delen
+verdelen
+factoriseren
+vermenigvuldigen
+om een ​​breuk te vereenvoudigen
+aftrekken
+verticaal
